@@ -13,8 +13,10 @@
         "answerText": "Text for the answer"
     }
 
-    This is then saved in json format.  Possibly.  It might just be easier to have them all as dictionaries with a number
-    as the question.
+    This is then saved in json format as a list of dictionaries.  We don't care how they are ordered and we can search
+    for them based on the answer or the question so that should work.
+
+    Might consume too much memory if we're loading a large database into memory, since we load every question.
 '''
 
 sample_question = {
@@ -23,3 +25,9 @@ sample_question = {
     "answerIndex": 2,
     "answerText": "What do you mean? An African or a European swallow?"
 }
+
+# becomes when put through the json.dumps formatter.
+
+[{"answerIndex": 2, "questions": ["What... is your name?", "What... is your quest?",
+                                  "What... is the air-speed velocity of an unladen swallow?"],
+  "answerText": "What do you mean? An African or a European swallow?"}]

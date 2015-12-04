@@ -1,9 +1,15 @@
 '''
-A class that handles the getting a setting of questions in the databases
+A class that handles the getting a setting of questions in the databases.
+
+Loads the databases and then automagically will provide questions as requested
 '''
 
 
 def QuestionHandler():
+    def __init__(self):
+        # load up all the questions
+        pass
+
     def get_random_question(self):
         pass
 
