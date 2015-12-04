@@ -1,0 +1,55 @@
+
+[
+{
+    "question": "When two aircraft are approaching head-on or approximately so and there is a danger of collision, each shall",
+    "answers": ["alter heading to the right.",
+                "alter heading to the left.",
+                "avoid the other by changing altitude.",
+                "turn on the anti-collision light."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "When two aircraft are converging headings at approximately the same altitude, the aircraft that has the other on its right shall give way except that, gliders shall give way to",
+    "answers": ["rotary wing aircraft.",
+                "'heavy' aeroplanes.",
+                "airships.",
+                "balloons."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "'Controlled Airspace' means an airspace of defined dimensions within which",
+    "answers": ["aircraft must proceed in accordance with a SCATANA clearance.",
+                "an Air Traffic Control (ATC) service is provided.",
+                "only aircraft equipped with functioning two-way radio may operate.",
+                "Control is provided for instrument flight rules (IFR) traffic only."
+                ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "Except for ultra-light aeroplanes, no person shall fly an aircraft in Canada unless",
+    "answers": ["it is registered.",
+                "there is in force with respect to aircraft a Certificate of Airworthiness or a Flight Permit.",
+                "its nationality and registration marks are affixed to the aircraft in a proper manner, and are clear and visible.",
+                "all of the above conditions are met."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "No person shall attempt to fly as a flight crew member of a glider if",
+    "answers": ["less than five take-offs and landings have been completed in the preceding six months.",
+                "within the preceding 12 hours alcohol has been consumed.",
+                "experiencing a physical disability likely to prohibit immediate licence renewal.",
+                "less than five supervised take-offs and landings have been completed in the preceding six months."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!"
+}
+
+
+]
