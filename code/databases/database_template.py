@@ -8,10 +8,15 @@
     Each question should be formatted as a dictionary:
 
     question = {
-        "questions": ["Question 1 text","Question 2 Text", ...],
-        "answerIndex": <index in above array of the answer>,
-        "answerText": "Text for the answer"
+	"question": "The question",
+        "answers": ["Answer 1 text","Answer 2 Text", ...],
+        "correctAnswerIndex": <index in above array of the answer>,
+        "correctAnswerText": "Text for the answer",
+	"questionSource":"A string describing the source"
     }
+
+    Sources should match source of the question.  If you made up the question, include the book you used, page, etc as
+    required to be clear.
 
     This is then saved in json format as a list of dictionaries.  We don't care how they are ordered and we can search
     for them based on the answer or the question so that should work.
