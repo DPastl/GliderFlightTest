@@ -3,15 +3,17 @@ Simple class for formatting the questions out in an easier to use manner
 '''
 
 
-class QuestionClass():
+class QuestionClass(object):
     def __init__(self, question):
         self.question = question
 
     def __str__(self):
-        print self.question["question"]
+        out = self.question["question"]
         answers = self.question["answers"]
-        for x in range(len(answers)):
-            print answers[x]
+        for x,answer in enumerate(answers):
+            num = "{}) ".format(x+1)
+            out = out + "\n" + num + answer
+        return out
 
     def print_answer_text(self):
         try:

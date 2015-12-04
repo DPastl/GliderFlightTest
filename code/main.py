@@ -16,9 +16,24 @@ for _ in range(3):
 database = DatabaseAccessor()
 
 for i in range(num_questions):
+    print "Question #{}:".format(i+1)
+
     # get question1
-    database.get_random_question()
+    question = database.get_random_question()
     # display question
+    print question
 
     # wait for user input
+    user_answer = int(raw_input("Selection: ")) - 1
+
+    # check user input and print a response
+    if question.check_answer(user_answer):
+        question.print_answer_text()
+    else:
+        print "Incorrect."
+
+    #Print a space to separate questions.
+    print ""
+
+
     pass
