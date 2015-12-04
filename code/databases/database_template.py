@@ -17,17 +17,28 @@
     for them based on the answer or the question so that should work.
 
     Might consume too much memory if we're loading a large database into memory, since we load every question.
+
+    Also need to make a simple writing function to add to databases
 '''
 
 sample_question = {
-    "questions": ["What... is your name?", "What... is your quest?",
+    "question": "These are questions?",
+    "answers": ["What... is your name?", "What... is your quest?",
                   "What... is the air-speed velocity of an unladen swallow?"],
-    "answerIndex": 2,
-    "answerText": "What do you mean? An African or a European swallow?"
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "What do you mean? An African or a European swallow?"
 }
 
 # becomes when put through the json.dumps formatter.
-
-[{"answerIndex": 2, "questions": ["What... is your name?", "What... is your quest?",
-                                  "What... is the air-speed velocity of an unladen swallow?"],
-  "answerText": "What do you mean? An African or a European swallow?"}]
+[
+    {
+        "correctAnswerText": "What do you mean? An African or a European swallow?",
+        "question": "These are questions?",
+        "correctAnswerIndex": 2,
+        "answers": [
+            "What... is your name?",
+            "What... is your quest?",
+            "What... is the air-speed velocity of an unladen swallow?"
+        ]
+    }
+]
