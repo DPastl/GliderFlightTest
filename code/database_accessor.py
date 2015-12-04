@@ -5,18 +5,18 @@ Loads the databases and then automagically will provide questions as requested
 '''
 import json
 
-from databases.db_test import db_test
 from question_class import QuestionClass
 
 
 class DatabaseAccessor():
     database_list = list()
     def __init__(self):
-        # this isn't working correctly
-        self.database_list.append(json.loads(db_test))
+        with open('databases/db_test.json', 'r') as f:
+            self.database_list.append(json.load(f))
 
     def get_random_question(self):
-        return QuestionClass(self.database_list[0])
+        print self.database_list[0][0]
+        return QuestionClass(self.database_list[0][0])
 
     def get_random_question_from(self, database_name):
         pass
