@@ -1,0 +1,26 @@
+[
+  {
+    "question": "A tear in the skin of a monocoque fuselage",
+    "answers": [
+      "will not affect the stress capability of the structure.",
+      "might affect the stress capability of the structure.",
+      "will cause flutter",
+      "increases the load factor"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "A device fitted to a control surface to relieve control pressure on that control surface is called a",
+    "answers": [
+      "rudder",
+      "adjustable stabilizer",
+      "mass balance",
+      "trim tab"
+    ],
+    "correctAnswerIndex": 4,
+    "correctAnswerText": "",
+    "questionSource": ""
+  }
+]

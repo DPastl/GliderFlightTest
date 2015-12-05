@@ -1,5 +1,5 @@
 '''
-Simple class for formatting the questions out in an easier to use manner
+Simple class for formatting the questions out in an easier to use manner.
 '''
 
 

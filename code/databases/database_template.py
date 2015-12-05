@@ -11,7 +11,7 @@
 	"question": "The question",
         "answers": ["Answer 1 text","Answer 2 Text", ...],
         "correctAnswerIndex": <index in above array of the answer>,
-        "correctAnswerText": "Text for the answer",
+        "correctAnswerText": "Text for the answer (optional)",
 	"questionSource":"A string describing the source"
     }
 
@@ -26,24 +26,25 @@
     Also need to make a simple writing function to add to databases
 '''
 
-sample_question = {
+# Empty
+[
+    {
+        "question": "",
+        "answers": [],
+        "correctAnswerIndex": 0,
+        "correctAnswerText": "",
+        "questionSource": ""
+    }
+]
+
+# Example filled in
+[
+    {
     "question": "These are questions?",
     "answers": ["What... is your name?", "What... is your quest?",
                   "What... is the air-speed velocity of an unladen swallow?"],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "What do you mean? An African or a European swallow?"
-}
-
-# becomes when put through the json.dumps formatter.
-[
-    {
         "correctAnswerText": "What do you mean? An African or a European swallow?",
-        "question": "These are questions?",
-        "correctAnswerIndex": 2,
-        "answers": [
-            "What... is your name?",
-            "What... is your quest?",
-            "What... is the air-speed velocity of an unladen swallow?"
-        ]
-    }
+        "questionSource": "The Quest for the Holy Grail"
+}
 ]
