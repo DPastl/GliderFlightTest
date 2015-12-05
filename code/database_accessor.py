@@ -4,25 +4,45 @@ A class that handles the getting a setting of questions in the databases.
 Loads the databases and then automagically will provide questions as requested
 '''
 import json
-
-from question_class import QuestionClass
 from random import randrange
 
+from question_class import QuestionClass
+
+database_root_dir = 'databases'
+database_file_enum = {
+    'airlaw': 'db_airlaw.json'
+}
+
 class DatabaseAccessor(object):
-    database_list = list()
-    def __init__(self):
-        with open('databases/db_airlaw.json', 'r') as f:
-            self.database_list.append(json.load(f))
+    database_list = {}
+    allow_duplicates = False
+
+    def __init__(self, database_to_use='all', allow_duplicates=False):
+        self.allow_duplicates = allow_duplicates
+        if database_to_use == 'all':
+            for database_name, database_file_name in database_file_enum.iteritems():
+                with open(database_root_dir + '/' + database_file_name, 'r') as f:
+                    self.database_list[database_name] = json.load(f)
+        else:
+            if database_to_use not in database_file_enum.keys():
+                raise Exception("Database name not in list!")
+            else:
+                with open(database_root_dir + '/' + database_file_enum[database_to_use], 'r') as f:
+                    self.database_list[database_to_use] = json.load(f)
 
     def get_random_question(self):
         # We need to add something that keeps track of which questions we've provided so we don't have duplicates.
-        num_questions = len(self.database_list[0])
+        # or just not care that there might be duplicates
+        num_questions = len(self.database_list['airlaw'])
         rand_index = randrange(num_questions)
-        return QuestionClass(self.database_list[0][rand_index])
+        return QuestionClass(self.database_list['airlaw'][rand_index])
 
     def get_random_question_from(self, database_name):
-        # Not sure how this will actually work in the end
-        pass
+        if database_name not in database_file_enum.keys():
+            raise Exception("Database name not in list!")
+        num_questions = len(self.database_list[database_name])
+        rand_index = randrange(num_questions)
+        return QuestionClass(self.database_list[database_name][rand_index])
 
     def get_question(self, database_name, question_name):
         # Even more not sure how this will work
@@ -37,13 +57,14 @@ if __name__ == '__main__':
     database = DatabaseAccessor()
     question = database.get_random_question()
     print question
+    answer_index = None
     try:
-        answerIndex = int(raw_input("Answer: "))
+        answer_index = int(raw_input("Answer: "))
     except:
         pass
     finally:
-        if question.check_answer(answerIndex-1):
-            print "Correct!"
-        else:
-            print "INCORRECT"
-
+        if answer_index is not None:
+            if question.check_answer(answer_index - 1):
+                print "Correct!"
+            else:
+                print "INCORRECT"
