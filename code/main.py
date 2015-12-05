@@ -24,16 +24,18 @@ for i in range(num_questions):
     print question
 
     # wait for user input
-    user_answer = int(raw_input("Selection: ")) - 1
+    try:
+        # Need a try-except to catch things that aren't integers, otherwise we don't catch the exception int throws
+        user_answer = int(raw_input("Selection: ")) - 1
+        # check user input and print a response
+        if question.check_answer(user_answer):
+            question.print_answer_text()
+        else:
+            print "Incorrect."
 
-    # check user input and print a response
-    if question.check_answer(user_answer):
-        question.print_answer_text()
-    else:
-        print "Incorrect."
-
-    #Print a space to separate questions.
-    print ""
-
+        #Print a space to separate questions.
+        print ""
+    except:
+        print "Valid integers only please"
 
     pass
