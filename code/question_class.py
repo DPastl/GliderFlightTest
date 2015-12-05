@@ -26,3 +26,9 @@ class QuestionClass(object):
             return True
         else:
             return False
+
+    def get_question_text(self):
+        return self.question["question"]
+
+    def get_list_of_answers(self):
+        return self.question["answers"]
