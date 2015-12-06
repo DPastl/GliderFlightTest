@@ -22,7 +22,7 @@ class QuestionClass(object):
     # A method that returns the correct answer text if it exists
     # for the question.
     def get_correct_answer_text(self):
-        if "correctAnswerText" in self.question.keys()
+        if "correctAnswerText" in self.question.keys():
             return self.question["correctAnswerText"].encode('utf-8')
         else:
             return str()
@@ -43,5 +43,5 @@ class QuestionClass(object):
 
     # A method that returns a list of answers.
     def get_list_of_answers(self):
-        answers [x.encode('utf-8') for x in self.question["answers"]]
+        answers = [x.encode('utf-8') for x in self.question["answers"]]
         return answers
