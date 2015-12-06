@@ -24,7 +24,7 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "The ration of the actual load acting on the wings to the gross weight of the airplane is called",
+    "question": "The ratio of the actual load acting on the wings to the gross weight of the airplane is called",
     "answers": [
       "the aspect ratio.",
       "the power load",
@@ -260,5 +260,75 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
-  }
+  },
+  {
+    "question": "The total lift force acting on an aerofoil in flight is considered to act",
+    "answers": ["upwards with reference to the earth's surface.",
+                "at 90° to the aircraft longitudinal axis.",
+                "at 90° to the average relative air flow.",
+                "at 90° to the average wing chord."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
+  },
+  {
+    "question": "At the point of stall an increase in the angle of attack results in",
+    "answers": ["more lift and more drag.",
+                "more lift and less drag.",
+                "less lift and less drag.",
+                "no effect on lift or drag."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
+  },
+  {
+    "question": "Longitudinal stability refers to stability about the",
+    "answers": ["longitudinal axis.",
+                "lateral axis.",
+                "normal axis.",
+                "directional axis."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!"
+  },
+  {
+    "question": "The stalling speed of a glider is",
+    "answers": ["the same in coordinated turns as in straight and level flight.",
+                "inversely proportional to the wing loading.",
+                "not affected by aerodynamic loads.",
+                "greater in coordinated turns than in straight and level flight."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
+  },
+  {
+    "question": "The ratio of the total lift force acting on the wings of a glider during flight to the gross weight of the glider is known as the",
+    "answers": ["lift/drag ratio.",
+                "aspect ratio.",
+                "power factor.",
+                "load factor."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
+  },
+  {
+    "question": "In straight and level flight at 6,000 feet ASL a glider stalls at 35 kt IAS. At what IAS will it stall in similar circumstances in the circuit at 1,000 feet ASL?",
+    "answers": ["27 kt.",
+                "32 kt.",
+                "35 kt.",
+                "More than 35 kt."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!"
+  },
+  {
+    "question": "While on tow a glider pilot is unable to release the tow rope. The signal to indicate this condition to the tow pilot is to",
+    "answers": ["yaw the glider to the right and left in a series of skidding turns.",
+                "commence a series of 'S' turns at normal tow position.",
+                "porpoise rapidly between high and low tow positions.",
+                "fly to the left of the tug and rock the glider's wings."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
+  },
 ]
