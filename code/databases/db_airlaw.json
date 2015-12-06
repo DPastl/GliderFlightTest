@@ -69,5 +69,85 @@
                 ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!"
+},
+{
+    "question": "A glider is preparing for take-off from an aerodrome in the altimeter setting region. If the current altimeter setting is not available the altimeter shall be set to",
+    "answers": ["the mean sea level pressure of the aerodrome.",
+                "the standard pressure setting.",
+                "the elevation of the aerodrome.",
+                "zero."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "The minimum flight visibility for VFR flight in a Control Area is",
+    "answers": ["6 miles.",
+                "3 miles.",
+                "2 miles.",
+                "1 mile."
+                ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "Every owner of an aircraft shall preserve the Aircraft Journey Log for",
+    "answers": ["one year after the date of the last entry in the log.",
+                "three years after the date of the last entry log.",
+                "as long as the aircraft has a valid Certificate of Airworthiness.",
+                "the life of the aircraft."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "An Air Traffic Control 'instruction'",
+    "answers": ["is in effect 'advice' provided by ATC and does not require acknowledgement by the pilot concerned.",
+                "is the same as an ATC 'clearance' when issued by a Flight Service Section.",
+                "requires compliance when received unless aircraft safety is jeopardized.",
+                "must be 'read back' in full to the controller and confirmed before becoming effective."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "No person shall walk, drive or park any vehicle on any part of an airport used for the movement of aircraft, except in accordance with permission given by the appropriate ATC unit or, in the absence of any such unit, by",
+    "answers": ["an airport guide of commissionnaire.",
+                "the local flying club or school manager.",
+                "the operator of the airport.",
+                "the local police or RCMP."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "'Day' in Canada is defined as that period of time between",
+    "answers": ["sunrise and sunset.",
+                "one hour before sunrise and one hour after sunset.",
+                "the end of morning civil twilight and the beginning of evening civil twilight.",
+                "the beggining of morning civil twilight and the end of evening civil twilight."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "Unless authorized by ATC, no person shall fly a glider within Class C airspace unless",
+    "answers": ["the pilot receives and acknowledges a VFR clearance to do so.",
+                "the ground visibility is at least 3 miles.",
+                "the pilot maintains a listening watch on an appropriate radio frequency.",
+                "all of the above conditions are met."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "The filing of a flight plan or itinerary is only required when a glider pilot plans to proceed",
+    "answers": ["on an aerobatic flight.",
+                "to an altitude of more than 5,000 feet.",
+                "on a passenger carrying flight.",
+                "more than 25 NM from departure point."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!"
 }
 ]
