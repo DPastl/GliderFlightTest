@@ -1,0 +1,14 @@
+[
+  {
+    "question": "If the pitot pressure source becomes blocked by dirt, water, or ice, inaccurate readings will be caused in the",
+    "answers": [
+      "altimeter",
+      "attitude indicator",
+      "airspeed indicator",
+      "vertical speed indicator"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  }
+]
