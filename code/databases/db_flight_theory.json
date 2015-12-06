@@ -8,7 +8,7 @@
       "increases the load factor"
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "",
+    "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
   {
@@ -20,7 +20,7 @@
       "trim tab"
     ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "",
+    "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
   {
@@ -32,11 +32,11 @@
       "compression"
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "",
+    "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "Va, the design maneuvering speed, is not indicated on the airspeed indicator. It can normally be found in the Airplane Flight Manual or on a placard in the cockpit.  This airspeed is important becuase it is the recommended airspeed to be used when"
+    "question": "Va, the design maneuvering speed, is not indicated on the airspeed indicator. It can normally be found in the Airplane Flight Manual or on a placard in the cockpit.  This airspeed is important becuase it is the recommended airspeed to be used when",
     "answers": [
       "flying the traffic circuit",
       "maneuvering with both the landing gear and wing flaps",
@@ -44,7 +44,7 @@
       "maximum range (miles per pount of fuel) is desired"
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "",
+    "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
   {
@@ -56,7 +56,7 @@
       "twisting"
     ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "",
+    "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
   {
@@ -68,8 +68,8 @@
       "angle of attack, thrust, gross weight, airspeed, air density"
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "When an aircraft is flying in normal straight and level flight, at a constant airspeed",
@@ -80,8 +80,8 @@
       "weight and thrust equals lift"
     ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "The relative wind has an effect on the",
@@ -92,8 +92,8 @@
       "asymmetric thrust"
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "When the angle of attack of the wing is increased to the point where the wing stalls, the centre of pressure will",
@@ -104,8 +104,8 @@
       "remain stationary"
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "What is profile drag?",
@@ -116,8 +116,8 @@
       "wing-tip vorticies"
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "The best lift/drag ratio is achieved when",
@@ -128,8 +128,8 @@
       "climbing at best rate of climb airspeed"
     ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "When an airplane is flying very near the ground and influenced by ground effect",
@@ -140,8 +140,8 @@
       "induced drag is reduced"
     ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "On certain airplanes, the manufacturer recommends the use of some degree of flap during takeoff.  Flaps, under these circumstances,",
@@ -152,8 +152,8 @@
       "change the angle of incidence of the wing"
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "The motion of an airplane about its normal axis is known as",
@@ -164,8 +164,8 @@
       "pitching"
     ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "A mass of streamlined shape fitted in front of the hinge of a control surface is incorporated to",
@@ -176,8 +176,8 @@
       "improve directional stability"
     ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "Lateral stability is improved by",
@@ -188,8 +188,8 @@
       "dihedral"
     ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "Pilots are warned of the dangerous turbulence existing in the wake of large aeroplane in flight. The turbulence referred to is caused by",
@@ -200,5 +200,65 @@
                 ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!"
+  },
+  {
+    "question": "An aircraft which has a normal stalling speed of 70 knots is in a steep 60 degree turn.  What is the stalling speed in the steep turn?",
+    "answers": [
+      "99 knots",
+      "70 knots",
+      "140 knots",
+      "75 knots"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "If a thin coating of frost or light snow has formed on the wings of an airplane, the takeoff should not be attempted until it has been removed because",
+    "answers": [
+      "the coating will disturb the airflow over the wings and destroy some of the lift capability",
+      "the added weight overloads the airplane",
+      "the covering is cold and brittle",
+      "the cold air has contracted the covering of the wings, thus changing the airfoil section"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An aircraft stalls at an indicated airspeed of 60 knots at sea level.  At 10,000 feet ASL, the aircraft, at the same weight, stalls at",
+    "answers": [
+      "an indicated airspeed of 70 knots",
+      "a true airspeed of 60 knots",
+      "an indicated airspeed of 60 knots",
+      "a true airspeed lower than the indicated airspeed"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "During autorotation, the downgoind wing has",
+    "answers": [
+      "the same angle of attack as the upgoing wing",
+      "a greater angle of attack than the upgoing wing",
+      "a lesser angle of attack than the upgoing wing",
+      "is more affected by the angle of incidence"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An airplane flying at 10,000 feet ASL in the Altimeter Setting Region should have its altimeter set to",
+    "answers": [
+      "the altimeter setting of th aerodrome of the departure",
+      "the altimeter setting of the aerodrome of intended landing",
+      "29.92 inches of mercury",
+      "the altimeter setting of the nearest aerodrome"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]
