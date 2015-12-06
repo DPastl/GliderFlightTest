@@ -4,13 +4,16 @@ A class that handles the getting a setting of questions in the databases.
 Loads the databases and then automagically will provide questions as requested
 '''
 import json
-from random import randrange
+from random import randrange, choice
 
 from question_class import QuestionClass
 
 database_root_dir = 'databases'
 database_file_enum = {
-    'airlaw': 'db_airlaw.json'
+    'airlaw': 'db_airlaw.json',
+    'flight_theory': 'db_flight_theory.json',
+    'metrology': 'db_metrology.json',
+    'navigation': 'db_navigation.json'
 }
 
 class DatabaseAccessor(object):
@@ -33,9 +36,10 @@ class DatabaseAccessor(object):
     def get_random_question(self):
         # We need to add something that keeps track of which questions we've provided so we don't have duplicates.
         # or just not care that there might be duplicates
-        num_questions = len(self.database_list['airlaw'])
+        random_database = choice(database_file_enum.keys())
+        num_questions = len(self.database_list[random_database])
         rand_index = randrange(num_questions)
-        return QuestionClass(self.database_list['airlaw'][rand_index])
+        return QuestionClass(self.database_list[random_database][rand_index])
 
     def get_random_question_from(self, database_name):
         if database_name not in database_file_enum.keys():
