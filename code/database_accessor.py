@@ -18,8 +18,7 @@ database_file_enum = {
     'flight_theory': 'db_flight_theory.json',
     'instruments': 'db_instruments.json',
     'flight_operations': 'db_flight_operations.json',
-    'human_factors': 'db_human_factors.json',
-
+    'human_factors': 'db_human_factors.json'
 }
 
 
@@ -35,7 +34,12 @@ class DatabaseAccessor(object):
         if database_to_use == 'all':
             for database_name, database_file_name in database_file_enum.iteritems():
                 with open(database_root_dir + '/' + database_file_name, 'r') as f:
-                    self.database_list[database_name] = json.load(f)
+                    db_contents = json.load(f)
+                    valid = ValidateDatabase(db_contents)
+                    if valid.valid:
+                        self.database_list[database_name] = db_contents
+                    else:
+                        print database_name
         else:
             if database_to_use not in database_file_enum.keys():
                 raise Exception("Database name not in list!")
@@ -62,6 +66,73 @@ class DatabaseAccessor(object):
             db_name = choice(database_file_enum.keys())
 
         return QuestionClass(choice(self.database_list[db_name]))
+
+
+# This method validates the contents of a database file. Makes sure
+# each required field is there and verifies the type of the contents
+# of each field. This method is not part of the DatabaseAccessor 
+# class.
+class ValidateDatabase(object):
+
+    def __init__(self,database):
+
+        # Initialize variables needed to perform checks.
+        self.num_answers = 4
+        required_fields = {"question": self.validate_string,
+                           "answers": self.validate_list_of_strings,
+                           "correctAnswerIndex": self.validate_number_answers,
+                           "questionSource": self.validate_string
+                           }
+        optional_fields = {"correctAnswerText": self.validate_string}
+
+        # Check that all required fields are present
+        self.missing_fields = list()
+        self.invalid_field_contents = list()
+        self.valid = False
+
+        # First check for required fields and validate contents.
+        for question in database:
+            for key in required_fields.keys():
+                if key not in question.keys():
+                    self.missing_fields.append(key)
+                else:
+                    if not required_fields[key](question[key]):
+                        self.invalid_field_contents.append(key)
+
+            # Now check for optional fields and validate contents.
+            for key in optional_fields.keys():
+                if key in question.keys():
+                    if not optional_fields[key](question[key]):
+                        self.invalid_field_contents.append(key)
+
+        if (len(self.missing_fields) == 0) and (len(self.invalid_field_contents) == 0):
+            self.valid = True
+
+
+    # Check whether input is a str or unicode
+    def validate_string(self,s):
+        return isinstance(s,(str,unicode)) 
+
+
+    # Check whether input is a list of str or unicode
+    def validate_list_of_strings(self,s):
+        valid = False
+        if isinstance(s,list):
+            valid = True
+            for x in s:
+                if not isinstance(x,(str,unicode)):
+                    valid = False
+        return valid
+
+
+    # Check if input is int and in [0,1,2,3].
+    def validate_number_answers(self,num):
+        valid = False
+        if isinstance(num,int):
+            if (num >= 0) and (num < self.num_answers):
+                valid = True
+        return valid
+
 
 
 if __name__ == '__main__':
