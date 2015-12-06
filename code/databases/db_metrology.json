@@ -1,23 +1,158 @@
 [
   {
-    "question": "",
-    "answers": [],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "question": "A layer of dark grey cloud from which continuous rain or snow falls is called",
+    "answers": [
+      "cirrostratus",
+      "altostratus",
+      "nimbostratus",
+      "cumulonimbus"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "",
-    "answers": [],
+    "question": "When flying through a layer of numbostratus, you encounter sudden severe turbulence.  The most probable cause is",
+    "answers": [
+      "embedded towering cumulus or cumulonimbus",
+      "embedded altocumulus",
+      "embedded stratocumulus",
+      "embedded cirrocumulus"
+    ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "",
-    "answers": [],
+    "question": "The tropopause is lower",
+    "answers": [
+      "in summer than in winter",
+      "over the equator than over the north pole",
+      "over the north pole than over the equator",
+      "south of the jet stream than north of it"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The clouds which appear, in sequence, in advance of an approaching warm front are",
+    "answers": [
+      "cirrus, cirrostratus, altostratus, and nimbostratus",
+      "cumulus, cumulonimbus, and nimbostratus",
+      "cirrus, cumulonimbus, and nimbostratus",
+      "altostratus, cumulus, cumulonimbus, and nimbostratus"
+    ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "",
-    "questionSource": ""
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A low pressure area is",
+    "answers": [
+      "also called an anticyclone",
+      "a region of relatively low pressure with the highest pressure at the centre",
+      "a region of relatively low pressure with the lowest pressure at the centre",
+      "a region in which the winds blow clockwise"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A steep pressure gradient indicates",
+    "answers": [
+      "calm air",
+      "light winds",
+      "strong winds",
+      "rising pressure"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An aircraft is flying at 10,000 feet ASL on a track of 200˚.  In order to maintain this track, the pilot is holding a heading of 186˚.  An area of low pressure exists",
+    "answers": [
+      "to the right of track",
+      "to the left of the track",
+      "ahead of the airplane",
+      "behind the airplane"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "At night as the sides of hills or mountain cool, the air in contact with them tends to become denser and blows down the slope into the valley.  This wind is called a",
+    "answers": [
+      "anabatic wind",
+      "katabatic",
+      "mountain wave",
+      "land breeze"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "If you were flying on a westerly heading and encountered a range of mountains lying in a north-south line and if you attempted to fly through a saddle on a west heading with the wind from the west, you would expect",
+    "answers": [
+      "to lose altitude rapidly on the west side of the saddle",
+      "to lose altitude rapidly on the east side of the saddle",
+      "to lose altitude rapidly while in the saddle",
+      "to gain altitude rapidly on the east side of the saddle"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Lenticular clouds are usually associated with",
+    "answers": [
+      "a warm front",
+      "a cold front",
+      "a mountain wave",
+      "inversions"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A sudden violent change in wind speed or direction that can impose severe penalties on an airplane's performance is called",
+    "answers": [
+      "wing tip vorticies",
+      "wind shear",
+      "diurnal variation",
+      "inversions"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "When unsaturated air is forced to rise, the expansion of the rising air causes it to cool.  This cooling is called",
+    "answers": [
+      "the normal lapse rate and is 1.98° per 1000 feet",
+      "advection cooling and 2˚C per 1000 feet",
+      "radiation cooling and is 3˚C per 1000 feet",
+      "the dry lapse rate and is 3˚C per 1000 feet"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The amount of water that a given volume of air can contain at a given pressure is governed by",
+    "answers": [
+      "the temperature",
+      "the relative humidity",
+      "the stability",
+      "the lapse rate"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]
