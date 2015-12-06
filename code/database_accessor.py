@@ -33,6 +33,12 @@ class DatabaseAccessor(object):
                 with open(database_root_dir + '/' + database_file_enum[database_to_use], 'r') as f:
                     self.database_list[database_to_use] = json.load(f)
 
+    def get_num_questions(self):
+        num_questions = 0
+        for x in self.database_list.keys():
+            num_questions += len(self.database_list[x])
+        return num_questions
+
     def get_random_question(self):
         # We need to add something that keeps track of which questions we've provided so we don't have duplicates.
         # or just not care that there might be duplicates
@@ -59,6 +65,7 @@ class DatabaseAccessor(object):
 
 if __name__ == '__main__':
     database = DatabaseAccessor()
+    print database.get_num_questions()
     question = database.get_random_question()
     print question
     answer_index = None
