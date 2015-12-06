@@ -182,9 +182,12 @@
   {
     "question": "Lateral stability is improved by",
     "answers": [
-      ""
+      "balanced controls",
+      "offsetting the vertical fin",
+      "a hugh aspect ratio",
+      "dihedral"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "correctAnswerText": "",
     "questionSource": ""
   }
