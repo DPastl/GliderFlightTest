@@ -28,7 +28,8 @@ class QuestionClass(object):
             return False
 
     def get_question_text(self):
-        return self.question["question"]
+        return self.question["question"].encode('utf-8')
 
     def get_list_of_answers(self):
-        return self.question["answers"]
+        answers [x.encode('utf-8') for x in self.question["answers"]]
+        return answers
