@@ -320,15 +320,6 @@
                 ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!"
-  },
-  {
-    "question": "While on tow a glider pilot is unable to release the tow rope. The signal to indicate this condition to the tow pilot is to",
-    "answers": ["yaw the glider to the right and left in a series of skidding turns.",
-                "commence a series of 'S' turns at normal tow position.",
-                "porpoise rapidly between high and low tow positions.",
-                "fly to the left of the tug and rock the glider's wings."
-                ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
-  },
+  }
+
 ]
