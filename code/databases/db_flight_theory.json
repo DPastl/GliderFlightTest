@@ -199,7 +199,8 @@
                 "the vacuum created by aircraft passage."
                 ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "An aircraft which has a normal stalling speed of 70 knots is in a steep 60 degree turn.  What is the stalling speed in the steep turn?",
@@ -269,7 +270,8 @@
                 "at 90° to the average wing chord."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "At the point of stall an increase in the angle of attack results in",
@@ -279,7 +281,8 @@
                 "no effect on lift or drag."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Longitudinal stability refers to stability about the",
@@ -289,7 +292,8 @@
                 "directional axis."
                 ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The stalling speed of a glider is",
@@ -299,7 +303,8 @@
                 "greater in coordinated turns than in straight and level flight."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The ratio of the total lift force acting on the wings of a glider during flight to the gross weight of the glider is known as the",
@@ -309,7 +314,8 @@
                 "load factor."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "In straight and level flight at 6,000 feet ASL a glider stalls at 35 kt IAS. At what IAS will it stall in similar circumstances in the circuit at 1,000 feet ASL?",
@@ -319,7 +325,8 @@
                 "More than 35 kt."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "While on tow a glider pilot is unable to release the tow rope. The signal to indicate this condition to the tow pilot is to",
@@ -329,7 +336,8 @@
                 "fly to the left of the tug and rock the glider's wings."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "In certain circumstances, air at high altitudes may be warmer than the air below it.  This is called",

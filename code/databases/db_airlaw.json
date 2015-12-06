@@ -8,7 +8,8 @@
                 "turn on the anti-collision light."
                 ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "When two aircraft are converging headings at approximately the same altitude, the aircraft that has the other on its right shall give way except that, gliders shall give way to",
@@ -18,7 +19,8 @@
                 "balloons."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "'Controlled Airspace' means an airspace of defined dimensions within which",
@@ -28,7 +30,8 @@
                 "Control is provided for instrument flight rules (IFR) traffic only."
                 ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "Except for ultra-light aeroplanes, no person shall fly an aircraft in Canada unless",
@@ -38,7 +41,8 @@
                 "all of the above conditions are met."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "No person shall attempt to fly as a flight crew member of a glider if",
@@ -48,7 +52,8 @@
                 "less than five supervised take-offs and landings have been completed in the preceding six months."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "Except when taking off from or landing at an airport or military aerodrome aircraft shall not be flown over the built-up areas of any city, town or other settlement or over an open-air assembly of persons except at an altitude that will permit in the event of an emergency, the landing of the aircraft without undue hazard to persons or to property on the surface; such altitude shall not in any case be less than . . . . . above the highest obstacle within a horizontal radius of two thousand feet from the aircraft. The correct entry to complete the blank space is",
@@ -58,7 +63,8 @@
                 "3,000 feet."
                 ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "A steady green light directed at an aircraft in flight means",
@@ -68,7 +74,8 @@
                 "cleared for final."
                 ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "A glider is preparing for take-off from an aerodrome in the altimeter setting region. If the current altimeter setting is not available the altimeter shall be set to",
@@ -78,7 +85,8 @@
                 "zero."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "The minimum flight visibility for VFR flight in a Control Area is",
@@ -88,7 +96,8 @@
                 "1 mile."
                 ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "Every owner of an aircraft shall preserve the Aircraft Journey Log for",
@@ -98,7 +107,8 @@
                 "the life of the aircraft."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "An Air Traffic Control 'instruction'",
@@ -108,7 +118,8 @@
                 "must be 'read back' in full to the controller and confirmed before becoming effective."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "No person shall walk, drive or park any vehicle on any part of an airport used for the movement of aircraft, except in accordance with permission given by the appropriate ATC unit or, in the absence of any such unit, by",
@@ -118,7 +129,8 @@
                 "the local police or RCMP."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "'Day' in Canada is defined as that period of time between",
@@ -128,7 +140,8 @@
                 "the beggining of morning civil twilight and the end of evening civil twilight."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "Unless authorized by ATC, no person shall fly a glider within Class C airspace unless",
@@ -138,7 +151,8 @@
                 "all of the above conditions are met."
                 ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 },
 {
     "question": "The filing of a flight plan or itinerary is only required when a glider pilot plans to proceed",
@@ -148,6 +162,7 @@
                 "more than 25 NM from departure point."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
 }
 ]

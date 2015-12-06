@@ -7,7 +7,8 @@
                 "the same as the current altimeter setting."
                 ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The most important element in the atmosphere from the weather standpoint is",
@@ -17,7 +18,8 @@
                 "oxygen."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Clouds which form when moist air overruns cold air, are caused because the warm air",
@@ -27,7 +29,8 @@
                 "cools as a result of expansion as it rises."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Wind is caused by",
@@ -37,7 +40,8 @@
                 "the movements of fronts."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "In the northern hemisphere, the winds blow",
@@ -47,7 +51,8 @@
                 "at a 30 degree angle into a high pressure area."
                 ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "During a descent from 2,000 feet AGL to the surface you will usually find that the wind",
@@ -57,7 +62,8 @@
                 "backs and decreases."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The lapse rate is the rate of change of",
@@ -67,7 +73,8 @@
                 "termperature in the horizontal."
                 ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Air masses which are being cooled from below are characterized by",
@@ -77,7 +84,8 @@
                 "fog, poor visibility and layer cloud."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The folowing sequence of clouds is observed at an airport: cirrus, altostratus, nimbostratus. The observer should expect",
@@ -87,7 +95,8 @@
                 "clearing skies and a decrease in temperature."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Which clouds have the international family prefix 'Cumulo'?",
@@ -97,7 +106,8 @@
                 "Clouds of vertical development."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Unless otherwise noted, cloud bases are forecast in height",
@@ -107,7 +117,8 @@
                 "ASL in the Area Forecast and AGL in the TAF."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Regarding cloud amount, the words 'overcast' and 'broken' mean respectively",
@@ -117,7 +128,8 @@
                 "8/8 and 5/8 to 7/8 cloud."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
    },
    {
     "question": "A layer of dark grey cloud from which continuous rain or snow falls is called",
