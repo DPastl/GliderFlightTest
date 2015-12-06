@@ -7,9 +7,9 @@
       "will cause flutter",
       "increases the load factor"
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
     "correctAnswerText": "",
-    "questionSource": ""
+    "questionSource": "From the ground up, 2011"
   },
   {
     "question": "A device fitted to a control surface to relieve control pressure on that control surface is called a",
@@ -19,7 +19,172 @@
       "mass balance",
       "trim tab"
     ],
-    "correctAnswerIndex": 4,
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The ration of the actual load acting on the wings to the gross weight of the airplane is called",
+    "answers": [
+      "the aspect ratio.",
+      "the power load",
+      "the load factor",
+      "compression"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Va, the design maneuvering speed, is not indicated on the airspeed indicator. It can normally be found in the Airplane Flight Manual or on a placard in the cockpit.  This airspeed is important becuase it is the recommended airspeed to be used when"
+    "answers": [
+      "flying the traffic circuit",
+      "maneuvering with both the landing gear and wing flaps",
+      "flying in extremely rough air on severe turbulence",
+      "maximum range (miles per pount of fuel) is desired"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A torsion stress is caused by",
+    "answers": [
+      "bending",
+      "stretching",
+      "corrosion",
+      "twisting"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The five principal factors which affect the magnitude of lift and drag of an airplne wings are",
+    "answers": [
+      " angle of attack, gross weight, lift coefficient, shape of the airfoil, wind velocity",
+      "angle of attack, shape of the airfoil, wing area, airspeed, air density",
+      "angle of attack, shape of the airfoil, aspect ratio, coefficient of lift, gross weight",
+      "angle of attack, thrust, gross weight, airspeed, air density"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "When an aircraft is flying in normal straight and level flight, at a constant airspeed",
+    "answers": [
+      " weight equals drag and thrust equals lift",
+      "drag equals lift and weight equals thrust",
+      "lift equals weight and drag equals thrust",
+      "weight and thrust equals lift"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "The relative wind has an effect on the",
+    "answers": [
+      "andle of incidence",
+      "angle of attack",
+      "coefficient of drag",
+      "asymmetric thrust"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "When the angle of attack of the wing is increased to the point where the wing stalls, the centre of pressure will",
+    "answers": [
+      "move rearward and then forward",
+      "move forward",
+      "move forward and then rearward",
+      "remain stationary"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "What is profile drag?",
+    "answers": [
+      "drag produced by the generation of lift",
+      " drag produced by a positive angle of attack",
+      "form drag plus skin friction",
+      "wing-tip vorticies"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "The best lift/drag ratio is achieved when",
+    "answers": [
+      "gliding for maximum range",
+      "gliding for maximum endurance",
+      "climbing at best angle of climb airspeed",
+      "climbing at best rate of climb airspeed"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "When an airplane is flying very near the ground and influenced by ground effect",
+    "answers": [
+      "parasitic drag is reduced",
+      "skin friction is reduced",
+      "the wing tip vorticies are strengthened",
+      "induced drag is reduced"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "On certain airplanes, the manufacturer recommends the use of some degree of flap during takeoff.  Flaps, under these circumstances,",
+    "answers": [
+      "permit a higher takeoff speed",
+      "permit a better angle of climb",
+      "increase the upper camber of the wing and produce more lift",
+      "change the angle of incidence of the wing"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "The motion of an airplane about its normal axis is known as",
+    "answers": [
+      "yawing",
+      "looping",
+      "rolling",
+      "pitching"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "A mass of streamlined shape fitted in front of the hinge of a control surface is incorporated to",
+    "answers": [
+      "counteract flutter",
+      "conteract adverse yaw",
+      "increase the centre of gravity range",
+      "improve directional stability"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "",
+    "questionSource": ""
+  },
+  {
+    "question": "Lateral stability is improved by",
+    "answers": [
+      ""
+    ],
+    "correctAnswerIndex": 0,
     "correctAnswerText": "",
     "questionSource": ""
   }

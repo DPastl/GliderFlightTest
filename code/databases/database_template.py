@@ -10,7 +10,7 @@
     question = {
 	"question": "The question",
         "answers": ["Answer 1 text","Answer 2 Text", ...],
-        "correctAnswerIndex": <index in above array of the answer>,
+        "correctAnswerIndex": <index in above array of the answer, use zero based indicies>,
         "correctAnswerText": "Text for the answer (optional)",
 	"questionSource":"A string describing the source"
     }
