@@ -22,5 +22,15 @@
     "correctAnswerIndex": 4,
     "correctAnswerText": "",
     "questionSource": ""
+  },
+  {
+    "question": "Pilots are warned of the dangerous turbulence existing in the wake of large aeroplane in flight. The turbulence referred to is caused by",
+    "answers": ["expanding wing tip vortices.",
+                "propeller or jet wash.",
+                "air displaced by the fuselage.",
+                "the vacuum created by aircraft passage."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!"
   }
 ]
