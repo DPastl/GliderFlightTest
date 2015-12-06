@@ -8,11 +8,11 @@ class QuestionClass(object):
         self.question = question
 
     def __str__(self):
-        out = self.question["question"]
+        out = self.question["question"].encode('utf-8')
         answers = self.question["answers"]
         for x,answer in enumerate(answers):
             num = "{}) ".format(x+1)
-            out = out + "\n" + num + answer
+            out = out + "\n" + num + answer.encode('utf-8')
         return out
 
     def print_answer_text(self):
