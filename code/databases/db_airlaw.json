@@ -49,7 +49,25 @@
                 ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!"
+},
+{
+    "question": "Except when taking off from or landing at an airport or military aerodrome aircraft shall not be flown over the built-up areas of any city, town or other settlement or over an open-air assembly of persons except at an altitude that will permit in the event of an emergency, the landing of the aircraft without undue hazard to persons or to property on the surface; such altitude shall not in any case be less than . . . . . above the highest obstacle within a horizontal radius of two thousand feet from the aircraft. The correct entry to complete the blank space is",
+    "answers": ["500 feet.",
+                "1,000 feet.",
+                "2,000 feet.",
+                "3,000 feet."
+                ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!"
+},
+{
+    "question": "A steady green light directed at an aircraft in flight means",
+    "answers": ["cleared to land.",
+                "return for landing.",
+                "cleared to base leg.",
+                "cleared for final."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!"
 }
-
-
 ]
