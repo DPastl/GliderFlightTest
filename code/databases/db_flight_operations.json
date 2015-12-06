@@ -7,7 +7,8 @@
                 "gross weight is 715 lb."
                 ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "While on tow a glider pilot is unable to release the tow rope. The signal to indicate this condition to the tow pilot is to",
@@ -17,7 +18,8 @@
                 "fly to the left of the tug and rock the glider's wings."
                 ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "A 'weak link' would most likely be associated with a",
@@ -27,7 +29,8 @@
                 "canopy latch."
                 ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "At a gliding ratio of 15:1, a glider descending 1,000 feet in still air will move forward a distance closest to",
@@ -37,7 +40,8 @@
                 "3.1 nm."
                 ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!"    
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"   
   },
   {
     "question": "During ground operations if someone stands with both hands above their head, this means",
@@ -47,6 +51,52 @@
                 "begin take-off."
                 ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!"
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "In gliding, an important use of wing spoilers is to",
+    "answers": ["increase the rate of descent at the same airspeed.",
+                "increase lift without increasing drag.",
+                "make safe approaches possible at slower airspeeds.",
+                "improve the lift/drag ratio."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "To maintain an IAS of 50 kt during approach through a wind gradient where the head wind is decreasing, the pilot should",
+    "answers": ["pitch the nose down.",
+                "pitch the noise up.",
+                "gradually apply spoilers.",
+                "maintain a constant pitch attitude."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "The flight manual states that the maximum cross-wind landing component applicable to a particular glider is 090°/10kt. Which wind velocity will permit landing within this limit when landing on runway 27?",
+    "answers": ["240° M/24 kt.",
+                "290° M/20 kt.",
+                "300° M/26 kt.",
+                "330° M/15 kt."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "When turning from downwind to base leg for landing, a strong wind could cause a pilot to experience an illusion of",
+    "answers": ["skidding.",
+                "side-slipping.",
+                "overbanking.",
+                "increasing ground speed."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   }
+
 ]

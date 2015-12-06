@@ -1,5 +1,137 @@
 [
   {
+    "question": "When you put your aircraft away at night the altimeter set to the elevation of the airport reads 520 feet. During the night a low pressure area moves over the airport and the atmospheric pressure drops sharply. On checking the altimeter the next morning you would expect the indicated altitude to be",
+    "answers": ["520 ft.",
+                "higher than 520 ft.",
+                "lower than 520 ft.",
+                "the same as the current altimeter setting."
+                ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "The most important element in the atmosphere from the weather standpoint is",
+    "answers": ["water droplets.",
+                "nitrogen.",
+                "water vapour.",
+                "oxygen."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "Clouds which form when moist air overruns cold air, are caused because the warm air",
+    "answers": ["is cooled by the cold air underneath.",
+                "is cooled by the surrounding cold air aloft.",
+                "becomes unstable as a result of cooling from below.",
+                "cools as a result of expansion as it rises."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "Wind is caused by",
+    "answers": ["the rotation of the earth.",
+                "friction between the air and the ground.",
+                "horizontal pressure differences.",
+                "the movements of fronts."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "In the northern hemisphere, the winds blow",
+    "answers": ["direct from high to low pressure areas.",
+                "clockwise around a high and counter-clockwise around a low.",
+                "at a 30 degree angle out of a low pressure area.",
+                "at a 30 degree angle into a high pressure area."
+                ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "During a descent from 2,000 feet AGL to the surface you will usually find that the wind",
+    "answers": ["veers and increases.",
+                "backs and increases.",
+                "veers and decreases.",
+                "backs and decreases."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "The lapse rate is the rate of change of",
+    "answers": ["temperature with height.",
+                "pressure with height.",
+                "pressure in the horizontal.",
+                "termperature in the horizontal."
+                ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "Air masses which are being cooled from below are characterized by",
+    "answers": ["strong winds, cumulus cloud, good visibility.",
+                "uniform temperature, good visibility.",
+                "decreasing humidity, poor visibility.",
+                "fog, poor visibility and layer cloud."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "The folowing sequence of clouds is observed at an airport: cirrus, altostratus, nimbostratus. The observer should expect",
+    "answers": ["the passage of a cold front.",
+                "anticyclonic weather.",
+                "the passage of a warm front.",
+                "clearing skies and a decrease in temperature."
+                ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "Which clouds have the international family prefix 'Cumulo'?",
+    "answers": ["Clouds with bases between surface and 6,500 ft AGL.",
+                "Clouds with bases between 6,500 feet and 20,000 feet AGL.",
+                "Clouds with bases above 20,000 feet AGL.",
+                "Clouds of vertical development."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "Unless otherwise noted, cloud bases are forecast in height",
+    "answers": ["ASL in both the Area Forecast and the TAF.",
+                "AGL in both the Area Forecast and the TAF.",
+                "AGL in Area Forecast and ASL in the TAF.",
+                "ASL in the Area Forecast and AGL in the TAF."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "Regarding cloud amount, the words 'overcast' and 'broken' mean respectively",
+    "answers": ["7/8 to 8/8 and 5/8 to 8/8 cloud.",
+                "7/8 to 8/8 and 4/8 to 7/8 cloud.",
+                "8/8 and 4/8 to 7/8 cloud.",
+                "8/8 and 5/8 to 7/8 cloud."
+                ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+   },
+   {
     "question": "A layer of dark grey cloud from which continuous rain or snow falls is called",
     "answers": [
       "cirrostratus",
