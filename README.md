@@ -13,8 +13,9 @@ python main.py
 Currently, to run in windows you must first install python.  Navigate to https://www.python.org/downloads/ and download
 python, then click the installer and install python.  The main.py file can then be run by double clicking the file.
 
-## Example Exam
-Below is an example of the exam interface:
+## Example
+Below is an example of the exam interface
+
 ```
 Question Number 1
 An airplane flying at 10,000 feet ASL in the Altimeter Setting Region should have its altimeter set to

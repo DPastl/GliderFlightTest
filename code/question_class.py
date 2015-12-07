@@ -34,6 +34,9 @@ class QuestionClass(object):
         else:
             return False
 
+    def get_correct_answer(self):
+        return self.question["correctAnswerIndex"]
+
     # A method that returns the question text.
     def get_question_text(self):
         return self.question["question"].encode('utf-8')

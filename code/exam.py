@@ -73,7 +73,8 @@ class Exam():
                     print "Correct!\n"
                     self.answer_list[qindex] = True
                 else:
-                    print "INCORRECT\n"
+                    print "INCORRECT - Correct Answer is {0}\n".format(
+                        self.question_list[qindex].get_correct_answer() + 1)
                     self.answer_list[qindex] = False
             else:
                 break
