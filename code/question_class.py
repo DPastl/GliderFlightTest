@@ -4,6 +4,7 @@ methods for obtaining the question and answer text. The str() of this class
 returns a nicely formatted question and answer that can be printed.
 '''
 
+
 # Class to handle questions and answers.
 class QuestionClass(object):
     def __init__(self, question):
@@ -18,7 +19,6 @@ class QuestionClass(object):
             out = out + "\n" + num + answer.encode('utf-8')
         return out
 
-
     # A method that returns the correct answer text if it exists
     # for the question.
     def get_correct_answer_text(self):
@@ -27,7 +27,6 @@ class QuestionClass(object):
         else:
             return str()
 
-
     # A method that checks the user's answer against the right answer.
     def check_answer(self, usersAnswer):
         if usersAnswer == self.question["correctAnswerIndex"]:
@@ -35,11 +34,9 @@ class QuestionClass(object):
         else:
             return False
 
-
     # A method that returns the question text.
     def get_question_text(self):
         return self.question["question"].encode('utf-8')
-
 
     # A method that returns a list of answers.
     def get_list_of_answers(self):

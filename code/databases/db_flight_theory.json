@@ -338,53 +338,5 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-  },
-  {
-    "question": "In certain circumstances, air at high altitudes may be warmer than the air below it.  This is called",
-    "answers": [
-      "convection",
-      "inversion",
-      "raiation",
-      "lapse rate reversal"
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "Select the correct statement from the following",
-    "answers": [
-      "a shallow lapse rate indicates unstable air",
-      "an isothermal layer favours vertical motion",
-      "vertical currents develop readily in unstable air",
-      "visibility is always good in stable air"
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "An air mass may be defined as a large section of the _ with uniform properties and _ and _ in the horizontal.",
-    "answers": [
-      "statosphere, temperature, pressure",
-      "tropopause, stability, pressure",
-      "atmosphere, stability, moisture",
-      "tropopause, temperature, moisture"
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "A front is",
-    "answers": [
-      "a narrow transition zone between a cyclone and an anticyclone",
-      "a line of thunderstorms",
-      "a narrow transition zone between two air masses",
-      "a mass layer cloud which is very think and which covers a wide area"
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
   }
 ]

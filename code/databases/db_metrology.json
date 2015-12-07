@@ -1,137 +1,149 @@
 [
   {
     "question": "When you put your aircraft away at night the altimeter set to the elevation of the airport reads 520 feet. During the night a low pressure area moves over the airport and the atmospheric pressure drops sharply. On checking the altimeter the next morning you would expect the indicated altitude to be",
-    "answers": ["520 ft.",
-                "higher than 520 ft.",
-                "lower than 520 ft.",
-                "the same as the current altimeter setting."
-                ],
+    "answers": [
+      "520 ft.",
+      "higher than 520 ft.",
+      "lower than 520 ft.",
+      "the same as the current altimeter setting."
+    ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The most important element in the atmosphere from the weather standpoint is",
-    "answers": ["water droplets.",
-                "nitrogen.",
-                "water vapour.",
-                "oxygen."
-                ],
+    "answers": [
+      "water droplets.",
+      "nitrogen.",
+      "water vapour.",
+      "oxygen."
+    ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Clouds which form when moist air overruns cold air, are caused because the warm air",
-    "answers": ["is cooled by the cold air underneath.",
-                "is cooled by the surrounding cold air aloft.",
-                "becomes unstable as a result of cooling from below.",
-                "cools as a result of expansion as it rises."
-                ],
+    "answers": [
+      "is cooled by the cold air underneath.",
+      "is cooled by the surrounding cold air aloft.",
+      "becomes unstable as a result of cooling from below.",
+      "cools as a result of expansion as it rises."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Wind is caused by",
-    "answers": ["the rotation of the earth.",
-                "friction between the air and the ground.",
-                "horizontal pressure differences.",
-                "the movements of fronts."
-                ],
+    "answers": [
+      "the rotation of the earth.",
+      "friction between the air and the ground.",
+      "horizontal pressure differences.",
+      "the movements of fronts."
+    ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "In the northern hemisphere, the winds blow",
-    "answers": ["direct from high to low pressure areas.",
-                "clockwise around a high and counter-clockwise around a low.",
-                "at a 30 degree angle out of a low pressure area.",
-                "at a 30 degree angle into a high pressure area."
-                ],
+    "answers": [
+      "direct from high to low pressure areas.",
+      "clockwise around a high and counter-clockwise around a low.",
+      "at a 30 degree angle out of a low pressure area.",
+      "at a 30 degree angle into a high pressure area."
+    ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "During a descent from 2,000 feet AGL to the surface you will usually find that the wind",
-    "answers": ["veers and increases.",
-                "backs and increases.",
-                "veers and decreases.",
-                "backs and decreases."
-                ],
+    "answers": [
+      "veers and increases.",
+      "backs and increases.",
+      "veers and decreases.",
+      "backs and decreases."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The lapse rate is the rate of change of",
-    "answers": ["temperature with height.",
-                "pressure with height.",
-                "pressure in the horizontal.",
-                "termperature in the horizontal."
-                ],
+    "answers": [
+      "temperature with height.",
+      "pressure with height.",
+      "pressure in the horizontal.",
+      "termperature in the horizontal."
+    ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Air masses which are being cooled from below are characterized by",
-    "answers": ["strong winds, cumulus cloud, good visibility.",
-                "uniform temperature, good visibility.",
-                "decreasing humidity, poor visibility.",
-                "fog, poor visibility and layer cloud."
-                ],
+    "answers": [
+      "strong winds, cumulus cloud, good visibility.",
+      "uniform temperature, good visibility.",
+      "decreasing humidity, poor visibility.",
+      "fog, poor visibility and layer cloud."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The folowing sequence of clouds is observed at an airport: cirrus, altostratus, nimbostratus. The observer should expect",
-    "answers": ["the passage of a cold front.",
-                "anticyclonic weather.",
-                "the passage of a warm front.",
-                "clearing skies and a decrease in temperature."
-                ],
+    "answers": [
+      "the passage of a cold front.",
+      "anticyclonic weather.",
+      "the passage of a warm front.",
+      "clearing skies and a decrease in temperature."
+    ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Which clouds have the international family prefix 'Cumulo'?",
-    "answers": ["Clouds with bases between surface and 6,500 ft AGL.",
-                "Clouds with bases between 6,500 feet and 20,000 feet AGL.",
-                "Clouds with bases above 20,000 feet AGL.",
-                "Clouds of vertical development."
-                ],
+    "answers": [
+      "Clouds with bases between surface and 6,500 ft AGL.",
+      "Clouds with bases between 6,500 feet and 20,000 feet AGL.",
+      "Clouds with bases above 20,000 feet AGL.",
+      "Clouds of vertical development."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Unless otherwise noted, cloud bases are forecast in height",
-    "answers": ["ASL in both the Area Forecast and the TAF.",
-                "AGL in both the Area Forecast and the TAF.",
-                "AGL in Area Forecast and ASL in the TAF.",
-                "ASL in the Area Forecast and AGL in the TAF."
-                ],
+    "answers": [
+      "ASL in both the Area Forecast and the TAF.",
+      "AGL in both the Area Forecast and the TAF.",
+      "AGL in Area Forecast and ASL in the TAF.",
+      "ASL in the Area Forecast and AGL in the TAF."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Regarding cloud amount, the words 'overcast' and 'broken' mean respectively",
-    "answers": ["7/8 to 8/8 and 5/8 to 8/8 cloud.",
-                "7/8 to 8/8 and 4/8 to 7/8 cloud.",
-                "8/8 and 4/8 to 7/8 cloud.",
-                "8/8 and 5/8 to 7/8 cloud."
-                ],
+    "answers": [
+      "7/8 to 8/8 and 5/8 to 8/8 cloud.",
+      "7/8 to 8/8 and 4/8 to 7/8 cloud.",
+      "8/8 and 4/8 to 7/8 cloud.",
+      "8/8 and 5/8 to 7/8 cloud."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-   },
-   {
+  },
+  {
     "question": "A layer of dark grey cloud from which continuous rain or snow falls is called",
     "answers": [
       "cirrostratus",
@@ -283,6 +295,145 @@
       "the stability",
       "the lapse rate"
     ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In certain circumstances, air at high altitudes may be warmer than the air below it.  This is called",
+    "answers": [
+      "convection",
+      "inversion",
+      "raiation",
+      "lapse rate reversal"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Select the correct statement from the following",
+    "answers": [
+      "a shallow lapse rate indicates unstable air",
+      "an isothermal layer favours vertical motion",
+      "vertical currents develop readily in unstable air",
+      "visibility is always good in stable air"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An air mass may be defined as a large section of the _ with uniform properties and _ and _ in the horizontal.",
+    "answers": [
+      "statosphere, temperature, pressure",
+      "tropopause, stability, pressure",
+      "atmosphere, stability, moisture",
+      "tropopause, temperature, moisture"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A front is",
+    "answers": [
+      "a narrow transition zone between a cyclone and an anticyclone",
+      "a line of thunderstorms",
+      "a narrow transition zone between two air masses",
+      "a mass layer cloud which is very think and which covers a wide area"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The cloud and precipitation that often develop at a cold front are caused by",
+    "answers": [
+      "cold air climbing over the warm air",
+      "cold air being heated as it moves over the warm ground",
+      "warm air expanding as it is liften by the advancing cold air",
+      "convergence"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In order for clouds to form in the atmosphere, relative humidity must be _, there must be _ of the air and _ must be present",
+    "answers": [
+      "low, cooling, coalescence",
+      "high, cooling, condensation nuclei",
+      "high, heating, condensation nuclei",
+      "low, heating, coalescence"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Fog that forms on clear nights with light winds is known as",
+    "answers": [
+      "advection fog",
+      "steam fog",
+      "upslope fog",
+      "radiation fog"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The dissipation of fog is assumed to result from",
+    "answers": [
+      "an increase in the wind velocity that blows the fog away",
+      "the release of heat through the latent head of vaporization",
+      "terrestrial radiation as sunlight filters down through the fog or stratus layer",
+      "subsidence"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Hoar frost forms on an aircraft as a result of",
+    "answers": [
+      "supercooled water droplets freezing on impact",
+      "freezing rain striking the aircraft",
+      "water vapour turning directly into ice crystals on the aircraft",
+      "water vapour condensing on the aircraft and then freezing"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "As a thunderstorm matures, strong downdrafts develop and cold air rushing down out of the cloud spreads along the surface well in advance of the storm itself.  This is called",
+    "answers": [
+      "a microburst",
+      "the gust front",
+      "virga",
+      "thunderstorm turbulence"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Mechanical turbulence is the result of",
+    "answers": [
+      "convection",
+      "friction between the air and the ground",
+      "diurnal variation of wind",
+      "orographic lift"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The surface ",
+    "answers": [],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"

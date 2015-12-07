@@ -12,22 +12,24 @@
   },
   {
     "question": "A straight line drawn between any two points on a navigation chart closely approximates a",
-    "answers": ["great circle.",
-                "rhumb line.",
-                "parallel of latitude.",
-                "meridian."
-                ],
+    "answers": [
+      "great circle.",
+      "rhumb line.",
+      "parallel of latitude.",
+      "meridian."
+    ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The object of 'swinging' a compass is to minimize error and record the",
-    "answers": ["variation on various headings.",
-                "deviation on various headings.",
-                "turning error on all headings.",
-                "acceleration errors on various headings."
-                ],
+    "answers": [
+      "variation on various headings.",
+      "deviation on various headings.",
+      "turning error on all headings.",
+      "acceleration errors on various headings."
+    ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"

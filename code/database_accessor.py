@@ -47,9 +47,14 @@ class DatabaseAccessor(object):
                 with open(database_root_dir + '/' + database_file_enum[database_to_use], 'r') as f:
                     self.database_list[database_to_use] = json.load(f)
 
+    def get_num_questions(self):
+        num_questions = 0
+        for x in self.database_list.keys():
+            num_questions += len(self.database_list[x])
+        return num_questions
 
     # This method randomly selects a question from a database.
-    def get_random_question(self,db_name=None):
+    def get_random_question(self, db_name=None):
         # We need to add something that keeps track of which questions we've provided so we don't have duplicates.
         # or just not care that there might be duplicates
         # OR this can be handled by the Exam class.
@@ -73,8 +78,7 @@ class DatabaseAccessor(object):
 # of each field. This method is not part of the DatabaseAccessor 
 # class.
 class ValidateDatabase(object):
-
-    def __init__(self,database):
+    def __init__(self, database):
 
         # Initialize variables needed to perform checks.
         self.num_answers = 4
@@ -108,27 +112,26 @@ class ValidateDatabase(object):
         if (len(self.missing_fields) == 0) and (len(self.invalid_field_contents) == 0):
             self.valid = True
 
-
     # Check whether input is a str or unicode
-    def validate_string(self,s):
-        return isinstance(s,(str,unicode)) 
+    def validate_string(self, s):
+        return isinstance(s, (str, unicode))
 
 
-    # Check whether input is a list of str or unicode
-    def validate_list_of_strings(self,s):
+        # Check whether input is a list of str or unicode
+
+    def validate_list_of_strings(self, s):
         valid = False
-        if isinstance(s,list):
+        if isinstance(s, list):
             valid = True
             for x in s:
-                if not isinstance(x,(str,unicode)):
+                if not isinstance(x, (str, unicode)):
                     valid = False
         return valid
 
-
     # Check if input is int and in [0,1,2,3].
-    def validate_number_answers(self,num):
+    def validate_number_answers(self, num):
         valid = False
-        if isinstance(num,int):
+        if isinstance(num, int):
             if (num >= 0) and (num < self.num_answers):
                 valid = True
         return valid
