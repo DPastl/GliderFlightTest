@@ -430,12 +430,5 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "The surface ",
-    "answers": [],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
   }
 ]
