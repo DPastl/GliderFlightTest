@@ -140,6 +140,7 @@ class ValidateDatabase(object):
 
 if __name__ == '__main__':
     database = DatabaseAccessor()
+    print "Number of questions in database: {0}".format(database.get_num_questions())
     question = database.get_random_question()
     print question
     answer_index = None
