@@ -22,10 +22,45 @@ class Exam():
         # number of questions is actually possible given the size of our databases
         self.question_database = DatabaseAccessor()
         self.num_questions = num_questions
+        self.current_question_index = None
 
         for i in range(self.num_questions):
             self.question_list.append(self.question_database.get_random_question())
             self.answer_list.append(None)
+
+    def next_question(self):
+        # Moves the index pointer to the next question.  If we've reached the end of
+        # the question list then return False, otherwise return True
+        if self.current_question_index == None:
+            self.current_question_index = 0
+        else:
+            self.current_question_index += 1
+        if self.current_question_index <= self.num_questions - 1:
+            return True
+        else:
+            return False
+
+    def answer_current_question(self, answer):
+        # Answers the current question, storing the result.  Function
+        # returns a boolean indicating the result.
+        if self.question_list[self.current_question_index].check_answer(answer):
+            self.answer_list[self.current_question_index] = True
+            return True
+        else:
+            self.answer_list[self.current_question_index] = False
+            return False
+
+    def get_current_question(self):
+        # Returns the current question object
+        return self.question_list[self.current_question_index]
+
+    def get_current_question_text(self):
+        question = self.get_current_question()
+        text_array = [question.get_question_text()]
+        answer_array = question.get_list_of_answers()
+        for text in answer_array:
+            text_array.append(text)
+        return text_array
 
     def get_percent(self):
         return float(self.get_num_correct()) / float(self.num_questions) * 100
@@ -52,16 +87,20 @@ class Exam():
 
     def administer_exam(self):
         # Administer the test to user, including input and output to the screen
-        for qindex in range(len(self.question_list)):
-            print "Question Number {0}".format(qindex + 1)
-            print self.question_list[qindex]
+        while (self.next_question()):
+            print "Question Number {0}".format(self.current_question_index + 1)
+            print self.get_current_question()
 
             answer_index = None
             while 1:
                 userInput = raw_input("Answer: ")
                 try:
                     answer_index = int(userInput)
-                    break
+                    if answer_index < 1 or answer_index > 4:
+                        print "Incorrect answer, try again"
+                        answer_index = None
+                    else:
+                        break
                 except:
                     if userInput.lower() == 'exit':
                         print "Exiting Exam"
@@ -69,13 +108,11 @@ class Exam():
                     else:
                         print "That's not what an number looks like, try again"
             if answer_index is not None:
-                if self.question_list[qindex].check_answer(answer_index - 1):
+                if self.answer_current_question(answer_index):
                     print "Correct!\n"
-                    self.answer_list[qindex] = True
                 else:
                     print "INCORRECT - Correct Answer is {0}\n".format(
-                        self.question_list[qindex].get_correct_answer() + 1)
-                    self.answer_list[qindex] = False
+                        self.get_current_question().get_correct_answer())
             else:
                 break
         self.print_percent()

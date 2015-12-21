@@ -29,13 +29,13 @@ class QuestionClass(object):
 
     # A method that checks the user's answer against the right answer.
     def check_answer(self, usersAnswer):
-        if usersAnswer == self.question["correctAnswerIndex"]:
+        if (usersAnswer - 1) == self.question["correctAnswerIndex"]:
             return True
         else:
             return False
 
     def get_correct_answer(self):
-        return self.question["correctAnswerIndex"]
+        return self.question["correctAnswerIndex"] + 1
 
     # A method that returns the question text.
     def get_question_text(self):

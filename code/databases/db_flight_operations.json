@@ -1,6 +1,6 @@
 [
   {
-    "question": "For a particulary single seat glider, the maximum permissible gross weight is 715 lb. The C of G limits are 90-96 inches aft of the datum. The empty glider weighs 500 lb with moment 49,000, the pilot is at 70 inches from the datum with moment 11,200, and a ballast of 40 lb is 70 inches from the datum. Loaded as described, the",
+    "question": "For a particular single seat glider, the maximum permissible gross weight is 715 lb. The C of G limits are 90-96 inches aft of the datum. The empty glider weighs 500 lb with moment 49,000, the pilot is at 70 inches from the datum with moment 11,200, and a ballast of 40 lb is 70 inches from the datum. Loaded as described, the",
     "answers": ["C of G is at the aft limit.",
                 "C of G is at the forward limit.",
                 "gross weight is exceeded.",
