@@ -50,6 +50,10 @@ class Exam():
             self.answer_list[self.current_question_index] = False
             return False
 
+    def get_correct_answer(self):
+        # Returns the correct answer index, starting from 0
+        return self.question_list[self.current_question_index].get_correct_answer()
+
     def get_current_question(self):
         # Returns the current question object
         return self.question_list[self.current_question_index]

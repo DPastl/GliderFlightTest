@@ -4,7 +4,7 @@ import exam
 
 
 class ExamGui():
-    answer_index = 0
+
 
     def __init__(self, master):
         self._master = master
@@ -14,50 +14,82 @@ class ExamGui():
 
     def display_startup(self):
         self.frame = Tk.Frame(self._master)
-        self.frame.pack()
+        self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
         self.label = Tk.Label(self.frame, text="Welcome to the Glider Exam Generator")
-        self.label.pack()
-        self.button = Tk.Button(
-            self.frame, text="QUIT", fg="red", command=self.frame.quit
-        )
-        self.button.pack(side=Tk.RIGHT)
+        self.label.grid(row=0, columnspan=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
         self.button = Tk.Button(
             self.frame, text="Start Test", command=self.start_test
         )
-        self.button.pack(side=Tk.LEFT)
+        self.button.grid(row=1, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        self.button = Tk.Button(
+            self.frame, text="QUIT", fg="red", command=self.frame.quit
+        )
+        self.button.grid(row=1, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
 
     def create_test_frame(self):
-        self.frame = Tk.Frame(self._master, width=500, height=300)
-        self.frame.pack()
-        question_text = self._exam.get_current_question_text()
-        self.question_label = Tk.Label(self.frame, text=question_text[0])
-        self.question_label.pack()
-        self.radio_buttons = list()
-        for answer_text in question_text[1:5]:
-            self.radio_buttons.append(Tk.Radiobutton(
-                self.frame, text=answer_text, variable=self.answer_index))
+        self._master.minsize(width=600, height=200)
+        self._master.maxsize(width=600, height=300)
 
-        for radio_button in self.radio_buttons:
-            radio_button.pack()
+        self.frame = Tk.Frame(self._master)
+        self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        question_text = self._exam.get_current_question_text()
+        self.question_label = Tk.Label(self.frame, text=question_text[0],
+                                       justify=Tk.LEFT, anchor=Tk.W,
+                                       wraplength=600)
+        self.question_label.grid(row=0, columnspan=3, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.radio_buttons = list()
+        self.answer_index = Tk.IntVar()
+        for i in range(4):
+            self.radio_buttons.append(Tk.Radiobutton(
+                self.frame, text=question_text[i + 1], variable=self.answer_index,
+                justify=Tk.LEFT, value=i))
+
+        for i in xrange(4):
+            self.radio_buttons[i].grid(row=i + 1, columnspan=3, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        self.radio_buttons[0].select()
+
+        self.answer_button = Tk.Button(
+            self.frame, text="Next", command=self.next_question
+        )
+        self.answer_button.grid(row=6, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
         self.answer_button = Tk.Button(
             self.frame, text="Answer", command=self.answer_question
         )
-        self.answer_button.pack(side=Tk.RIGHT)
+        self.answer_button.grid(row=6, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        self.quit_button = Tk.Button(
+            self.frame, text="QUIT", fg="red", command=self.frame.quit
+        )
+        self.quit_button.grid(row=6, column=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
     def create_results_frame(self):
         self.frame = Tk.Frame(self._master)
         self.frame.pack()
+        result_label = Tk.Label(self.frame, text="Test Results:")
+        result_label.pack()
+        result_label = Tk.Label(self.frame, text="Score: {0}%".format(self._exam.get_percent()))
+        result_label.pack()
+        quit_button = Tk.Button(
+            self.frame, text="QUIT", fg="red", command=self.frame.quit
+        )
+        quit_button.pack()
 
     ######################## Window Updating #######################
 
     def update_test_frame(self):
+        # Updates the already created list of radio buttons and question label
         question_text = self._exam.get_current_question_text()
-        # self.question_label
-        # for radio_button in self.radio_buttons:
-        #     pass
-        pass
+        self.question_label.configure(text=question_text[0])
+        default_bg = self._master.cget('bg')
+        for i in range(4):
+            self.radio_buttons[i].configure(text=question_text[i + 1], bg=default_bg)
 
     ######################## Events #######################
 
@@ -70,11 +102,19 @@ class ExamGui():
         self.create_test_frame()
 
     def answer_question(self):
-        # Display to user if the test passed or failed
+        print self.answer_index.get()
+        if not self._exam.answer_current_question(self.answer_index.get() + 1):
+            # Make incorrect answer turn red
+            self.radio_buttons[self.answer_index.get()].configure(bg='red')
         # Display correct answer
-        # Move to next question
-        # Update the GUI
-        pass
+        print self._exam.get_correct_answer() - 1
+        self.radio_buttons[self._exam.get_correct_answer() - 1].configure(bg='green')
+
+    def next_question(self):
+        if self._exam.next_question():
+            self.update_test_frame()
+        else:
+            self.create_results_frame()
 
 
 #######################################################
@@ -83,6 +123,6 @@ if __name__ == '__main__':
     root = Tk.Tk()
 
     app = ExamGui(root)
-
+    root.wm_title("Glider Exam Generator")
     root.mainloop()
     root.destroy()  # optional; see description below
