@@ -13,8 +13,15 @@ class ExamGui():
     ######################## Window Creation #######################
 
     def display_startup(self):
+        self._master.minsize(width=600, height=230)
+        self._master.maxsize(width=600, height=230)
+
         self.frame = Tk.Frame(self._master)
         self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.frame.grid_columnconfigure(0, minsize=300)
+        self.frame.grid_columnconfigure(1, minsize=300)
+        self.frame.grid_rowconfigure(0, minsize=200)
+        self.frame.grid_rowconfigure(1, minsize=30)
 
         self.label = Tk.Label(self.frame, text="Welcome to the Glider Exam Generator")
         self.label.grid(row=0, columnspan=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
@@ -31,11 +38,16 @@ class ExamGui():
 
 
     def create_test_frame(self):
-        self._master.minsize(width=600, height=200)
-        self._master.maxsize(width=600, height=300)
-
+        self.frame.destroy()
         self.frame = Tk.Frame(self._master)
         self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        self.frame.grid_columnconfigure(0, minsize=200)
+        self.frame.grid_columnconfigure(1, minsize=200)
+        self.frame.grid_columnconfigure(2, minsize=200)
+        # self.frame.grid_rowconfigure(0, minsize=100)
+        # self.frame.grid_rowconfigure(1, minsize=100)
+        # self.frame.grid_rowconfigure(2, minsize=30)
 
         question_text = self._exam.get_current_question_text()
         self.question_label = Tk.Label(self.frame, text=question_text[0],
@@ -70,16 +82,31 @@ class ExamGui():
         self.quit_button.grid(row=6, column=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
     def create_results_frame(self):
+        self.frame.destroy()
         self.frame = Tk.Frame(self._master)
-        self.frame.pack()
+        self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        self.frame.grid_columnconfigure(0, minsize=300)
+        self.frame.grid_columnconfigure(1, minsize=300)
+        self.frame.grid_rowconfigure(0, minsize=100)
+        self.frame.grid_rowconfigure(1, minsize=100)
+        self.frame.grid_rowconfigure(2, minsize=30)
+
         result_label = Tk.Label(self.frame, text="Test Results:")
-        result_label.pack()
+        result_label.grid(row=0, column=0, columnspan=2)
+
         result_label = Tk.Label(self.frame, text="Score: {0}%".format(self._exam.get_percent()))
-        result_label.pack()
+        result_label.grid(row=1, column=0, columnspan=2)
+
         quit_button = Tk.Button(
             self.frame, text="QUIT", fg="red", command=self.frame.quit
         )
-        quit_button.pack()
+        quit_button.grid(row=2, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        self.new_button = Tk.Button(
+            self.frame, text="New Test", command=self.answer_question
+        )
+        self.new_button.grid(row=2, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
     ######################## Window Updating #######################
 
