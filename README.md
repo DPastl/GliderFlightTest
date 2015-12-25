@@ -1,6 +1,7 @@
 # GliderFlightTest
-A python exam generator to aid in studying for Canadian Glider Pilots Exams.  The interface is command line based
-and will generate exams with a random selection of questions drawn from the databases.
+A python exam generator to aid in studying for Canadian Glider Pilots Exams.  Two interfaces are available: the standard
+command line interface or a simple python GUI.  The GUI was designed with Tkinter and requires no external packages to
+run.  Both interfaces work the same and will create the same tests.
 
 ## Usage
 ### Unix and Linux Systems
@@ -11,10 +12,11 @@ python main.py
 
 ### Windows
 Currently, to run in windows you must first install python.  Navigate to https://www.python.org/downloads/ and download
-python, then click the installer and install python.  The main.py file can then be run by double clicking the file.
+python, then click the installer and install python.  The main.py file can then be run by double clicking the file.  
+A Compiled Windows executable is planned but not yet implemented (the developers don't actually have windows computers).
 
 ## Example
-Below is an example of the exam interface
+Below is an example of the command line exam interface.
 
 ```
 Question Number 1
@@ -28,4 +30,4 @@ Answer:
 
 ## Databases
 The databases are based on questions from sample examinations for glider examinations and from private powered license
-practice exams.
+practice exams.  The databases contain references to where each question came from.
