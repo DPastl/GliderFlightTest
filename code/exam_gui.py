@@ -2,6 +2,13 @@ import Tkinter as Tk
 
 import exam
 
+'''
+A simple exam GUI.
+
+Row and column sizes are set manually as there does not appear to be an option to
+expand to fit the window in tkinter, thus for each question the button placement
+would change without this.
+'''
 
 class ExamGui():
 
@@ -14,7 +21,7 @@ class ExamGui():
 
     def display_startup(self):
         self._master.minsize(width=600, height=230)
-        self._master.maxsize(width=600, height=230)
+        self._master.maxsize(width=600, height=400)
 
         self.frame = Tk.Frame(self._master)
         self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
@@ -45,9 +52,12 @@ class ExamGui():
         self.frame.grid_columnconfigure(0, minsize=200)
         self.frame.grid_columnconfigure(1, minsize=200)
         self.frame.grid_columnconfigure(2, minsize=200)
-        # self.frame.grid_rowconfigure(0, minsize=100)
-        # self.frame.grid_rowconfigure(1, minsize=100)
-        # self.frame.grid_rowconfigure(2, minsize=30)
+        self.frame.grid_rowconfigure(0, minsize=80)
+        self.frame.grid_rowconfigure(1, minsize=30)
+        self.frame.grid_rowconfigure(2, minsize=30)
+        self.frame.grid_rowconfigure(3, minsize=30)
+        self.frame.grid_rowconfigure(4, minsize=30)
+        self.frame.grid_rowconfigure(5, minsize=30)
 
         question_text = self._exam.get_current_question_text()
         self.question_label = Tk.Label(self.frame, text=question_text[0],
@@ -69,17 +79,17 @@ class ExamGui():
         self.answer_button = Tk.Button(
             self.frame, text="Next", command=self.next_question
         )
-        self.answer_button.grid(row=6, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.answer_button.grid(row=5, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
         self.answer_button = Tk.Button(
             self.frame, text="Answer", command=self.answer_question
         )
-        self.answer_button.grid(row=6, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.answer_button.grid(row=5, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
         self.quit_button = Tk.Button(
             self.frame, text="QUIT", fg="red", command=self.frame.quit
         )
-        self.quit_button.grid(row=6, column=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.quit_button.grid(row=5, column=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
     def create_results_frame(self):
         self.frame.destroy()

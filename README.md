@@ -12,7 +12,8 @@ python main.py
 
 ### Windows
 Currently, to run in windows you must first install python.  Navigate to https://www.python.org/downloads/ and download
-python, then click the installer and install python.  The main.py file can then be run by double clicking the file.  
+python, then click the installer and install python.  Download the repository files for this project by clicking
+"Download zip" above.  The main.py file can then be run by double clicking the file.  
 A Compiled Windows executable is planned but not yet implemented (the developers don't actually have windows computers).
 
 ## Example
