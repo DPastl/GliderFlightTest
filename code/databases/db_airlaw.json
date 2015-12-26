@@ -1,168 +1,242 @@
-
 [
-{
+  {
     "question": "When two aircraft are approaching head-on or approximately so and there is a danger of collision, each shall",
-    "answers": ["alter heading to the right.",
-                "alter heading to the left.",
-                "avoid the other by changing altitude.",
-                "turn on the anti-collision light."
-                ],
+    "answers": [
+      "alter heading to the right.",
+      "alter heading to the left.",
+      "avoid the other by changing altitude.",
+      "turn on the anti-collision light."
+    ],
     "correctAnswerIndex": 0,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "When two aircraft are converging headings at approximately the same altitude, the aircraft that has the other on its right shall give way except that, gliders shall give way to",
-    "answers": ["rotary wing aircraft.",
-                "'heavy' aeroplanes.",
-                "airships.",
-                "balloons."
-                ],
+    "answers": [
+      "rotary wing aircraft.",
+      "'heavy' aeroplanes.",
+      "airships.",
+      "balloons."
+    ],
     "correctAnswerIndex": 3,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "'Controlled Airspace' means an airspace of defined dimensions within which",
-    "answers": ["aircraft must proceed in accordance with a SCATANA clearance.",
-                "an Air Traffic Control (ATC) service is provided.",
-                "only aircraft equipped with functioning two-way radio may operate.",
-                "Control is provided for instrument flight rules (IFR) traffic only."
-                ],
+    "answers": [
+      "aircraft must proceed in accordance with a SCATANA clearance.",
+      "an Air Traffic Control (ATC) service is provided.",
+      "only aircraft equipped with functioning two-way radio may operate.",
+      "Control is provided for instrument flight rules (IFR) traffic only."
+    ],
     "correctAnswerIndex": 1,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "Except for ultra-light aeroplanes, no person shall fly an aircraft in Canada unless",
-    "answers": ["it is registered.",
-                "there is in force with respect to aircraft a Certificate of Airworthiness or a Flight Permit.",
-                "its nationality and registration marks are affixed to the aircraft in a proper manner, and are clear and visible.",
-                "all of the above conditions are met."
-                ],
+    "answers": [
+      "it is registered.",
+      "there is in force with respect to aircraft a Certificate of Airworthiness or a Flight Permit.",
+      "its nationality and registration marks are affixed to the aircraft in a proper manner, and are clear and visible.",
+      "all of the above conditions are met."
+    ],
     "correctAnswerIndex": 3,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "No person shall attempt to fly as a flight crew member of a glider if",
-    "answers": ["less than five take-offs and landings have been completed in the preceding six months.",
-                "within the preceding 12 hours alcohol has been consumed.",
-                "experiencing a physical disability likely to prohibit immediate licence renewal.",
-                "less than five supervised take-offs and landings have been completed in the preceding six months."
-                ],
+    "answers": [
+      "less than five take-offs and landings have been completed in the preceding six months.",
+      "within the preceding 12 hours alcohol has been consumed.",
+      "experiencing a physical disability likely to prohibit immediate licence renewal.",
+      "less than five supervised take-offs and landings have been completed in the preceding six months."
+    ],
     "correctAnswerIndex": 2,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "Except when taking off from or landing at an airport or military aerodrome aircraft shall not be flown over the built-up areas of any city, town or other settlement or over an open-air assembly of persons except at an altitude that will permit in the event of an emergency, the landing of the aircraft without undue hazard to persons or to property on the surface; such altitude shall not in any case be less than . . . . . above the highest obstacle within a horizontal radius of two thousand feet from the aircraft. The correct entry to complete the blank space is",
-    "answers": ["500 feet.",
-                "1,000 feet.",
-                "2,000 feet.",
-                "3,000 feet."
-                ],
+    "answers": [
+      "500 feet.",
+      "1,000 feet.",
+      "2,000 feet.",
+      "3,000 feet."
+    ],
     "correctAnswerIndex": 1,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "A steady green light directed at an aircraft in flight means",
-    "answers": ["cleared to land.",
-                "return for landing.",
-                "cleared to base leg.",
-                "cleared for final."
-                ],
+    "answers": [
+      "cleared to land.",
+      "return for landing.",
+      "cleared to base leg.",
+      "cleared for final."
+    ],
     "correctAnswerIndex": 0,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "A glider is preparing for take-off from an aerodrome in the altimeter setting region. If the current altimeter setting is not available the altimeter shall be set to",
-    "answers": ["the mean sea level pressure of the aerodrome.",
-                "the standard pressure setting.",
-                "the elevation of the aerodrome.",
-                "zero."
-                ],
+    "answers": [
+      "the mean sea level pressure of the aerodrome.",
+      "the standard pressure setting.",
+      "the elevation of the aerodrome.",
+      "zero."
+    ],
     "correctAnswerIndex": 2,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "The minimum flight visibility for VFR flight in a Control Area is",
-    "answers": ["6 miles.",
-                "3 miles.",
-                "2 miles.",
-                "1 mile."
-                ],
+    "answers": [
+      "6 miles.",
+      "3 miles.",
+      "2 miles.",
+      "1 mile."
+    ],
     "correctAnswerIndex": 1,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "Every owner of an aircraft shall preserve the Aircraft Journey Log for",
-    "answers": ["one year after the date of the last entry in the log.",
-                "three years after the date of the last entry log.",
-                "as long as the aircraft has a valid Certificate of Airworthiness.",
-                "the life of the aircraft."
-                ],
+    "answers": [
+      "one year after the date of the last entry in the log.",
+      "three years after the date of the last entry log.",
+      "as long as the aircraft has a valid Certificate of Airworthiness.",
+      "the life of the aircraft."
+    ],
     "correctAnswerIndex": 2,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "An Air Traffic Control 'instruction'",
-    "answers": ["is in effect 'advice' provided by ATC and does not require acknowledgement by the pilot concerned.",
-                "is the same as an ATC 'clearance' when issued by a Flight Service Section.",
-                "requires compliance when received unless aircraft safety is jeopardized.",
-                "must be 'read back' in full to the controller and confirmed before becoming effective."
-                ],
+    "answers": [
+      "is in effect 'advice' provided by ATC and does not require acknowledgement by the pilot concerned.",
+      "is the same as an ATC 'clearance' when issued by a Flight Service Section.",
+      "requires compliance when received unless aircraft safety is jeopardized.",
+      "must be 'read back' in full to the controller and confirmed before becoming effective."
+    ],
     "correctAnswerIndex": 2,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "No person shall walk, drive or park any vehicle on any part of an airport used for the movement of aircraft, except in accordance with permission given by the appropriate ATC unit or, in the absence of any such unit, by",
-    "answers": ["an airport guide of commissionnaire.",
-                "the local flying club or school manager.",
-                "the operator of the airport.",
-                "the local police or RCMP."
-                ],
+    "answers": [
+      "an airport guide of commissionnaire.",
+      "the local flying club or school manager.",
+      "the operator of the airport.",
+      "the local police or RCMP."
+    ],
     "correctAnswerIndex": 2,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "'Day' in Canada is defined as that period of time between",
-    "answers": ["sunrise and sunset.",
-                "one hour before sunrise and one hour after sunset.",
-                "the end of morning civil twilight and the beginning of evening civil twilight.",
-                "the beggining of morning civil twilight and the end of evening civil twilight."
-                ],
+    "answers": [
+      "sunrise and sunset.",
+      "one hour before sunrise and one hour after sunset.",
+      "the end of morning civil twilight and the beginning of evening civil twilight.",
+      "the beggining of morning civil twilight and the end of evening civil twilight."
+    ],
     "correctAnswerIndex": 3,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "Unless authorized by ATC, no person shall fly a glider within Class C airspace unless",
-    "answers": ["the pilot receives and acknowledges a VFR clearance to do so.",
-                "the ground visibility is at least 3 miles.",
-                "the pilot maintains a listening watch on an appropriate radio frequency.",
-                "all of the above conditions are met."
-                ],
+    "answers": [
+      "the pilot receives and acknowledges a VFR clearance to do so.",
+      "the ground visibility is at least 3 miles.",
+      "the pilot maintains a listening watch on an appropriate radio frequency.",
+      "all of the above conditions are met."
+    ],
     "correctAnswerIndex": 0,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-},
-{
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
     "question": "The filing of a flight plan or itinerary is only required when a glider pilot plans to proceed",
-    "answers": ["on an aerobatic flight.",
-                "to an altitude of more than 5,000 feet.",
-                "on a passenger carrying flight.",
-                "more than 25 NM from departure point."
-                ],
+    "answers": [
+      "on an aerobatic flight.",
+      "to an altitude of more than 5,000 feet.",
+      "on a passenger carrying flight.",
+      "more than 25 NM from departure point."
+    ],
     "correctAnswerIndex": 3,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-}
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "An airport is",
+    "answers": [
+      "A registered aerodrome.",
+      "an aerodrome with a control tower.",
+      "an aerodrome in respect of which certificate is in force.",
+      "an aerodrome with paved runway."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The west end of a runway oriented east and west is numbered",
+    "answers": [
+      "09.",
+      "90.",
+      "27.",
+      "270."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The runway is lighted at night by two parallel lines of lights; taxiways by two parallel lines of lights.  The missing colours are",
+    "answers": [
+      "white, green.",
+      "white, red.",
+      "white blue.",
+      "green, white."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An aircraft is \"cleared to the circuit\" where a left=hand circuit is in effect.  Without further approval from ATC, a rght turn may be made to",
+    "answers": [
+      "enter the circuit from the upwind side, crosswind or on the downwind leg.",
+      "enter the base leg.",
+      "enter the final leg.",
+      "decend on downwind leg."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The specified area associated with a mandatory frequency and within which a pilot is required to contact the ground station and report his intentions normally is",
+    "answers": [
+      "5 n.m. in radius and extends up to 3,000 ft AGL.",
+      "10 n.m. in radius and extends up to 3,000 ft AGL.",
+      "5 n.m. in radius and extends up to 5,000 ft AGL.",
+      "10 n.m. in radius and extends up to 5,000 ft AGL."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  }
 ]

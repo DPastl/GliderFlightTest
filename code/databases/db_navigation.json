@@ -1,11 +1,12 @@
 [
   {
     "question": "In radio communications the signal which means that grave and imminent danger threaten and immediate assistance is required is the spoken phrase",
-    "answers": ["SECURITE, SECURITE.",
-                "MAYDAY, MAYDAY, MAYDAY.",
-                "PAN PAN, PAN PAN, PAN PAN.",
-                "ALERT, ALERT."
-                ],
+    "answers": [
+      "SECURITE, SECURITE.",
+      "MAYDAY, MAYDAY, MAYDAY.",
+      "PAN PAN, PAN PAN, PAN PAN.",
+      "ALERT, ALERT."
+    ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
@@ -33,5 +34,96 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "A curved line on the surface of the earth that cuts all meridians at the same angle is called a",
+    "answers": [
+      "Rhumb line",
+      "Great Circle",
+      "Azimuth line",
+      "Grivation"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Magnetic variation is defined as",
+    "answers": [
+      "errors in the compass caused by the magnetic field associated with the metal in the airplane frame and engine.",
+      "the difference between the magnetic track and the magnetic heading of the airplane.",
+      "the angle between true north and magnetic north at any given point on earth.",
+      "the difference between true track and magnetic track."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In the northern hemisphere if your airplane is on a northerly heading and if a turn is made towards the east or the west, the compass reading ",
+    "answers": [
+      "will lag or indicate a turn in the opposite direction.",
+      "will lead or indicate a turn in the opposite direction.",
+      "is inversly proportional to the magnetic variation for the particular area.",
+      "will be correct, providing the turn has been perfectly coordinated."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In an airplane in straight and level flight, the magnetic compass will indicate a turn to the left when",
+    "answers": [
+      "accelerating on a heading of 270˚",
+      "decelerating on a heading of 090˚",
+      "decelerating on a heading of 270˚",
+      "accelerating on a heading of 000˚"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In the vicinity of the magnetic poles there is an area",
+    "answers": [
+      "in which all airplanes must be under positive control.",
+      "in which the compass is unreliable.",
+      "in which you must reset the heading indicator every 3 minutes.",
+      "in which the northerly turning error of the compass is more pronounced than usual."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "What does a map scale expressed as 1:1,000,000 mean?",
+    "answers": [
+      "1 inch = 8 miles.",
+      "1 inch on the map = one millionth of a mile.",
+      "1 mile = 1,000,000 inches.",
+      "1 inch on the map = 1,000,000 inches on the ground."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Complete familiarity with the compass rose is essential to naviation.  Which of these statements is true?",
+    "answers": [
+      "The reciprocal of 267˚ is 117˚.",
+      "The direction NE is 090˚",
+      "To turn right 90˚ from a heading of 145˚ would be a turn to 235˚.",
+      "The reciprocal of 115˚ is 225˚"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]
