@@ -238,5 +238,401 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Pilots flying VFR and intending to land at an aerodrome where no madatory frequency, aerodrome traffic frequency or ground station exists, should broadcast their intentions on",
+    "answers": [
+      "123.2 MHz.",
+      "122.8 MHz.",
+      "126.7 MHz.",
+      "121.5 MHz."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A series of red flashes directed to an airplane in flight means",
+    "answers": [
+      "airport unsafe, do not land.",
+      "give way to other aircraft and continue circling.",
+      "do not land for the time being.",
+      "you are in a prohibited area, alter course."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "To transit VFR through any part of Class C airspace, pilots must",
+    "answers": [
+      "have a special Class C endorsement to their licenses.",
+      "monitor 126.7 MHz.",
+      "advise ATC of their intentions and obtain a clearance.",
+      "obtain prior permission in writing from the ATC unit."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "To conduct a VFR flight in Class B airspace, a pilot must",
+    "answers": [
+      "have a Class B license endorsement.",
+      "be flying an airplace equiped with a full IFR instrument panel.",
+      "advise ATC of his intentions and obtain a clearance.",
+      "squak code 1200 on the transponder."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The primary function of Class C Airspace to VFR flights is to",
+    "answers": [
+      "provide headings to the pilot that will \"home\" the aircraft to the airport.",
+      "provide assistance to a pilot flying above an overcast cloud condition.",
+      "more efficiently integrate the flow of VFR and IFR flights within the classified airspace.",
+      "permit \"Special VFR\" flights to be conducted within the control zone."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An airspace classified as Class F and indicated on an aeronautical chart by the code CYA(S) denotes",
+    "answers": [
+      "a danger aera with artillery activity.",
+      "a restricted area with surveillance activity.",
+      "an advisory area with soaring activity.",
+      "an altitude reservation."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Which of the following extends upwards from the surface of the earth?",
+    "answers": [
+      "Terminal Control Area.",
+      "Control Zone.",
+      "Low Level Airway.",
+      "Control Area Extension."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An area in which air traffic control extends upwards from a specified height above the surface is called",
+    "answers": [
+      "a control zone.",
+      "a restricted area.",
+      "a flight information area.",
+      "a control area."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A flight plan must be filed for all VFR flights",
+    "answers": [
+      "along designated airways.",
+      "at night.",
+      "above 3,000 feet AGL.",
+      "to or from military aerodrome."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "When a VFR flight plan has been filed with the appropriate ATC unit, the pilot-in-command shall report his arrival within",
+    "answers": [
+      "30 minutes after landing.",
+      "1 hour after landing.",
+      "12 hours after landing.",
+      "24 hours after landing."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A VFR flight plan must be closed by the pilot",
+    "answers": [
+      "by advising ATC either directly or via a communications base of his arrival time.",
+      "except at airports served by a control tower in which case the tower will close the flight plan.",
+      "by parking his aircraft in close proximity to the tower.",
+      "by filing a return flight plan."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An Air Traffic Control \"Instruction\"",
+    "answers": [
+      "is the same as an Air Traffic Control \"Clearance\".",
+      "must be complied with when received by the pilot to whom it is directed unless he considers it unsafe to do so.",
+      "must be\"read back\" in full to the controller and confirmed before becoming effective.",
+      "is in effect advice provided by ATC and does not require acceptance or formal acknowledgement by the pilot converned."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A pilot accepts a clearance and subsequently finds that all or part of the clearance cannot be compiled with.  He should",
+    "answers": [
+      "comply as best he can under the circumstances to carry out the clearance and say nothing to ATC.",
+      "comply as best he can under the circumstances and advise ATC as soon as possible.",
+      "disregard the clearance.",
+      "comply with only the part that suits him."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In Canada, flights conducted VFR Over The Top",
+    "answers": [
+      "may not be conducted in Class C Airspace.",
+      "may be conducted if the weather at ground level is IFR.",
+      "are not permitted.",
+      "may be conducted if the departure point and the destination are forecast to have VFR weather."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The minimum flight visibility for airplanes under VFR outside controlled airpsace is; within control zones, the minimum flight visibility is.  The missing figures are",
+    "answers": [
+      "500 feet, 1 mile.",
+      "1 mile, 3 miles.",
+      "1 mile, 1 mile.",
+      "3 miles, 3 miles."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Special VFR may be authorized by the approprate ATC unit to an airplane with a functioning two-way radio when flight and ground visibility are not less than",
+    "answers": [
+      "5 miles.",
+      "2 miles.",
+      "1/2 miles.",
+      "1 mile."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An aircraft flying in accordance with Special VFR would be flying within a",
+    "answers": [
+      "control zone.",
+      "aerodrome traffic zone.",
+      "terminal control area.",
+      "the speed limit area."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The minimum content of an initial radio call-up to Winnipeg tower by the pilot of C-GULT is \"Winnipeg Tower, This is Piper Warrior\"",
+    "answers": [
+      "Golf, Uniform, Lima, tango. Over.",
+      "Lima, Tango. Requesting Landing Information. Over.",
+      "Uniform, Lima, Tango. Over.",
+      "Charlie, Golf, Uniform, Lima, tango. Over."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In subsequent transmissions, if initiated by ATC, the following may be ommited:",
+    "answers": [
+      "the first two letters of the registration.",
+      "the first three letters of the registration.",
+      "the phonetic equivalents.",
+      "the whole registration."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The prefix of a call to the London flight sierve station should be",
+    "answers": [
+      "London Radio, this is.",
+      "London Flight Service Station, this is.",
+      "London Advisory, this is.",
+      "London Centre, this is."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A radio-equipped aircraft has been cleared to land at a controlled airport. The pilot should acknowledge the clearance by",
+    "answers": [
+      "clicking the microphone button.",
+      "transmitting the appropriate aircraft call sign.",
+      "replying \"Roger\".",
+      "replying \"Wilco\"."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Pilots flying VFR in uncontrolled airpsace should monitor",
+    "answers": [
+      "121.5 MHz.",
+      "126.7 MHz.",
+      "122.2 MHz.",
+      "123.2 MHz."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The emergency VFR frequency is",
+    "answers": [
+      "122.1 MHz.",
+      "118.3 MHz.",
+      "121.5 MHz.",
+      "5280 MHz."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An airplane has an critical problem while flying over a remote area.  What radiotelephony call-up signal would the pilot transmit three times?",
+    "answers": [
+      "Mayday.",
+      "Pan Pan.",
+      "Urgent.",
+      "S.O.S."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Which of the following is not a VOR frequency?",
+    "answers": [
+      "115.2 MHz.",
+      "113.4 MHz.",
+      "126.7 MHz.",
+      "117.5 MHz."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "\"Daylight\" in Canada, at any place where the sun rises and sets daily, is defined as that period of time",
+    "answers": [
+      "between sunrise and sunset.",
+      "commencing one hour before sunrise and ending one hour after sunset.",
+      "commencing one half hour before sunrise and ending one half hour after sunset.",
+      "when the centre of the sun's disc is not more than 12˚ below the horizon when viewed from the surface."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An islated thunderstorm is in close proximity to an aerodrome.  A pilot wishing to land should",
+    "answers": [
+      "not be concerned about wind shear on final approach because the thunderstorm is off to the west and not over the approach path.",
+      "hold over a known point clear of the thunderstorm until it is well past the aerodrome.",
+      "land as quickly as possible to be on the ground before the thunderstorm reaches the aerodrome.",
+      "add one half the wind gust factor to the recommended landing speed."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "One alcoholic drink taken at 5,000  feet as compared to the same drink taken at sea level.",
+    "answers": [
+      "has a lesser effect.",
+      "has a greater effect.",
+      "has no appreciable difference in effect.",
+      "increases the chance of coriolis effect."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Which of the following statements pertaining to the use of alcohol is true?",
+    "answers": [
+      "Relatively small amounts of alcohol significantly decrease a pilot's tolerance of hypoxia.",
+      "Small amounts of alcohol will not affect a pilot's judgement.",
+      "The effects of alcohol are constant regardless of altitude.",
+      "Coffee accelerates the body's ability to recover from the effects of alcohol."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Select the statement that best describes the effects of fatigue.",
+    "answers": [
+      "Financial or family problems do not influence fatigue.",
+      "Fatigue slows reaction time and contributes to errors.",
+      "a fatigued person recuperates more quickly as the altitude is gained.",
+      "A fatigued person must have food immediately before and during a flight."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "After any underwater activity where compresed air is used for respiration and decompression stops are required during the ascent to the surface, it is recommended that within 24 hours following such activity a pilot should",
+    "answers": [
+      "not fly.",
+      "restrict flight to altitudes of less than 7,000 feet.",
+      "restrict rates of climb and descent to less than 300 feet per minute.",
+      "restrict flight to passenger status only."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Many common drugs such as cold tablets, cough mixtures, antihistamines and other over the counter remedies may serisouly impair the judgement and co-ordination needed while flying.  The safest rule is to",
+    "answers": [
+      "read the manufacturer's warning to ensure that you are aware of possible reactions to such drugs.",
+      "allow at least 8 hours between taking any medicine or drug and flying.",
+      "allow at least 48 hours after commencing medication.",
+      "restrict flight to passenger status only."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A condition in which there is a lowering of the temperature of the body's core is called",
+    "answers": [
+      "hyperventilation.",
+      "hypoglycaemia.",
+      "coriolis effect.",
+      "hypothermia."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]

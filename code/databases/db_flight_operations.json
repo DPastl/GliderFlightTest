@@ -1,55 +1,60 @@
 [
   {
     "question": "For a particular single seat glider, the maximum permissible gross weight is 715 lb. The C of G limits are 90-96 inches aft of the datum. The empty glider weighs 500 lb with moment 49,000, the pilot is at 70 inches from the datum with moment 11,200, and a ballast of 40 lb is 70 inches from the datum. Loaded as described, the",
-    "answers": ["C of G is at the aft limit.",
-                "C of G is at the forward limit.",
-                "gross weight is exceeded.",
-                "gross weight is 715 lb."
-                ],
+    "answers": [
+      "C of G is at the aft limit.",
+      "C of G is at the forward limit.",
+      "gross weight is exceeded.",
+      "gross weight is 715 lb."
+    ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "While on tow a glider pilot is unable to release the tow rope. The signal to indicate this condition to the tow pilot is to",
-    "answers": ["yaw the glider to the right and left in a series of skidding turns.",
-                "commence a series of 'S' turns at normal tow position.",
-                "porpoise rapidly between high and low tow positions.",
-                "fly to the left of the tug and rock the glider's wings."
-                ],
+    "answers": [
+      "yaw the glider to the right and left in a series of skidding turns.",
+      "commence a series of 'S' turns at normal tow position.",
+      "porpoise rapidly between high and low tow positions.",
+      "fly to the left of the tug and rock the glider's wings."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "A 'weak link' would most likely be associated with a",
-    "answers": ["tow line.",
-                "control cable.",
-                "dive brake.",
-                "canopy latch."
-                ],
+    "answers": [
+      "tow line.",
+      "control cable.",
+      "dive brake.",
+      "canopy latch."
+    ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "At a gliding ratio of 15:1, a glider descending 1,000 feet in still air will move forward a distance closest to",
-    "answers": ["2.2 nm.",
-                "2.5 nm.",
-                "2.8 nm.",
-                "3.1 nm."
-                ],
+    "answers": [
+      "2.2 nm.",
+      "2.5 nm.",
+      "2.8 nm.",
+      "3.1 nm."
+    ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
-    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"   
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "During ground operations if someone stands with both hands above their head, this means",
-    "answers": ["number two for take off.",
-                "take up slack.",
-                "stop.",
-                "begin take-off."
-                ],
+    "answers": [
+      "number two for take off.",
+      "take up slack.",
+      "stop.",
+      "begin take-off."
+    ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
@@ -101,5 +106,137 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "The maximum gross weight of an airplane is the",
+    "answers": [
+      "basic empty weight plus the payload.",
+      "operational weight empty plus the payload.",
+      "maximum weight approved for operation of the airplane.",
+      "basic empty weight plus the useful load."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "If the airplane is improperly loaded and the aft C.G. limit is exceeded to any appreciable extent, it will be",
+    "answers": [
+      "difficult to put into a stall and spin.",
+      "nose heavy.",
+      "difficult to get off the ground.",
+      "easy to stall and spin and recovery would be more difficult than under conditions of proper loading."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Your Airplane Flight Manual specifies a basic empty weight of 1,640 lbs. and a maximum gross weight of 2,550 lbs. You are planning a flight with two friends who weigh 172 lbs. and 195 lbs. respectively. Your weight is 179 lbs. You have three peices of baggage weighing 30, 24, 17 lbs. each. You have full fuel tanks giving you 48 Gallons of usable fuel.  The take-off weight of the airplane would be",
+    "answers": [
+      "the same as the maximum gross weight.",
+      "slightly more than the maximum gross weight.",
+      "5 lbs less than the maximum gross weight.",
+      "56 lbs less than the maximum gross weight."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Since the surface wind is gusting, causing turbulence as you approach to land, it is important to",
+    "answers": [
+      "always use full flaps.",
+      "land as slowly as possible.",
+      "maintain the same airspeed you would in smooth air.",
+      "carry a little excess airspeed to assure positive control."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "You have been cleared o land in a gusty wind condition. You are concerned at the wind angle as indicated by the wind-sock at the approach end of the runway, which you feel now favours another runway.  You should",
+    "answers": [
+      "continue to land as you must obey the landing clearance.",
+      "use full flaps and approach at the reduced approach speed.",
+      "alter heading and land on another runway which is more into the wind.",
+      "overshoot and request and into wind runway."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Which statement concerning wing tip vortices is false?",
+    "answers": [
+      "They are caused directly by jet wash.",
+      "These vortices normally settle below and behind the aircraft.",
+      "With a light crosswind, one vortex can remain stationary over the ground, for some time.",
+      "Lateral movement of vortices, even in a no wind condition, may place a vortex core over a parallel runway."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A helicopter in forward flight produces",
+    "answers": [
+      "rotary blade vortices which rise above the helicopter.",
+      "trailing cortices similar to wing tip vortices.",
+      "turbulence which remains at the same level as the helicopter.",
+      "turbulence ahead of the helicopter."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Wing tip vortices generated by a departing airplane are most severe",
+    "answers": [
+      "before rotation.",
+      "at lift-off.",
+      "immediatly following the application of take-off power.",
+      "during cruise climb configuration."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "At high altitude, a pilot is susceptible to hypoxia.  Hypoxia is",
+    "answers": [
+      "excess carbon monoxide in the haemoglobin.",
+      "imbalance of oxygen and carbon dioxide in the body system.",
+      "spatial disorientation",
+      "lack of sufficient oxygen in the body cells."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "To prevent hypoxia, a pilot should",
+    "answers": [
+      "use oxygen above 5,000 feet ASL during daytime.",
+      "breathe into a paper bag.",
+      "use oxygen above 5,000 feet ASL at night.",
+      "open the windows and air vents on the airplane."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Decompression sickness",
+    "answers": [
+      "is caused when nitrogen comes out of solution and forms bubbles.",
+      "is caused by breathing ozone when flying at high altitudes.",
+      "causes severe equilibrium problems.",
+      "is not aggravated bya  severe obesity problem."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]

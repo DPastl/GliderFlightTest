@@ -10,5 +10,41 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In radio transmission, ground waves follow the surface of the earth.  As they come in contact with the surface, the ground waves slow down.  This slowing down is called",
+    "answers": [
+      "diffraction.",
+      "skip.",
+      "surface attenuation.",
+      "terrain effect."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The long range capabilities of HF radio are attributable to the behaviour of",
+    "answers": [
+      "ground waves.",
+      "sky waves.",
+      "line-of-sigh transmission.",
+      "phase differential."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Your initial radio contact with the control tower shall always be",
+    "answers": [
+      "immediately after entering the control zone.",
+      "upon entering the aerodrome traffic zone.",
+      "prior to entering the control zone.",
+      "immediately prior to joining the circuit."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]
