@@ -634,5 +634,17 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "When a canadian aviation document has been suspended or cancelled, the person to whom it was issued shall:",
+    "answers": [
+      "Burn the document.",
+      "shred the document securely.",
+      "return is to the minister",
+      "keep it on record for 5 years"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "CARs 103.03"
   }
 ]

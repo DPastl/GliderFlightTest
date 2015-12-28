@@ -1,13 +1,230 @@
 [
-{
+  {
     "question": "Pilots should be aware that an early symptom of hypoxia (lack of oxygen) is a sense of",
-    "answers": ["well-being.",
-                "drowsiness.",
-                "dizziness.",
-                "panic."
-                ],
+    "answers": [
+      "well-being.",
+      "drowsiness.",
+      "dizziness.",
+      "panic."
+    ],
     "correctAnswerIndex": 0,
-  "correctAnswerText": "Correct!",
-  "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-}
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "At high altitude, a pilot is susceptible to hypoxia.  Hypoxia is",
+    "answers": [
+      "excess carbon monoxide in the haemoglobin.",
+      "imbalance of oxygen and carbon dioxide in the body system.",
+      "spatial disorientation",
+      "lack of sufficient oxygen in the body cells."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "To prevent hypoxia, a pilot should",
+    "answers": [
+      "use oxygen above 5,000 feet ASL during daytime.",
+      "breathe into a paper bag.",
+      "use oxygen above 5,000 feet ASL at night.",
+      "open the windows and air vents on the airplane."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Decompression sickness",
+    "answers": [
+      "is caused when nitrogen comes out of solution and forms bubbles.",
+      "is caused by breathing ozone when flying at high altitudes.",
+      "causes severe equilibrium problems.",
+      "is not aggravated bya  severe obesity problem."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The maximum height a pilot may operate an aircraft for extended periods without oxygen is",
+    "answers": [
+      "10,000 feet.",
+      "9,000 feet.",
+      "13,000 feet.",
+      "11,500 feet."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 310"
+  },
+  {
+    "question": "A pilot may operate an aircraft without oxygen",
+    "answers": [
+      "at any altitude provided they are althletically fit.",
+      "at no more than 12,000 feet.",
+      "between 10,000 feet and 13,000 feet for no more than 1 hour",
+      "between 10,000 feet and 13,000 feet for no more than 30 minutes."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 310"
+  },
+  {
+    "question": "Susceptibility to carbon monoxide poisoning",
+    "answers": [
+      "increases with speed.",
+      "decreases with speed.",
+      "increases with altitude.",
+      "decreases with altitude."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 310"
+  },
+  {
+    "question": "A person engageing in scuba diving prior to flying should not fly for up to 24 hours due to",
+    "answers": [
+      "buildup of oxygen in the blood which could cause the bends.",
+      "buildup of nitrogen in the blood which could cause the bends.",
+      "decreased red blood cell count which could cause incapacitation.",
+      "decreased white blood cell count which could mak one susceptable to the common cold."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 312"
+  },
+  {
+    "question": "Decompression sickness is caused by excessive nitrogen in the blood which could",
+    "answers": [
+      "create bubbles in the blood and block small vessels.",
+      "expand and put pressure on internal organs.",
+      "expand and put pressure on the brain, causing headaches and nausia.",
+      "cause upset stomachs."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 312"
+  },
+  {
+    "question": "After non-decompression dives, flights up to 8,000 feet ASL should be avoided for",
+    "answers": [
+      "8 hours.",
+      "14 hours.",
+      "24 hours.",
+      "12 hours."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 312"
+  },
+  {
+    "question": "After a dive where decompression stops were required a person should not fly above 8,000 feet ASL for",
+    "answers": [
+      "2 days.",
+      "24 hours.",
+      "36 hours.",
+      "3 days."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 312"
+  },
+  {
+    "question": "Temperatures above 30˚C",
+    "answers": [
+      "are not acceptable conditions for a pilot.",
+      "reduce a pilots vision.",
+      "is uncomfortable for passengers but otherwise not an issue.",
+      "Reduce a pilots tolerance to acceleration and hypoxia."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 314"
+  },
+  {
+    "question": "Temperatures above 30˚C",
+    "answers": [
+      "are not acceptable conditions for a pilot.",
+      "can cause hyperthermia.",
+      "is uncomfortable for passengers but otherwise not an issue.",
+      "can cause hypothermia."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 315"
+  },
+  {
+    "question": "Hypothermia is",
+    "answers": [
+      "A lowering of the core temperature of the body.",
+      "a warming of the core temperature of the body.",
+      "generally only an issue in northern Canada.",
+      "caused by alcohol consumption."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 315"
+  },
+  {
+    "question": "Hyperthermia is",
+    "answers": [
+      "A lowering of the core temperature of the body.",
+      "a warming of the core temperature of the body.",
+      "generally only an issue in northern Canada.",
+      "caused by alcohol consumption."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 315"
+  },
+  {
+    "question": "A pilot may carry a passenger that is under the influence of alcohol",
+    "answers": [
+      "provided they are safely strapped in.",
+      "never.",
+      "provided there is an attendant.",
+      "always"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 317"
+  },
+  {
+    "question": "A pilot is required to allow at least _ hours between the consumption of alcohol and piloting an airplane",
+    "answers": [
+      "6",
+      "10",
+      "8",
+      "24"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 317"
+  },
+  {
+    "question": "If a pilot has made a blood donation it is recommended that you wait at least _ hours before flying",
+    "answers": [
+      "8",
+      "48",
+      "64",
+      "36"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 317"
+  },
+  {
+    "question": "Pilots may continue to fly while pregnant up to",
+    "answers": [
+      "1 week before the due date.",
+      "32 weeks into the pregnancy.",
+      "never.",
+      "30 weeks into the pregnancy."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 318"
+  }
 ]

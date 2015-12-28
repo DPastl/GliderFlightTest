@@ -202,41 +202,5 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "At high altitude, a pilot is susceptible to hypoxia.  Hypoxia is",
-    "answers": [
-      "excess carbon monoxide in the haemoglobin.",
-      "imbalance of oxygen and carbon dioxide in the body system.",
-      "spatial disorientation",
-      "lack of sufficient oxygen in the body cells."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "To prevent hypoxia, a pilot should",
-    "answers": [
-      "use oxygen above 5,000 feet ASL during daytime.",
-      "breathe into a paper bag.",
-      "use oxygen above 5,000 feet ASL at night.",
-      "open the windows and air vents on the airplane."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "Decompression sickness",
-    "answers": [
-      "is caused when nitrogen comes out of solution and forms bubbles.",
-      "is caused by breathing ozone when flying at high altitudes.",
-      "causes severe equilibrium problems.",
-      "is not aggravated bya  severe obesity problem."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
   }
 ]
