@@ -66,12 +66,16 @@ class ExamGui():
         self.question_label.grid(row=0, columnspan=3, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
         self.radio_buttons = list()
         self.answer_index = Tk.IntVar()
-        for i in range(4):
+
+        # Determine how many answers there are for the current question
+        self.num_answers = len(self._exam.question_list[self._exam.current_question_index].answers)
+
+        for i in range(self.num_answers):
             self.radio_buttons.append(Tk.Radiobutton(
                 self.frame, text=question_text[i + 1], variable=self.answer_index,
                 justify=Tk.LEFT, value=i))
 
-        for i in xrange(4):
+        for i in xrange(self.num_answers):
             self.radio_buttons[i].grid(row=i + 1, columnspan=3, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
         self.radio_buttons[0].select()
@@ -125,7 +129,11 @@ class ExamGui():
         question_text = self._exam.get_current_question_text()
         self.question_label.configure(text=question_text[0])
         default_bg = self._master.cget('bg')
-        for i in range(4):
+        
+        # Determine how many answers there are for the current question
+        self.num_answers = len(self._exam.question_list[self._exam.current_question_index].answers)
+        
+        for i in range(self.num_answers):
             self.radio_buttons[i].configure(text=question_text[i + 1], bg=default_bg)
 
     ######################## Events #######################

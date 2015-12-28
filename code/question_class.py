@@ -9,7 +9,7 @@ returns a nicely formatted question and answer that can be printed.
 class QuestionClass(object):
     def __init__(self, question):
         self.question = question
-
+        self.answers = question["answers"]
 
     def __str__(self):
         out = self.question["question"].encode('utf-8')
