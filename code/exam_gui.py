@@ -156,12 +156,18 @@ class ExamGui():
 
     def answer_question(self):
         print self.answer_index.get()
-        if not self._exam.answer_current_question(self.answer_index.get() + 1):
-            # Make incorrect answer turn red
-            self.radio_buttons[self.answer_index.get()].configure(bg='red')
-        # Display correct answer
-        print self._exam.get_correct_answer() - 1
-        self.radio_buttons[self._exam.get_correct_answer() - 1].configure(bg='green')
+
+        # Check if question was already answered.
+        if self._exam.answer_list[self._exam.current_question_index] is not None:
+            answered = True
+        else:
+            # If it wasn't, then check the inputted answer.
+            if not self._exam.answer_current_question(self.answer_index.get() + 1):
+                # Make incorrect answer turn red
+                self.radio_buttons[self.answer_index.get()].configure(bg='red')
+            # Display correct answer
+            print self._exam.get_correct_answer() - 1
+            self.radio_buttons[self._exam.get_correct_answer() - 1].configure(bg='green')
 
     def next_question(self):
         if self._exam.next_question():
