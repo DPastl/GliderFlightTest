@@ -338,5 +338,125 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "As the angle of attack of an airfoil is increased up to the point of stall, the centre of pressure will move",
+    "answers": [
+      "back.",
+      "forward.",
+      "up.",
+      "will not move."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "This type of drag is caused by those parts of an airplane that produce lift and therefore cannot be completely eliminated.",
+    "answers": [
+      "Parasitic drag.",
+      "Form drag.",
+      "Induced drag.",
+      "Interference drag."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "An aircraft will stall at any airspeed or attitude if the ________ is exceeded.",
+    "answers": [
+      "critical angle of attack",
+      "centre of gravity",
+      "best lift/drag ratio",
+      "best angle of climb"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The maximum speed at which an airplane can be safely operated in smooth air is called the",
+    "answers": [
+      "maneuvering speed (Va).",
+      "normal operating limit speed (Vno).",
+      "max flap down speed (Vfe).",
+      "the never exceed speed (Vne)."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The point at which the boundary layer changes from laminar to turbulent is called the",
+    "answers": [
+      "centre of pressure.",
+      "transition point.",
+      "centre of gravity.",
+      "aileron drag."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Longitudinal stability around the lateral axis of the aircraft and is called pitch stability. The two principle factors which influence longitudinal stbility are",
+    "answers": [
+      "size and position of the horizontal stabilizer and the position of the C of G.",
+      "dihedral and the position of the C of G.",
+      "sweepback and the C of R.",
+      "keel effect and the position of the fin."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The steeper the angle of bank for any given airspeed",
+    "answers": [
+      "the larger the radius of turn.",
+      "the greater the rate of turn.",
+      "the higher the stalling speed.",
+      "both b and c."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The aspect ratio of a wing is computed by dividing the span by the",
+    "answers": [
+      "camber.",
+      "length.",
+      "average chord.",
+      "weight."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Induced drag ________ as the speed of an airplane increases.",
+    "answers": [
+      "decreases",
+      "remains the same",
+      "increases",
+      "none of the above"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The ________ of an airfoil is the curvature of the upper and lower surfaces.",
+    "answers": [
+      "chord",
+      "camber",
+      "pressure",
+      "span"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]

@@ -430,5 +430,197 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Most of the 'weather' occurs in the ________ because of the presence of water vapour and strong vertical currents.",
+    "answers": [
+      "troposphere",
+      "tropopause",
+      "stratosphere",
+      "mesospere"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In the ICAO standard atmosphere the rate of decrease of temperature with height is ________ per 1,000 feet.",
+    "answers": [
+      "15 C",
+      "1.98 C",
+      "3 C",
+      "5 C"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Clouds from which precipitation falls are designated ________ clouds.",
+    "answers": [
+      "cirrus",
+      "cumulus",
+      "status",
+      "nimbus"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In the METAR weather reporting code the sky is divided in to 8 segments called okras. The sky condition FEW means that ________ okras or less of the sky is covered by clouds.",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Lines on a weather map that join areas of equal barometric pressure are called",
+    "answers": [
+      "contour lines.",
+      "pressure gradient.",
+      "isobars.",
+      "agonic lines."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Where the isobars are very close together, the pressure gradient is steep and the wind is",
+    "answers": [
+      "strong.",
+      "light.",
+      "variable.",
+      "cold."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "A ________ is a rapid and irregular fluctuation in wind speed and direction caused by mechanical turbulence and by unequal heating of the earth's surface.",
+    "answers": [
+      "squall",
+      "gust",
+      "mountain wave",
+      "veer"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "When a given mass of air is heated and no new water vapour is added, the relative humidity of the air",
+    "answers": [
+      "remains the same.",
+      "increases.",
+      "decreases.",
+      "becomes saturated."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Air that will resist upward or downward displacement and tends to return to its original horizontal level is said to be",
+    "answers": [
+      "unstable.",
+      "sturated.",
+      "sublimation.",
+      "stable."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The temperature that air must be cooled at a constant pressure to become saturated is called",
+    "answers": [
+      "dew point.",
+      "relative humidity.",
+      "fahrenheit.",
+      "isothermal layer."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The dangers associated with the passage of a thunderstorm are",
+    "answers": [
+      "strong, gusty winds, and turbulence.",
+      "heavy rain and hail.",
+      "lightning.",
+      "all of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In METAR, the term CCA means",
+    "answers": [
+      "the 3 letter identifier of the reporting station.",
+      "that this is a special report.",
+      "this is the first corrrection of a report.",
+      "none of the above."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "If the METAR reads: '+SN BLSN', the present weather is",
+    "answers": [
+      "light snow and heavy blowing snow.",
+      "moderate snow and moderate blowing snow.",
+      "heavy snow and moderate blowing snow.",
+      "none of the above."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In METAR, M02/M05 means",
+    "answers": [
+      "2 F and 5 F dew point.",
+      "-2 C and -5 C dew point.",
+      "-20 F and -50 F dew point.",
+      "2 C and 50 F dew point."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In METAR, A3000 means the altimeter setting is",
+    "answers": [
+      "30.00 inches of mercury.",
+      "29.90 inches of mercury.",
+      "1030.0 hectopascals.",
+      "990.0 hectopascals."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "An aerodrome forecast (TAF) is issued at least ________ times per day.",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]

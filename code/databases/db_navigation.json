@@ -125,5 +125,41 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The shortest distance between two points on the surface of the earth is represented by a",
+    "answers": [
+      "rhumb line.",
+      "true heading.",
+      "magnetic meridian.",
+      "great circle."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The angle between true heading and magnetic heading is called",
+    "answers": [
+      "variation.",
+      "magnetic dip.",
+      "deviation.",
+      "turning error."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "If the track is 90 degrees, variation is 12 degrees west, and deviation is 3 degrees east, the compass heading reads",
+    "answers": [
+      "81 degrees.",
+      "99 degrees.",
+      "105 degrees.",
+      "75 degrees."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]

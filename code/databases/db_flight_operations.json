@@ -238,5 +238,125 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The main members in a wing which run the length of the wing from wing root to wingtip and carry most of the load are called",
+    "answers": [
+      "ribs.",
+      "longerons.",
+      "stringers.",
+      "spars."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Te complete tail section of an airplane is called the",
+    "answers": [
+      "empennage.",
+      "stabilator.",
+      "canard.",
+      "elevators."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Spoilers are devices fitted to the wing which increase/decrease",
+    "answers": [
+      "drag/lift.",
+      "lift/drag.",
+      "weight/lift.",
+      "speed/drag."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Movement of the aircraft around the vertical or normal axis is called ________ and is controlled by movement of the _________.",
+    "answers": [
+      "roll, rudder",
+      "yaw, rudder",
+      "pitch, elevators",
+      "yaw, ailerons"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "When gliding into a fairly strong head wind, greater distance may be covered over the ground if the speed is kept _________ the best lift/drag ratio speed.",
+    "answers": [
+      "slightly slower than",
+      "much slower than",
+      "slightly faster than",
+      "at"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In some ways a spiral dive resembles a spin. However, in a spin the airspeed is ___________ and in a spiral dive the airspeed _________.",
+    "answers": [
+      "constant and low, increases rapidly",
+      "increases rapidly, is constant and low",
+      "constant and low, remains the same",
+      "increasing, decreases"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In straight and level flight an aircraft has a load factor of 1, or 1G. A 60 degree bank turn produces a load factor of",
+    "answers": [
+      "2.",
+      "1.5.",
+      "3.86.",
+      "1.04."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The tendency of an aircraft in flight to remain in straight, level, upright flight and return to this attitude, if displaced, without corrective action of the pilot is called",
+    "answers": [
+      "balance.",
+      "instability.",
+      "equilibrium.",
+      "stability."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The radio phrase, OVER, means",
+    "answers": [
+      "my transmission is ended and I do not expect a reply.",
+      "I will repeat.",
+      "my transmission has ended and I expect a reply.",
+      "okay, I have received your message."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "When two aircraft are approaching head-on or approximately so, each should alter heading to ________ in order to avoid any danger of collision.",
+    "answers": [
+      "the right",
+      "the left",
+      "the left and right respectively",
+      "above and below"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]
