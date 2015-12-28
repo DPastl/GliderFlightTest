@@ -46,5 +46,17 @@
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The only pilot static instrument the requires both a pitot pressure source and a static pressure source is the",
+    "answers": [
+      "vertical speed indicator.",
+      "airspeed indicator.",
+      "altimeter.",
+      "attitude indicator."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]
