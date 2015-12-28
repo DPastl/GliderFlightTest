@@ -40,6 +40,15 @@ class Exam():
         else:
             return False
 
+    def prev_question(self):
+        # Moves the index pointer to the previous question.
+        if self.current_question_index <= 0:
+            self.current_question_index = 0
+        else:
+            self.current_question_index -= 1
+            return True
+        return False
+
     def answer_current_question(self, answer):
         # Answers the current question, storing the result.  Function
         # returns a boolean indicating the result.

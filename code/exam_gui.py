@@ -45,25 +45,27 @@ class ExamGui():
 
 
     def create_test_frame(self):
+        # Determine how many answers there are for the current question
+        self.num_answers = len(self._exam.question_list[self._exam.current_question_index].answers)
+
         self.frame.destroy()
         self.frame = Tk.Frame(self._master)
         self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
-        self.frame.grid_columnconfigure(0, minsize=200)
-        self.frame.grid_columnconfigure(1, minsize=200)
-        self.frame.grid_columnconfigure(2, minsize=200)
+        self.frame.grid_columnconfigure(0, minsize=150)
+        self.frame.grid_columnconfigure(1, minsize=150)
+        self.frame.grid_columnconfigure(2, minsize=150)
+        self.frame.grid_columnconfigure(3, minsize=150)
+
         self.frame.grid_rowconfigure(0, minsize=80)
-        self.frame.grid_rowconfigure(1, minsize=30)
-        self.frame.grid_rowconfigure(2, minsize=30)
-        self.frame.grid_rowconfigure(3, minsize=30)
-        self.frame.grid_rowconfigure(4, minsize=30)
-        self.frame.grid_rowconfigure(5, minsize=30)
+        for i in range(self.num_answers+1):
+            self.frame.grid_rowconfigure(1+i, minsize=30)
 
         question_text = self._exam.get_current_question_text()
         self.question_label = Tk.Label(self.frame, text=question_text[0],
                                        justify=Tk.LEFT, anchor=Tk.W,
                                        wraplength=600)
-        self.question_label.grid(row=0, columnspan=3, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.question_label.grid(row=0, column=0, columnspan=4, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
         self.radio_buttons = list()
         self.answer_index = Tk.IntVar()
 
@@ -76,24 +78,30 @@ class ExamGui():
                 justify=Tk.LEFT, value=i))
 
         for i in xrange(self.num_answers):
-            self.radio_buttons[i].grid(row=i + 1, columnspan=3, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+            self.radio_buttons[i].grid(row=i + 1, column=0, columnspan=4, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
         self.radio_buttons[0].select()
 
-        self.answer_button = Tk.Button(
-            self.frame, text="Next", command=self.next_question
-        )
-        self.answer_button.grid(row=5, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        self.prev_button = Tk.Button(
+            self.frame, text="Prev", command=self.prev_question)
+        self.prev_button.grid(row=5, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.prev_button.config(width=15)
 
         self.answer_button = Tk.Button(
-            self.frame, text="Answer", command=self.answer_question
-        )
+            self.frame, text="Next", command=self.next_question)        
         self.answer_button.grid(row=5, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.answer_button.config(width=15)
+
+        self.answer_button = Tk.Button(
+            self.frame, text="Answer", command=self.answer_question)
+        self.answer_button.grid(row=5, column=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.answer_button.config(width=15)
 
         self.quit_button = Tk.Button(
-            self.frame, text="QUIT", fg="red", command=self.frame.quit
-        )
-        self.quit_button.grid(row=5, column=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+            self.frame, text="QUIT", fg="red", command=self.frame.quit)
+        self.quit_button.grid(row=5, column=3, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.quit_button.config(width=15)
 
     def create_results_frame(self):
         self.frame.destroy()
@@ -132,7 +140,7 @@ class ExamGui():
         
         # Determine how many answers there are for the current question
         self.num_answers = len(self._exam.question_list[self._exam.current_question_index].answers)
-        
+
         for i in range(self.num_answers):
             self.radio_buttons[i].configure(text=question_text[i + 1], bg=default_bg)
 
@@ -160,6 +168,10 @@ class ExamGui():
             self.update_test_frame()
         else:
             self.create_results_frame()
+
+    def prev_question(self):
+        if self._exam.prev_question():
+            self.update_test_frame()
 
 
 #######################################################
