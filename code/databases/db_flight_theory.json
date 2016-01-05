@@ -193,11 +193,12 @@
   },
   {
     "question": "Pilots are warned of the dangerous turbulence existing in the wake of large aeroplane in flight. The turbulence referred to is caused by",
-    "answers": ["expanding wing tip vortices.",
-                "propeller or jet wash.",
-                "air displaced by the fuselage.",
-                "the vacuum created by aircraft passage."
-                ],
+    "answers": [
+      "expanding wing tip vortices.",
+      "propeller or jet wash.",
+      "air displaced by the fuselage.",
+      "the vacuum created by aircraft passage."
+    ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
@@ -264,77 +265,84 @@
   },
   {
     "question": "The total lift force acting on an aerofoil in flight is considered to act",
-    "answers": ["upwards with reference to the earth's surface.",
-                "at 90° to the aircraft longitudinal axis.",
-                "at 90° to the average relative air flow.",
-                "at 90° to the average wing chord."
-                ],
+    "answers": [
+      "upwards with reference to the earth's surface.",
+      "at 90° to the aircraft longitudinal axis.",
+      "at 90° to the average relative air flow.",
+      "at 90° to the average wing chord."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "At the point of stall an increase in the angle of attack results in",
-    "answers": ["more lift and more drag.",
-                "more lift and less drag.",
-                "less lift and less drag.",
-                "no effect on lift or drag."
-                ],
+    "answers": [
+      "more lift and more drag.",
+      "more lift and less drag.",
+      "less lift and less drag.",
+      "no effect on lift or drag."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "Longitudinal stability refers to stability about the",
-    "answers": ["longitudinal axis.",
-                "lateral axis.",
-                "normal axis.",
-                "directional axis."
-                ],
+    "answers": [
+      "longitudinal axis.",
+      "lateral axis.",
+      "normal axis.",
+      "directional axis."
+    ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The stalling speed of a glider is",
-    "answers": ["the same in coordinated turns as in straight and level flight.",
-                "inversely proportional to the wing loading.",
-                "not affected by aerodynamic loads.",
-                "greater in coordinated turns than in straight and level flight."
-                ],
+    "answers": [
+      "the same in coordinated turns as in straight and level flight.",
+      "inversely proportional to the wing loading.",
+      "not affected by aerodynamic loads.",
+      "greater in coordinated turns than in straight and level flight."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "The ratio of the total lift force acting on the wings of a glider during flight to the gross weight of the glider is known as the",
-    "answers": ["lift/drag ratio.",
-                "aspect ratio.",
-                "power factor.",
-                "load factor."
-                ],
+    "answers": [
+      "lift/drag ratio.",
+      "aspect ratio.",
+      "power factor.",
+      "load factor."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "In straight and level flight at 6,000 feet ASL a glider stalls at 35 kt IAS. At what IAS will it stall in similar circumstances in the circuit at 1,000 feet ASL?",
-    "answers": ["27 kt.",
-                "32 kt.",
-                "35 kt.",
-                "More than 35 kt."
-                ],
+    "answers": [
+      "27 kt.",
+      "32 kt.",
+      "35 kt.",
+      "More than 35 kt."
+    ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
     "question": "While on tow a glider pilot is unable to release the tow rope. The signal to indicate this condition to the tow pilot is to",
-    "answers": ["yaw the glider to the right and left in a series of skidding turns.",
-                "commence a series of 'S' turns at normal tow position.",
-                "porpoise rapidly between high and low tow positions.",
-                "fly to the left of the tug and rock the glider's wings."
-                ],
+    "answers": [
+      "yaw the glider to the right and left in a series of skidding turns.",
+      "commence a series of 'S' turns at normal tow position.",
+      "porpoise rapidly between high and low tow positions.",
+      "fly to the left of the tug and rock the glider's wings."
+    ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
@@ -458,5 +466,89 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "What is the centre of gravity (C.G.)?",
+    "answers": [
+      "An imaginary point from which the plane could be suspended and remain balanced.",
+      "The location at which the majority of the mass of the plane resides.",
+      "The direction at which gravity is pulling the aircraft.",
+      "A research institute in England dedicated to researching gravity."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 270"
+  },
+  {
+    "question": "What is the balance datum line?",
+    "answers": [
+      "Another name for the center of gravity.",
+      "An arbitrary vetical line on the aircraft that the manufacturer has chosen for aiding in balancing an aircraft.",
+      "An arbitrary horizontal line on the aircraft that the manufacturer has chosen for aiding in balancing an aircraft",
+      "A point on the aircraft used to measure the center of gravity."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 270"
+  },
+  {
+    "question": "What is the moment arm?",
+    "answers": [
+      "The horizontal distance between the center of gravity and the item being balanced.",
+      "The horizontal distance between the center of gravity and the datum line.",
+      "The horizontal distance between the datum line and the item being balanced.",
+      "The vertical distance between the datum line and the item being balanced."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 270"
+  },
+  {
+    "question": "How is a moment computed?",
+    "answers": [
+      "The weight of the object multiplied by an arbitraty distance.",
+      "On average is always 90 seconds.",
+      "The weight of the aricraft multipled by the length of the aircraft.",
+      "The moment arm multiplied by the weight of the object."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "What is computed by dividing the total balance moment of the aircraft by the total weight of the aircraft?",
+    "answers": [
+      "The Centre of Gravity (C.G.)",
+      "The datum line.",
+      "The mass of the aircraft.",
+      "The load index."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 270"
+  },
+  {
+    "question": "A decreased stall speed, increased range and decreased stabilty is the result of what type of aircraft loading?",
+    "answers": [
+      "Light loading.",
+      "Aft C.G. Loading",
+      "Heavy loading.",
+      "forward C.G. loading."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 272"
+  },
+  {
+    "question": "An increased stall speed, decreased range and increased stability is the result of what type of aircraft loading?",
+    "answers": [
+      "Light loading.",
+      "Aft C.G. Loading",
+      "Heavy loading.",
+      "forward C.G. loading."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 272"
   }
 ]
