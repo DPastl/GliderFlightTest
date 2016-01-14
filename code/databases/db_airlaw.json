@@ -84,6 +84,114 @@
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
+    "question": "A flashing green light directed at an aircraft in flight means",
+    "answers": [
+      "cleared to land.",
+      "return for landing.",
+      "cleared to base leg.",
+      "cleared for final."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 97"
+  },
+  {
+    "question": "A steady red light or red flare directed at an aircraft in flight means",
+    "answers": [
+      "cleared to land.",
+      "return for landing.",
+      "cleared to base leg.",
+      "No not Land. Continue in circuit."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 97"
+  },
+  {
+    "question": "A flashing red light directed at an aircraft in flight means",
+    "answers": [
+      "cleared to land.",
+      "return for landing.",
+      "airport unsafe, do not land.",
+      "cleared for final."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 97"
+  },
+  {
+    "question": "A steady green light directed at an aircraft ready for takeoff means",
+    "answers": [
+      "cleared to land.",
+      "cleared to taxi, but do not take off.",
+      "Return to ramp or hanger.",
+      "cleared to takeoff."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 289"
+  },
+  {
+    "question": "A flashing green light directed at an aircraft ready for takeoff means",
+    "answers": [
+      "cleared to land.",
+      "cleared to taxi, but do not take off.",
+      "Return to ramp or hanger.",
+      "cleared to takeoff."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 289"
+  },
+  {
+    "question": "A steady red light or red flare directed at an aircraft ready for takeoff means",
+    "answers": [
+      "Stop. Do not taxi.",
+      "cleared to taxi, but do not take off.",
+      "Return to ramp or hanger.",
+      "cleared to takeoff."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 289"
+  },
+  {
+    "question": "A flashing red light directed at an aircraft ready for takeoff means",
+    "answers": [
+      "Stop. Do not taxi.",
+      "cleared to taxi, but do not take off.",
+      "Return to ramp or hanger.",
+      "Taxi clear of the landing area in use."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 289"
+  },
+  {
+    "question": "A flashing white light directed at an aircraft ready for takeoff means",
+    "answers": [
+      "Stop. Do not taxi.",
+      "cleared to taxi, but do not take off.",
+      "Return to ramp or hanger.",
+      "Taxi clear of the landing area in use."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 289"
+  },
+  {
+    "question": "Blinking runway lights mean",
+    "answers": [
+      "Stop. Do not taxi.",
+      "Vehicles and pedestrans are to vacate the runway in use.",
+      "Return to ramp or hanger.",
+      "Taxi clear of the landing area in use."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 289"
+  },
+  {
     "question": "A glider is preparing for take-off from an aerodrome in the altimeter setting region. If the current altimeter setting is not available the altimeter shall be set to",
     "answers": [
       "the mean sea level pressure of the aerodrome.",

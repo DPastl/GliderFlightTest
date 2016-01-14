@@ -550,5 +550,53 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011, page 272"
+  },
+  {
+    "question": "All aircraft manufactured in North America are designed to handle a crosswind of at least _ of their stall speed.",
+    "answers": [
+      "20%",
+      "10%",
+      "30%",
+      "5%"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 280"
+  },
+  {
+    "question": "Speed of slowest descent is the speed at which the aircraft will",
+    "answers": [
+      "glide the farthest.",
+      "glide for the longest time.",
+      "glide for the shortest time.",
+      "be safest in rough air."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 280"
+  },
+  {
+    "question": "The best gliding speed or best L/D speed is the speed at which the aircraft will",
+    "answers": [
+      "glide the farthest.",
+      "glide for the longest time.",
+      "glide for the shortest time.",
+      "be safest in rough air."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 280"
+  },
+  {
+    "question": "The most severe forces from encountering wing-tip vorticies occurs:",
+    "answers": [
+      "When flying directly into them, following the plane that created them",
+      "When flying directly into them, head-on to the plane that created them.",
+      "When sitting on the taxiway.",
+      "When crossing the vortices at a 90˚ angle."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 282"
   }
 ]
