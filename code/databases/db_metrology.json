@@ -622,5 +622,125 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The most important property of the atmosphere is",
+    "answers": [
+      "mobility.",
+      "expansion.",
+      "compression.",
+      "upward air currents."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The ICAO standard atmosphere for the continent of North America assumes",
+    "answers": [
+      "the rate of decrease of temperature with height is 3 degrees/1000ft.",
+      "the air is a perfectly dry gas.",
+      "a mean sea level pressure of 992 mb.",
+      "a mean sea level temperature of 20 degrees Celsius."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Warm air is ______ than cold air and therefore tends to ________.",
+    "answers": [
+      "less dense, rise",
+      "less dense, sink",
+      "more dense, sink",
+      "more dense, rise"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "If adjusted for the current pressure, the altimeter will read the true elevation of the aerodrome",
+    "answers": [
+      "above mean ground level.",
+      "above sea level.",
+      "as zero.",
+      "above the equator."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Altostratus clouds fall into which category of clouds?",
+    "answers": [
+      "Low",
+      "Middle",
+      "High",
+      "Vertical development"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "A sea breeze occurs during the ______ and wind blows from the _____ to the _______.",
+    "answers": [
+      "day, land, water",
+      "day, water, land",
+      "night, land, water",
+      "night, water, land"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In a climb from the surface to several thousand feet AGL, the wind will",
+    "answers": [
+      "back and decrease.",
+      "back and increase.",
+      "veer and decrease.",
+      "veer and increase."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The rate of decrease of temperature with height is called the",
+    "answers": [
+      "lapse rate.",
+      "inversion rate.",
+      "isothermal rate.",
+      "ITT rate."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The mature stage of a thunderstorm cell is marked by the",
+    "answers": [
+      "appearance of the top of the cell spreading out into an anvil structure.",
+      "presence of heavy downdrafts.",
+      "appearance of precipitation on the ground.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Terminal Aviation Forecasts (TAFs) are issued _____ times daily and are valid for ______.",
+    "answers": [
+      "24, 90 minutes",
+      "4, 24 hours",
+      "6, 4 hours.",
+      "2, 36 hours."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]

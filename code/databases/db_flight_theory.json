@@ -598,5 +598,65 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011, page 282"
+  },
+  {
+    "question": "_______ is a term used to describe the direction of the airflow with respect to the wing.",
+    "answers": [
+      "Angle of attack",
+      "Angle of incidence",
+      "Relative airflow",
+      "Angle of deviation"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Air flowing over the upper surface of the wing tends to flow",
+    "answers": [
+      "slower than air flowing under the wing.",
+      "faster than air flowing under the wing.",
+      "inward.",
+      "Both b and c."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Which of the following factors does not affect the stalling speed (IAS) of an airfoil?",
+    "answers": [
+      "C of G",
+      "Weight",
+      "Temperature",
+      "Flaps"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "An aircraft loaded with the C of G too far aft will have ________ tendency.",
+    "answers": [
+      "nose up",
+      "nose down",
+      "stable",
+      "no effect"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The cause of lateral stability in high winged aircraft causes the aircraft to return to original attitude after a wing dips. This pendulum effect is known as",
+    "answers": [
+      "an anhedral.",
+      "precession.",
+      "sweepback.",
+      "Keel effect."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]
