@@ -360,10 +360,75 @@
     "questionSource": "Flying Scholarship PIP"
   },
   {
-    "question": "To request radar assista",
-    "answers": [],
+    "question": "The _______ is the term used to describe the complete structure of an airplace, including the fuel tanks and lines, but without engine(s) and instruments installed.",
+    "answers": [
+      "airframe",
+      "empennage",
+      "fuselage",
+      "canard"
+    ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Some wings are constructed with no external bracing at all. These are known as _______ wings.",
+    "answers": [
+      "low wing",
+      "cantilever",
+      "monocoque",
+      "internally braced wings"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "______ should be used in order to gain the most altitude in a given amount of time.",
+    "answers": [
+      "Best angle of climb",
+      "Best rate of climb",
+      "Best climbing configuration",
+      "Best climb time"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "______ refers to the shape of the wing as seen from directly above.",
+    "answers": [
+      "Top view",
+      "Plan form",
+      "Form view",
+      "Wing view"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The lift drag ratio is determined by",
+    "answers": [
+      "dividing the live load by the dead load.",
+      "dividing the lift coefficient by the drag coefficient.",
+      "dividing performance by endurance.",
+      "dividing the drag coefficient by the lift coefficient."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The initial tendency of an aircraft to return to its original position is known as",
+    "answers": [
+      "neutral stability.",
+      "dynamic stability.",
+      "directional stability.",
+      "static stability."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]

@@ -754,5 +754,17 @@
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "CARs 103.03"
+  },
+  {
+    "question": "An aircraft flying VFR from west to east in Canada at an altitude below 18,000 ft ASL (but above 3000ft) shall fly",
+    "answers": [
+      "odd thousands.",
+      "even thousands.",
+      "odd thousands plus 500ft.",
+      "even thousands plus 500ft."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
   }
 ]

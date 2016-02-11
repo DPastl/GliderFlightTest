@@ -204,7 +204,7 @@
     "questionSource": "From the ground up, 2011, page 317"
   },
   {
-    "question": "If a pilot has made a blood donation it is recommended that you wait at least _ hours before flying",
+    "question": "If a pilot has made a blood donation it is recommended that you wait at least ____ hours before flying",
     "answers": [
       "8",
       "48",
