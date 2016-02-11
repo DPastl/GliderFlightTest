@@ -150,7 +150,7 @@ class ExamGui():
         # Destroy the old frame and make a new one
         self.frame.destroy()
 
-        self._exam = exam.Exam(5)  # Create a list of questions
+        self._exam = exam.Exam(50)  # Create a list of questions
         self._exam.next_question()
         self.create_test_frame()
 
