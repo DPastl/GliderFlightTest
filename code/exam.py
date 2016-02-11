@@ -9,11 +9,6 @@ controlled from another class if required.
 from database_accessor import DatabaseAccessor
 
 class Exam():
-    question_database = None
-    num_questions = None
-    answer_list = list()    # To keep track of what the user answered to each question
-    question_list = list()  # A list of all the questions to ask the user.
-    current_question_index = 0
 
     def __init__(self, num_questions=50):
         # set up the exam, what databases to include, how many questions to ask.
@@ -23,6 +18,8 @@ class Exam():
         self.question_database = DatabaseAccessor()
         self.num_questions = num_questions
         self.current_question_index = None
+        self.answer_list = list()  # To keep track of what the user answered to each question
+        self.question_list = list()  # A list of all the questions to ask the user.
 
         for i in range(self.num_questions):
             self.question_list.append(self.question_database.get_random_question())

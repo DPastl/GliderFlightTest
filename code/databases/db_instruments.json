@@ -7,7 +7,7 @@
       "airspeed indicator",
       "vertical speed indicator"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
@@ -28,7 +28,7 @@
     "answers": [
       "ground waves.",
       "sky waves.",
-      "line-of-sigh transmission.",
+      "line-of-sight transmission.",
       "phase differential."
     ],
     "correctAnswerIndex": 1,

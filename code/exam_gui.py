@@ -126,7 +126,7 @@ class ExamGui():
         quit_button.grid(row=2, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
         self.new_button = Tk.Button(
-            self.frame, text="New Test", command=self.answer_question
+            self.frame, text="New Test", command=self.start_test
         )
         self.new_button.grid(row=2, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
@@ -150,7 +150,7 @@ class ExamGui():
         # Destroy the old frame and make a new one
         self.frame.destroy()
 
-        self._exam = exam.Exam()  # Create a list of questions
+        self._exam = exam.Exam(5)  # Create a list of questions
         self._exam.next_question()
         self.create_test_frame()
 
@@ -158,8 +158,9 @@ class ExamGui():
         print self.answer_index.get()
 
         # Check if question was already answered.
+        # TODO: Fix this so that if we go back to an old question we already answered it shows the answer.
         if self._exam.answer_list[self._exam.current_question_index] is not None:
-            answered = True
+            pass
         else:
             # If it wasn't, then check the inputted answer.
             if not self._exam.answer_current_question(self.answer_index.get() + 1):

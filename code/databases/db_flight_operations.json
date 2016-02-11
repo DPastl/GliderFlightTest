@@ -91,7 +91,7 @@
       "300° M/26 kt.",
       "330° M/15 kt."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
@@ -156,7 +156,7 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "You have been cleared o land in a gusty wind condition. You are concerned at the wind angle as indicated by the wind-sock at the approach end of the runway, which you feel now favours another runway.  You should",
+    "question": "You have been cleared to land in a gusty wind condition. You are concerned at the wind angle as indicated by the wind-sock at the approach end of the runway, which you feel now favours another runway.  You should",
     "answers": [
       "continue to land as you must obey the landing clearance.",
       "use full flaps and approach at the reduced approach speed.",
@@ -252,7 +252,7 @@
     "questionSource": "Flying Scholarship PIP"
   },
   {
-    "question": "Te complete tail section of an airplane is called the",
+    "question": "The complete tail section of an airplane is called the",
     "answers": [
       "empennage.",
       "stabilator.",
@@ -360,7 +360,7 @@
     "questionSource": "Flying Scholarship PIP"
   },
   {
-    "question": "The _______ is the term used to describe the complete structure of an airplace, including the fuel tanks and lines, but without engine(s) and instruments installed.",
+    "question": "The _______ is the term used to describe the complete structure of an airplane, including the fuel tanks and lines, but without engine(s) and instruments installed.",
     "answers": [
       "airframe",
       "empennage",

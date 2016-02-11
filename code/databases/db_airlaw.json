@@ -324,7 +324,7 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "An aircraft is \"cleared to the circuit\" where a left=hand circuit is in effect.  Without further approval from ATC, a rght turn may be made to",
+    "question": "An aircraft is \"cleared to the circuit\" where a left-hand circuit is in effect.  Without further approval from ATC, a rght turn may be made to",
     "answers": [
       "enter the circuit from the upwind side, crosswind or on the downwind leg.",
       "enter the base leg.",
@@ -387,7 +387,7 @@
     "question": "To conduct a VFR flight in Class B airspace, a pilot must",
     "answers": [
       "have a Class B license endorsement.",
-      "be flying an airplace equiped with a full IFR instrument panel.",
+      "be flying an airplane equiped with a full IFR instrument panel.",
       "advise ATC of his intentions and obtain a clearance.",
       "squak code 1200 on the transponder."
     ],
