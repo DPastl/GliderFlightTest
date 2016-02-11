@@ -141,16 +141,16 @@ class ValidateDatabase(object):
 if __name__ == '__main__':
     database = DatabaseAccessor()
     print "Number of questions in database: {0}".format(database.get_num_questions())
-    question = database.get_random_question()
-    print question
-    answer_index = None
-    try:
-        answer_index = int(raw_input("Answer: "))
-    except:
-        pass
-    finally:
-        if answer_index is not None:
-            if question.check_answer(answer_index - 1):
-                print "Correct!"
-            else:
-                print "INCORRECT"
+    # question = database.get_random_question()
+    # print question
+    # answer_index = None
+    # try:
+    #     answer_index = int(raw_input("Answer: "))
+    # except:
+    #     pass
+    # finally:
+    #     if answer_index is not None:
+    #         if question.check_answer(answer_index - 1):
+    #             print "Correct!"
+    #         else:
+    #             print "INCORRECT"

@@ -161,5 +161,60 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Central Standard Time is UTC ",
+    "answers": [
+      "+6 hours.",
+      "-6 hours.",
+      "-5 hours.",
+      "-7 hours."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 175"
+  },
+  {
+    "question": "The angle between the longitudinal axis of the airplane at any moment and a meridian is the",
+    "answers": [
+      "track.",
+      "track made good.",
+      "heading.",
+      "drift"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 197"
+  },
+  {
+    "question": "The direction and airplanes intends to travel over the ground is the",
+    "answers": [
+      "track.",
+      "track made good.",
+      "heading.",
+      "drift"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 197"
+  },
+  {
+    "question": "The actual path travelled by the airplane over the ground is the",
+    "answers": [
+      "track.",
+      "track made good.",
+      "heading.",
+      "drift"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 197"
+  },
+  {
+    "question": "",
+    "answers": [],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]

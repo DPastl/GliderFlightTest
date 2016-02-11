@@ -598,5 +598,17 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011, page 282"
+  },
+  {
+    "question": "Ground effect is caused by",
+    "answers": [
+      "increased air density at ground level.",
+      "compression of air between the wing and the ground.",
+      "a reduction in induced drag.",
+      "an increase in induced drag."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 294"
   }
 ]
