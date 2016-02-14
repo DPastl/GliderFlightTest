@@ -742,5 +742,17 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The most severe weather conditions, such as strong winds, severe turbulence, hail, and tornadoes, are generally associated with",
+    "answers": [
+      "warm fronts.",
+      "occlusions.",
+      "stationary fronts.",
+      "thunderstorms."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]

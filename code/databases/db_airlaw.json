@@ -766,5 +766,29 @@
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "A ground to air signal which indicates the airport is unsafe is given by a",
+    "answers": [
+      "series of green flashes.",
+      "series of red flashes.",
+      "steady red light.",
+      "stead green light."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "A ground to air signal that means, 'do not land continue in circuit' is given by a",
+    "answers": [
+      "series of green flashes.",
+      "series of red flashes.",
+      "steady red light.",
+      "stead green light."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]

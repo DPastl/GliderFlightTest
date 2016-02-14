@@ -681,7 +681,7 @@
     ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
+    "questionSource": "Sample National Exam"
   },
   {
     "question": "Camber is",
@@ -693,6 +693,54 @@
     ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Wingtip vortices are caused by differences in pressure between the top and bottom of the wing. The direction of flow as viewed from behind is",
+    "answers": [
+      "counter clockwise.",
+      "clockwise.",
+      "clockwise around the left wingtip and counter clockwise around the right wingtip.",
+      "counter clockwise around the left wingtip and clockwise around the right wingtip."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "When we speak of lateral stability we refer to the stability about",
+    "answers": [
+      "the longitudinal axis.",
+      "the lateral axis.",
+      "the normal axis.",
+      "the directional axis."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The angle that the chord line meets the longitudinal axis of the aircraft is",
+    "answers": [
+      "centre of pressure.",
+      "the angle of attack.",
+      "the angle of incidence.",
+      "the aspect ratio."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The tendency of an aircraft in flight to remain in straight level flight and to return to this attitude if displaced without corrective action by the pilot is called",
+    "answers": [
+      "static stability.",
+      "neutral stability.",
+      "negative stability.",
+      "positive stability."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]
