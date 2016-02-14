@@ -754,5 +754,137 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The amount of moisture in the air compared to the amount the air is capable of holding is called",
+    "answers": [
+      "dewpoint.",
+      "moisture factor.",
+      "relative humidity.",
+      "saturation."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "A steep lapse rate indicates",
+    "answers": [
+      "high wind.",
+      "low wind.",
+      "unstable air.",
+      "stable air."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The zone of transition between two air masses is called a",
+    "answers": [
+      "frontogenesis.",
+      "front.",
+      "rain showers.",
+      "frontolysis."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The rate of change of pressure over a given distance which determines the velocity of wind is called",
+    "answers": [
+      "wind gradient.",
+      "pressure gradient.",
+      "wind shear.",
+      "wind direction."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The most significant cloud type for finding thermal lift is the",
+    "answers": [
+      "cirrus.",
+      "cumulus.",
+      "stratus.",
+      "nimbostratus."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "A front that has little or no movement is called a",
+    "answers": [
+      "static front.",
+      "stationary front.",
+      "occluded front.",
+      "stable front."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "In Moncton, NB, if you stand with your front to the wind, in which direction is the center of low pressure?",
+    "answers": [
+      "Right in summer, left in winter.",
+      "Left in summer, right in winter.",
+      "Right.",
+      "Left."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "A sloped mass of advancing cold air replacing warm air at the surface is a",
+    "answers": [
+      "cold front.",
+      "warm front.",
+      "occluded front.",
+      "stationary front."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Lines on a weather map joining places of equal temperature are",
+    "answers": [
+      "isotherms.",
+      "isobars.",
+      "isogonals.",
+      "isotachs."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Atmospheric heating accomplished by gradually diffusing heat from a warm object to a cold object",
+    "answers": [
+      "convection.",
+      "evaporation.",
+      "radiation.",
+      "conduction."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "With a relatively shallow lapse rate you would expect the visibility to be",
+    "answers": [
+      "good.",
+      "poor.",
+      "lapse rate has no real effect on visibility.",
+      "none of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]
