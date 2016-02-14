@@ -11,7 +11,8 @@ would change without this.
 '''
 
 class ExamGui():
-
+    exterior_window_width = 600
+    interior_window_width = 570
 
     def __init__(self, master):
         self._master = master
@@ -20,14 +21,14 @@ class ExamGui():
     ######################## Window Creation #######################
 
     def display_startup(self):
-        self._master.minsize(width=600, height=230)
-        self._master.maxsize(width=600, height=400)
+        self._master.minsize(width=self.exterior_window_width, height=230)
+        self._master.maxsize(width=self.exterior_window_width, height=400)
 
         self.frame = Tk.Frame(self._master)
         self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
         self.frame.grid_columnconfigure(0, minsize=300)
         self.frame.grid_columnconfigure(1, minsize=300)
-        self.frame.grid_rowconfigure(0, minsize=200)
+        self.frame.grid_rowconfigure(0, minsize=260)
         self.frame.grid_rowconfigure(1, minsize=30)
 
         self.label = Tk.Label(self.frame, text="Welcome to the Glider Exam Generator")
@@ -58,13 +59,14 @@ class ExamGui():
         self.frame.grid_columnconfigure(3, minsize=150)
 
         self.frame.grid_rowconfigure(0, minsize=80)
-        for i in range(self.num_answers+1):
-            self.frame.grid_rowconfigure(1+i, minsize=30)
+        for i in range(self.num_answers):
+            self.frame.grid_rowconfigure(1 + i, minsize=45)
+        self.frame.grid_rowconfigure(5, minsize=30)
 
         question_text = self._exam.get_current_question_text()
         self.question_label = Tk.Label(self.frame, text=question_text[0],
                                        justify=Tk.LEFT, anchor=Tk.W,
-                                       wraplength=600)
+                                       wraplength=self.interior_window_width)
         self.question_label.grid(row=0, column=0, columnspan=4, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
         self.radio_buttons = list()
         self.answer_index = Tk.IntVar()
@@ -75,7 +77,7 @@ class ExamGui():
         for i in range(self.num_answers):
             self.radio_buttons.append(Tk.Radiobutton(
                 self.frame, text=question_text[i + 1], variable=self.answer_index,
-                justify=Tk.LEFT, value=i))
+                justify=Tk.LEFT, value=i, wraplength=self.interior_window_width))
 
         for i in xrange(self.num_answers):
             self.radio_buttons[i].grid(row=i + 1, column=0, columnspan=4, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
@@ -110,8 +112,8 @@ class ExamGui():
 
         self.frame.grid_columnconfigure(0, minsize=300)
         self.frame.grid_columnconfigure(1, minsize=300)
-        self.frame.grid_rowconfigure(0, minsize=100)
-        self.frame.grid_rowconfigure(1, minsize=100)
+        self.frame.grid_rowconfigure(0, minsize=130)
+        self.frame.grid_rowconfigure(1, minsize=130)
         self.frame.grid_rowconfigure(2, minsize=30)
 
         result_label = Tk.Label(self.frame, text="Test Results:")
