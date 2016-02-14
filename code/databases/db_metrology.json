@@ -742,5 +742,26 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Arranged from highest to lowest, the cloud prefixes are:",
+    "answers": [
+      "strato, alto, cirro.",
+      "cirro, strato, alto.",
+      "cirro, alto, strato.",
+      "srato, cirro, alto."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "Cirrus clouds are:",
+    "answers": [
+      "Very high thin wavy delicate slender"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]
