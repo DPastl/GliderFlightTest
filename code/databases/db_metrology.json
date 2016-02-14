@@ -758,11 +758,14 @@
   {
     "question": "Cirrus clouds are:",
     "answers": [
-      "Very high thin wavy delicate slender"
+      "Very high thin wavy delicate slender wisps.",
+      "Low altitude thin clouds.",
+      "High thin clouds with cotton or flake-like shapes.",
+      "Very high and thin sheet cloud."
     ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
+    "questionSource": "From the ground up, 2011, page 125"
   },
   {
     "question": "The most severe weather conditions, such as strong winds, severe turbulence, hail, and tornadoes, are generally associated with",
@@ -775,5 +778,125 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Cirrocumulus clouds are:",
+    "answers": [
+      "Very high thin wavy delicate slender wisps.",
+      "Low altitude thin clouds.",
+      "High thin clouds with cotton or flake-like shapes.",
+      "Very high and thin sheet cloud."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "Cirrostratus clouds are:",
+    "answers": [
+      "Very high thin wavy delicate slender wisps.",
+      "Low altitude thin clouds.",
+      "High thin clouds with cotton or flake-like shapes.",
+      "Very high and thin sheet cloud."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "High altitude clouds have",
+    "answers": [
+      "large effect on flying conditions.",
+      "little effect on flying conditions.",
+      "is indicative of a coming storm front.",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "A middle clouds that can develop into cumolonimbus clouds are",
+    "answers": [
+      "Altocumulus.",
+      "Cirrus.",
+      "AltoStratus.",
+      "Nimbostratus."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "Altocumulus clouds are",
+    "answers": [
+      "Middle level series of patches of rounded masses of cloud.  They usually have little indication of approaching weather conditions.",
+      "Middle level thick veil of grey cloud that generally covers the whole sky and indicates the approach of a warm front.",
+      "Low level layer of patched or rounded masses.",
+      "Very high, thin wavy clouds."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "Altostratus clouds are",
+    "answers": [
+      "Middle level series of patches of rounded masses of cloud.  They usually have little indication of approaching weather conditions.",
+      "Middle level thick veil of grey cloud that generally covers the whole sky and indicates the approach of a warm front.",
+      "Low level layer of patched or rounded masses.",
+      "Very high, thin wavy clouds."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "Stratus clouds are",
+    "answers": [
+      "Middle level series of patches of rounded masses of cloud.  They usually have little indication of approaching weather conditions.",
+      "Middle level thick veil of grey cloud that generally covers the whole sky and indicates the approach of a warm front.",
+      "Low level layer of patched or rounded masses.",
+      "Low level uniform layer of cloud resembling fog but not resting on the ground, often with drizzle."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "Stratocumulus clouds are",
+    "answers": [
+      "Middle level series of patches of rounded masses of cloud.  They usually have little indication of approaching weather conditions.",
+      "Middle level thick veil of grey cloud that generally covers the whole sky and indicates the approach of a warm front.",
+      "Low level layer of patched or rounded masses, often thin and indicative of high pressure areas in winter.",
+      "Very high, thin wavy clouds."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "Nimbostratus clouds are",
+    "answers": [
+      "Middle level series of patches of rounded masses of cloud.  They usually have little indication of approaching weather conditions.",
+      "Middle level thick veil of grey cloud that generally covers the whole sky and indicates the approach of a warm front.",
+      "Low level layer of patched or rounded masses, often thin and indicative of high pressure areas in winter.",
+      "Low level of uniform dark grey cloud, often with continuous rain or snow."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 125"
+  },
+  {
+    "question": "Cumulus clouds are",
+    "answers": [
+      "vertical clouds with flat bases, often resembling cotton balls and occur most often during the warmest part of the day.",
+      "horizontal clouds with flat bases, often resembling cotton balls and occur most often during the warmest part of the day.",
+      "Heavy masses of clouds extending well above the freezing level, often with violent winds",
+      "A layer of dark grey uniform cloud, often with continuous precipitation."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]
