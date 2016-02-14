@@ -7,45 +7,54 @@ returns a nicely formatted question and answer that can be printed.
 
 # Class to handle questions and answers.
 class QuestionClass(object):
-    def __init__(self, question):
-        self.question = question
-        self.answers = question["answers"]
+    def __init__(self, question, randomize=True):
+        self.question_text = question["question"].encode('utf-8')
+        self.answers = list()
+        for ans in question["answers"]:
+            self.answers.append(ans.encode('utf-8'))
+        self.answerindex = question["correctAnswerIndex"]
+        self.answertext = question["correctAnswerText"].encode('utf-8')
         self.used = False  # Indicates if the question was already chosen
 
+        if randomize:
+            from random import sample
+            new_indicies = sample(range(len(self.answers)), len(self.answers))
+            newanswers = [None for _ in range(len(self.answers))]
+            for i in range(len(self.answers)):
+                newanswers[new_indicies[i]] = self.answers[i]
+                if i == self.answerindex:
+                    self.answerindex = new_indicies[i]
+            self.answers = newanswers
+
     def __str__(self):
-        out = self.question["question"].encode('utf-8')
-        answers = self.question["answers"]
-        for x,answer in enumerate(answers):
+        out = self.question_text
+        for x, answer in enumerate(self.answers):
             num = "{}) ".format(x+1)
-            out = out + "\n" + num + answer.encode('utf-8')
+            out = out + "\n" + num + answer
         return out
 
     # A method that returns the correct answer text if it exists
     # for the question.
     def get_correct_answer_text(self):
-        if "correctAnswerText" in self.question.keys():
-            return self.question["correctAnswerText"].encode('utf-8')
-        else:
-            return str()
+        return self.answertext
 
     # A method that checks the user's answer against the right answer.
     def check_answer(self, usersAnswer):
-        if (usersAnswer - 1) == self.question["correctAnswerIndex"]:
+        if (usersAnswer - 1) == self.answerindex:
             return True
         else:
             return False
 
     def get_correct_answer(self):
-        return self.question["correctAnswerIndex"] + 1
+        return self.answerindex + 1
 
     # A method that returns the question text.
     def get_question_text(self):
-        return self.question["question"].encode('utf-8')
+        return self.question_text
 
     # A method that returns a list of answers.
     def get_list_of_answers(self):
-        answers = [x.encode('utf-8') for x in self.question["answers"]]
-        return answers
+        return self.answers
 
     # A method that declares if a question was used previously.
     def set_used(self):
