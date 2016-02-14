@@ -670,5 +670,29 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Lift is largely caused by",
+    "answers": [
+      "the high pressure area above the wing.",
+      "wingtip vorticies.",
+      "pressure difference between the air above and below the airfoil.",
+      "Newton's Law of motion."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Camber is",
+    "answers": [
+      "the shape of a wingspan.",
+      "the curvature of an airfoil.",
+      "the aspect ratio of a wing.",
+      "the chord of an airfoil."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]

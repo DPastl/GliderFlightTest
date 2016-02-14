@@ -209,12 +209,5 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011, page 197"
-  },
-  {
-    "question": "",
-    "answers": [],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
   }
 ]
