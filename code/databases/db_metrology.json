@@ -1162,5 +1162,161 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "Surface winds ____ and ____ during the day and ____ and ____ when daytime heating stops.",
+    "answers": [
+      "veer/increase/back/decrease",
+      "back/increase/veer/decrease",
+      "veer/decrease/back/increase",
+      "back/decrease/veer/increase"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "When the wind ____ it rotates ____ and when it ____ it rotates _____.",
+    "answers": [
+      "veers/clockwise/backs/counter-clockwise",
+      "backs/clockwise/veers/counter-clockwise",
+      "backs/counter-clockwise/veers/clockwise",
+      "backs/clockwise/veers/counter-clockwise"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A continental airmass is associated with ____ air.",
+    "answers": [
+      "dry",
+      "moist",
+      "cold",
+      "hot"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A maritime airmass is associated with ____ air.",
+    "answers": [
+      "dry",
+      "moist",
+      "cold",
+      "hot"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "An arctic airmass is associated with ____ air.",
+    "answers": [
+      "dry",
+      "moderate",
+      "cold",
+      "hot"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A polar airmass is associated with ____ air.",
+    "answers": [
+      "dry",
+      "moderate",
+      "cold",
+      "hot"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A tropical airmass is associated with ____ air.",
+    "answers": [
+      "dry",
+      "moist",
+      "cold",
+      "hot"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A ____ front has a very steep slope (1 in 50).",
+    "answers": [
+      "cold",
+      "warm",
+      "occluded",
+      "stationary"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A ____ front has a shallow slope (1 in 200).",
+    "answers": [
+      "cold",
+      "warm",
+      "occluded",
+      "stationary"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "What type of lift is caused by air blowing upward over a range of hills/mountains?",
+    "answers": [
+      "Orthographic Lift",
+      "Frontal Lift",
+      "Convection",
+      "Convergence"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "What type of lift is caused when warm air is forced aloft by cold air?",
+    "answers": [
+      "Orthographic Lift",
+      "Frontal Lift",
+      "Convection",
+      "Convergence"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "What type of lift is caused by uneven heating of the earth by the Sun?",
+    "answers": [
+      "Orthographic Lift",
+      "Frontal Lift",
+      "Convection",
+      "Convergence"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "What type of lift is caused by excess air rising after being forced into a region by a low pressure system?",
+    "answers": [
+      "Orthographic Lift",
+      "Frontal Lift",
+      "Convection",
+      "Convergence"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
   }
 ]
