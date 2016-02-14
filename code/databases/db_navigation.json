@@ -281,5 +281,29 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "If the track is 163 degrees, variation is 11 degrees East, and the deviation is 6 degrees West, what is the compass heading?",
+    "answers": [
+      "168 degrees.",
+      "158 degrees.",
+      "180 degrees.",
+      "146 degrees."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "If the deviation is 5 degrees West, the variation is 8 degrees East, and the magnetic heading is 63 degrees, what is the true heading and the compass heading?",
+    "answers": [
+      "55 degrees true/68 degrees compass",
+      "71 degrees true/68 degrees compass",
+      "55 degrees true/58 degrees compass",
+      "71 degrees true/71 degrees compass"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]

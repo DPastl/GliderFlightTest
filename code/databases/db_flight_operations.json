@@ -466,5 +466,89 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The five distinct types of stress imposed on an aircraft are",
+    "answers": [
+      "shearing, bending, tension, torsion, and stretching.",
+      "tension, shearing, loading, compression, and torsion.",
+      "bending, tension, shearing, torsion, and compression.",
+      "compression, tension, torsion, straining, and bending."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The type of construction which consists of a series of round or oval formers or bulkheads held together by stringers is called",
+    "answers": [
+      "truss type.",
+      "composite.",
+      "stressed frame.",
+      "monocoque."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The main member of a wing is called the",
+    "answers": [
+      "leading edge.",
+      "rib.",
+      "spar.",
+      "wing root."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "If an aircraft has flaps, they will be located",
+    "answers": [
+      "between the landing gear.",
+      "on the outside edge fo the wings.",
+      "on the trailing edge of the wings closest to the fuselage.",
+      "on the trailing edge of the wings, closest to the wing tips."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The tail draggers have several big advantages over tricycle gear. One of these is",
+    "answers": [
+      "ground looping tendencies are reduced.",
+      "more clearance for the propeller.",
+      "greater controllability on the ground in cross wind conditions.",
+      "better ground visibility."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The primary function of the fuselage is to provide",
+    "answers": [
+      "a means of carrying crew, freight, or passengers.",
+      "space for fuel storage.",
+      "an attachment point for the ailerons.",
+      "lift."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The primary control surfaces are",
+    "answers": [
+      "ailerons, flaps, and trim tabs.",
+      "elevators, rudder, and trim tabs.",
+      "fin, rudder, and elevator.",
+      "ailerons, rudder, and elevator."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]
