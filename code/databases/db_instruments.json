@@ -58,5 +58,17 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The operation of the airspeed indicator employs",
+    "answers": [
+      "static pressure.",
+      "atmospheric pressure.",
+      "static and atmospheric pressure.",
+      "static and pitot pressure."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]

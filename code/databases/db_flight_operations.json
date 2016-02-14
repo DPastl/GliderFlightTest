@@ -430,5 +430,41 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The published stalling speed for a glider is 30mph, the glider will stall",
+    "answers": [
+      "only if the indicated airspeed drops to 30mph, or below.",
+      "whenever the angle of attack exceeds the stalling angle.",
+      "only if the controls are fully crossed at low speed.",
+      "only if the nose is held way above the horizon."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Flaps are high lift devices which, in effect, increase the camber of the wing. Their essential function is to",
+    "answers": [
+      "flatten the glide and increase the glide speed.",
+      "steepen the glide angle and increase the glide speed.",
+      "flatten the glide angle without increasing the glide speed.",
+      "steepen the glide angle and decrease the landing speed."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Wich control surfaces provide lateral control?",
+    "answers": [
+      "Ailerons",
+      "Stabilator",
+      "Rudders",
+      "Elevators"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]

@@ -209,5 +209,77 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011, page 197"
+  },
+  {
+    "question": "Relief is a term which means",
+    "answers": [
+      "the illustration of the height above sea level of an area of a map.",
+      "the illustration of the height above ground level of an area on a map.",
+      "the illustration of large cities and towns on a map.",
+      "the illustration of airways and control zones on a map."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Deviation is a term that means",
+    "answers": [
+      "the angle between true north and compass north.",
+      "error in a compass by the heat of the engine of the aircraft.",
+      "the angle between true north and magnetic north.",
+      "the angle between magnetic north and compass north."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The line on an aeronautical chart which joins the points of zero variation is called the",
+    "answers": [
+      "small circle.",
+      "Agonic line.",
+      "Isogonal.",
+      "Isobar."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The lines on an aeronautical chart which joins the points of constant variation is called the",
+    "answers": [
+      "small circle.",
+      "Agonic line.",
+      "Isogonic lines.",
+      "Isobar."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "There are _____ seconds in one minute and _____ minutes in one half a degree.",
+    "answers": [
+      "60,30",
+      "30,60",
+      "30,30",
+      "60,60"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Ground speed is",
+    "answers": [
+      "the speed indicated by the rate that the ground moves beneath the aircraft.",
+      "the speed indicated by the instrument in the aircraft.",
+      "the speed which the aircraft is actually travelling through the air as a result fo the winds.",
+      "the speed the aircraft is travelling relative to the surface of the earth."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]
