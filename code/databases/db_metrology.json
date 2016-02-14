@@ -1066,5 +1066,101 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "The mean sea level pressure of the ICAO standard atmosphere is",
+    "answers": [
+      "29.12\"Hg",
+      "29.52\"Hg",
+      "29.92\"Hg",
+      "29.82\"Hg"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "The mean sea level temperature of the ICAO standard atmosphere is",
+    "answers": [
+      "20 degrees Celsius",
+      "15 degrees Celsius",
+      "25 degrees Celsius",
+      "10 degrees Celsius"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A 'U' shaped area of low pressure with higher pressure on either side is a",
+    "answers": [
+      "trough.",
+      "front.",
+      "ridge.",
+      "col."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "An inverted 'U' area of high pressure with lower pressure on either side is a",
+    "answers": [
+      "trough.",
+      "front.",
+      "ridge.",
+      "col."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A neutral area between two highs and two lows is a",
+    "answers": [
+      "trough.",
+      "front.",
+      "ridge.",
+      "col."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "The Buys Ballots Law says that in the Northern Hemisphere, when you stand with your back to the wind, low pressure is",
+    "answers": [
+      "to your left.",
+      "to your right.",
+      "in front of you.",
+      "behind you."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "In an Area of Divergence, sinking air compensates for the flow of _____ air out of a region associated with high pressure.",
+    "answers": [
+      "fast moving",
+      "slow moving",
+      "hot",
+      "cold"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "In an Area of Convergence, _____ air compensates for the flow of air into a region associated with low pressure.",
+    "answers": [
+      "rising",
+      "sinking",
+      "hot",
+      "cold"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
   }
 ]
