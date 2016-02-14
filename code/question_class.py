@@ -10,6 +10,7 @@ class QuestionClass(object):
     def __init__(self, question):
         self.question = question
         self.answers = question["answers"]
+        self.used = False  # Indicates if the question was already chosen
 
     def __str__(self):
         out = self.question["question"].encode('utf-8')
@@ -45,3 +46,15 @@ class QuestionClass(object):
     def get_list_of_answers(self):
         answers = [x.encode('utf-8') for x in self.question["answers"]]
         return answers
+
+    # A method that declares if a question was used previously.
+    def set_used(self):
+        self.used = True
+
+    # A method that clears the previously used flag.
+    def clear_used(self):
+        self.used = False
+
+    # Returns the flag to indicate if the question was used or not
+    def get_used(self):
+        return self.used

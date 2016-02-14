@@ -25,9 +25,18 @@ database_file_enum = {
 # A class to handle parsing pulling questions from the database files.
 class DatabaseAccessor(object):
     database_list = {}
+    question_list = list()
     allow_duplicates = False
 
     def __init__(self, database_to_use='all', allow_duplicates=False):
+        '''
+        Pulls questions from the databases provided and places them into a
+        list.  Also validates the databases before attempting to use them.
+        :param database_to_use: Database to use.  Can be either 'all' for
+        all databases or one of the keys in database_file_enum.
+        :param allow_duplicates: True allows duplicates, False disallows them
+        :return: Nothing
+        '''
         import json
 
         self.allow_duplicates = allow_duplicates
@@ -37,7 +46,8 @@ class DatabaseAccessor(object):
                     db_contents = json.load(f)
                     valid = ValidateDatabase(db_contents)
                     if valid.valid:
-                        self.database_list[database_name] = db_contents
+                        for jsonquestion in db_contents:
+                            self.question_list.append(QuestionClass(jsonquestion))
                     else:
                         print database_name
         else:
@@ -48,29 +58,32 @@ class DatabaseAccessor(object):
                     self.database_list[database_to_use] = json.load(f)
 
     def get_num_questions(self):
-        num_questions = 0
-        for x in self.database_list.keys():
-            num_questions += len(self.database_list[x])
-        return num_questions
+        '''
+        :return: Returns the number of questions currently loaded.
+        '''
+        return len(self.question_list)
 
     # This method randomly selects a question from a database.
-    def get_random_question(self, db_name=None):
-        # We need to add something that keeps track of which questions we've provided so we don't have duplicates.
-        # or just not care that there might be duplicates
-        # OR this can be handled by the Exam class.
+    def get_random_question(self):
+        '''
+        Gets a random question from the list of questions.
+        :return: A single question.
+        '''
         from random import choice
-
-        # If database name is supplied, verify the name
-        if db_name is not None:
-            if db_name not in database_file_enum.keys():
-                raise Exception("Database name not in list!")
-
-        # If not specific database name is supplied, just grab
-        # questions from a randomly chosen database.
-        if db_name is None:
-            db_name = choice(database_file_enum.keys())
-
-        return QuestionClass(choice(self.database_list[db_name]))
+        if self.allow_duplicates:
+            newquestion = choice(self.question_list)
+            newquestion.set_used()
+            return newquestion
+        else:
+            loopcount = 0
+            found_random = False
+            while found_random == False and loopcount <= len(self.question_list):
+                loopcount += 1
+                newquestion = choice(self.question_list)
+                if newquestion.get_used() == False:
+                    newquestion.set_used()
+                    return newquestion
+        raise Exception("No Questions Remain In List")
 
 
 # This method validates the contents of a database file. Makes sure
