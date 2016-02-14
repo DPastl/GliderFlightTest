@@ -886,5 +886,41 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The properties of the atmosphere are",
+    "answers": [
+      "expansion, compression, and mobility.",
+      "compression, mobility, and composition.",
+      "expansion, mobility, and composition.",
+      "mobility, composition, and humidity."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "Which layer of the atmosphere is below the Mesosphere where water vapour and air currents are almost non-existent?",
+    "answers": [
+      "Thermosphere.",
+      "Stratosphere.",
+      "Troposphere.",
+      "Lithosphere."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "Cumulus form in rising air and idicates _____ while Stratus form in horizontal layers and indicate ______.",
+    "answers": [
+      "stable air/unstable air",
+      "stable air/stable air",
+      "unstable air/unstable air",
+      "unstable air/stable air"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
   }
 ]
