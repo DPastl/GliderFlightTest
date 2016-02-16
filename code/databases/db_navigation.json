@@ -305,5 +305,509 @@
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "What is the approximation when using a 1:250 000 scale chart?",
+    "answers": [
+      "2.5 statute miles or 3 nautical miles to the inch.",
+      "4 statute miles or 3.5 nautical miles to the inch.",
+      "6 statute miles or 5 nautical miles to the inch.",
+      "8 statute miles or 6.5 nautical miles to the inch."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The forecast wind is 230/10. You are on a 50km flight where the desired track is 178 degrees true. What effect will the wind have on the glider?",
+    "answers": [
+      "Drift to left of track with low ground speed.",
+      "Drift to right of track with low ground speed.",
+      "Drift to left of track with high ground speed.",
+      "Drift to right of track with high ground speed."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the difference between track and heading?",
+    "answers": [
+      "Track is the way the glider points / heading is the route over the ground.",
+      "Heading is the way the glider points / track is the route over the ground.",
+      "Due to the low speeds involved with gliding they are assumed to be the same.",
+      "Track takes into account wind direction and strength. Heading doesn’t."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Your airfield is 270 feet above mean sea level (amsl). If the airfield pressure (QFE) is 998 millibars (hectopascals), what height above the airfield is flight level 55? (Assume 1 millibar = 30 feet).",
+    "answers": [
+      "5500 feet.",
+      "5950 feet.",
+      "5450 feet.",
+      "5050 feet."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "During a final glide, the GPS gives a ground speed of 90 kts and you are flying with an IAS of 75 kts. There is 15 NM to your goal airfield. How long will the glide take and what is the wind component?",
+    "answers": [
+      "15 minutes and 15 kts tail wind.",
+      "15 minutes and 15 kts head wind.",
+      "10 minutes and 15 kts tail wind.",
+      "10 minutes and 15 kts head wind."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In a glider, which of the following defines visual flight rules below 3000 feet?",
+    "answers": [
+      "1000 feet vertically and 5 nautical miles horizontally from cloud and in sight of the ground.",
+      "1500 feet vertically and 1000 feet horizontally from cloud and in sight of the ground.",
+      "1000 feet vertically and 1500 feet horizontally from cloud and in sight of the ground.",
+      "Clear of cloud, and in sight of the surface, in a flight visibility of 1500 metres when airspeed is 140 kts or less."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is your average cross country speed if you cover 30 Kms in the first 40 minutes of a flight?",
+    "answers": [
+      "35 Kph.",
+      "40 Kph.",
+      "45 Kph.",
+      "50 Kph."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "After a long busy period in a weak thermal, you are unaware of your exact location. What are the correct actions?",
+    "answers": [
+      "Check your GPS for an accurate fix.",
+      "Carry on with the original heading as you shouldn’t have drifted too far.",
+      "Find three features on the ground and look for them on the map to identify your exact position.",
+      "Find three features on the map and look for them on the ground to identify your exact position."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When is the E2B or Airpath compass most reliable for gliding?",
+    "answers": [
+      "On an east or west heading.",
+      "On a north or south heading.",
+      "Flying straight and level at a constant speed.",
+      "Stationary at the equator."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The time is 1600 hrs UTC. You are on the second leg of a 300 kilometre triangle and the track for the leg is 275 degrees. Where should the sun be?",
+    "answers": [
+      "Behind.",
+      "On your right side.",
+      "Left of straight ahead.",
+      "In your five O’clock position."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You note on a chart that an airway extends upwards from FL 45. What does this mean with reference to the base of the airway?",
+    "answers": [
+      "The base is 4500 ft above mean sea level.",
+      "The base is 4500 ft indicated with the pressure setting on the subscale that made the altimeter read zero before take off.",
+      "The base is 4500 ft above the ground at all times.",
+      "The base is 4500 ft indicated with 1013 millibars set on the altimeter subscale."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You contact a thermal immediately under neath an airway, the base of which is FL 35. The in flight visibility is less than 2 Km. Your altimeter is set to QNH at an airfield which is 200 ft AMSL. Given that the sea level pressure is 1013 mb, how high can you legally climb as indicated on your altimeter?",
+    "answers": [
+      "3500 ft which is the base of the airway.",
+      "3000 ft to comply with visual flight rules.",
+      "3300 ft which is the base of the airway.",
+      "2800 ft to comply with visual flight rules."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Whilst flying cross country you stray several miles into a large control zone from which gliders are prohibited. What should be your actions on discovering your error?",
+    "answers": [
+      "Continue soaring and leave the zone as quick as possible.",
+      "Land at once and contact the controlling authorities to inform them of your actions.",
+      "Try to climb above the airspace if possible.",
+      "Continue as planned but inform the CFI after you land."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The first leg of an out and return cross country flight is 045 degrees true. Magnetic variation is 5 degrees west. What is the reciprocal heading?",
+    "answers": [
+      "230 Magnetic.",
+      "225 Magnetic.",
+      "220 Magnetic.",
+      "235 True."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "On a 1 : 500 000 scale chart, what length of line would represent 50 Kms?",
+    "answers": [
+      "4 inches or 10 centimetres.",
+      "7 inches or 18 centimetres.",
+      "9 inches or 23 centimetres.",
+      "13 inches or 33 centimetres."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the annotation D124/2 refer to when next to an area bounded by a solid red line on the 1:500 000 scale aeronautical chart?",
+    "answers": [
+      "It is a permanent danger area up to 2000 ft amsl.",
+      "The area is prohibited to all types of aviators below 12 400 ft.",
+      "It is a danger area activated by NOTAM.",
+      "It is an area you should pass through expeditiously."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the main limitation when using a 1:250 000 scale aeronautical chart?",
+    "answers": [
+      "The scale is not large enough.",
+      "Many key ground features are not shown.",
+      "Airspace above 3000 ft is not shown.",
+      "Too much information is shown, leading to confusion."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the importance of reading TNW’s (Temporary Navigation Warnings) before flying cross country?",
+    "answers": [
+      "They contain useful information about air shows.",
+      "They serve as a reminder of restricted air space.",
+      "They contain information on royal flights.",
+      "They list important information about notified activities that may effect flight safety."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the annotation P106/2.5 refer to when next to a shaded area on the 1:500 000 scale aeronautical chart?",
+    "answers": [
+      "Gliders are prohibited from landing in this area.",
+      "All aircraft are prohibited from entering this area below a height of 2500 ft.",
+      "All aircraft are prohibited from entering this area below an altitude of 2500 ft.",
+      "Gliders are prohibited from thermaling in this area."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the legal requirements required to fly a glider cross country?",
+    "answers": [
+      "You carry a current edition 1:250 000 scale map.",
+      "The glider has a serviceable radio.",
+      "The glider has a serviceable navigational aid.",
+      "You carry map(s) clearly marked with controlled and regulated airspace."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which ground features are most useful for navigation?",
+    "answers": [
+      "Church spires and radio masts.",
+      "Villages and ponds.",
+      "Motorways and large towns.",
+      "Hills and crossroads."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Your airfield is 330 feet above mean sea level (amsl). If the airfield pressure (QFE) is 996 millibars (hectopascals), what height above the airfield is flight level 55? (Assume 1 millibar = 30 feet).",
+    "answers": [
+      "4980 feet.",
+      "6010 feet.",
+      "5450 feet.",
+      "5500 feet."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is correct for maintaining VMC in class D airspace whilst above 3000ft amsl but below FL100?",
+    "answers": [
+      "The glider must remain clear of cloud and in sight of the surface.",
+      "The glider must remain 1500 metres horizontally and 1000 ft vertically away from cloud in a flight visibility of 5Km or greater.",
+      "The flight visibility must be 5 Km or greater.",
+      "The glider must remain clear of cloud only."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the approximation when using a 1:500 000 scale chart?",
+    "answers": [
+      "12 statute miles or 10 nautical miles to the inch.",
+      "10 statute miles or 8.5 nautical miles to the inch.",
+      "8 statute miles or 7 nautical miles to the inch.",
+      "4 statute miles or 3.5 nautical miles to the inch."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "How often are TNW information bulletins published?",
+    "answers": [
+      "As necessary.",
+      "Twice annually.",
+      "Fortnightly.",
+      "Twice weekly."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the annotation R14/2.5 refer to when next to an area bounded by a solid red line on a 1:500 000 scale aeronautical chart?",
+    "answers": [
+      "Entry is restricted to this area below 2500 ft AMSL.",
+      "Entry is restricted to this area below 2500 ft AGL.",
+      "This is an area of high intensity radio transmissions and may be ignored for the purposes of gliding.",
+      "This is a royal residence and there for must be avoided."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the annotation *D130/1 refer to when next to an area bounded by a solid red line on a 1:500 000 scale aeronautical chart.",
+    "answers": [
+      "The danger area is prohibited to all types of aviator below 1000 ft.",
+      "Entry is prohibited to this danger area during the NOTAM’d period of the activity.",
+      "It is a danger area activated by NOTAM.",
+      "It is a danger area you should pass through expeditiously."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the relevance of a purple airway to gliding?",
+    "answers": [
+      "There is no relevance to gliders.",
+      "The airway is for information only on royal flights.",
+      "The airway marks prohibited airspace during a royal flight.",
+      "The airway marks restricted airspace dairying a royal flight."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What do isogonal lines indicate on aeronautical charts?",
+    "answers": [
+      "They are a line joining places of equal temperature.",
+      "They are a line joining places of equal magnetic variation.",
+      "They are a line joining places of equal pressure.",
+      "They are a line joining places of equal altitude."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "On a 40 nm final glide at 50 Kts indicated airspeed you notice there is a 10 Kt tail wind. How long will the last 20 nms take?",
+    "answers": [
+      "15 minutes.",
+      "20 minutes.",
+      "25 minutes.",
+      "30 minutes."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What will be the effect of a steel object being placed close to an aircraft compass?",
+    "answers": [
+      "The compass will seem sluggish.",
+      "The compass variation will be effected.",
+      "The compass deviation will be effected.",
+      "There will be little or no effect on a modern compass."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "With 15 nm to go and a glide angle of 30:1 at 60 Kts, what height is required to arrive at the goal with 1000 ft to spare?",
+    "answers": [
+      "3000 ft.",
+      "2500 ft.",
+      "5000 ft.",
+      "4000 ft."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What it your estimated heading on a long final glide where the track is 050 degrees and there is a cross wind of 15 Kts from the right.",
+    "answers": [
+      "050 degrees.",
+      "More than 050 degrees.",
+      "Less than 050 degrees.",
+      "Not possible to predict."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Assuming nil wind, after the first leg of a 200 Km flight you notice that your average speed is 50 Kph. If conditions remain the same, approximately how long will the flight take?",
+    "answers": [
+      "2 hours.",
+      "3 hours.",
+      "3 hours 30 mins.",
+      "4 hours."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "How can the magnetic variation be determined for any given point?",
+    "answers": [
+      "Look it up in the UK Air Pilot.",
+      "Check in Laws and Rules for glider pilots.",
+      "Check the latest edition of TNW’s.",
+      "Check on a 1:500 000 scale aeronautical chart where the magnetic variation is shown at 1 degree intervals."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While on a task in the UK you notice the compass appears to be a bit erratic. The time is 1300 UTC and the desired track is 090 degrees. Where should the sun be?",
+    "answers": [
+      "Ahead.",
+      "On the right.",
+      "On the left.",
+      "Behind."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Your cross country track takes you through a MATZ. What should your actions be?",
+    "answers": [
+      "Fly through the MATZ but be aware of the ATZ and possible traffic on extended centre lines.",
+      "Call the controlling authority and ask for permission to penetrate the MATZ.",
+      "Put in a ‘dog leg’ to avoid the MATZ.",
+      "Remain VMC whilst in the MATZ."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The airfield from which you are flying is 600 ft AMSL. With the altimeter set to zero before flight, the subscale reads 1007 millibars. What will the altimeter read at the base of an airway extending from FL 45 upwards. (Assume 30 ft per millibar).",
+    "answers": [
+      "4320 feet.",
+      "4680 feet.",
+      "3900 feet.",
+      "4500 feet."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Each individual entry in TNW’s has a 4 digit code as part of the prefix. What does this code relate to?",
+    "answers": [
+      "The CAA serial number.",
+      "The Ordinance Survey grid reference.",
+      "The most northerly co-ordinate or latitude.",
+      "The nearest identifying feature as a latitude and longitude."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the purpose of a compass card in a glider?",
+    "answers": [
+      "To take into account the errors present after the compass has been swung.",
+      "To act as a reminder of bearings versus cardinal headings.",
+      "To act as a reminder of task leg directions when flying cross country.",
+      "To take into account any errors due to wind drift."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The first leg of an out and return cross country flight is 135 degrees true. Magnetic variation is 5 degrees west. What will the reciprocal heading be?",
+    "answers": [
+      "320 Magnetic.",
+      "330 Magnetic.",
+      "335 Magnetic.",
+      "320 True."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The forecast wind is 230/10. You are on a 50km flight where the desired track is 078 degrees true. What effect will the wind have on the glider?",
+    "answers": [
+      "Drift to left of track with low ground speed.",
+      "Drift to right of track with low ground speed.",
+      "Drift to left of track with high ground speed.",
+      "Drift to right of track with high ground speed."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   }
 ]

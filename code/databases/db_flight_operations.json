@@ -550,5 +550,989 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "You have just landed your glider heavily. What are the correct actions?",
+    "answers": [
+      "Place an entry in the log book advising the requirement for an inspection at the next convenient opportunity.",
+      "Inform the duty instructor before the aircraft flies again.",
+      "Inspect the aircraft in the workshop at flying cesation.",
+      "Inform the next pilot of a possible problem on the next flight."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What will happen to the eyes when a pilot is operating at altitude or above cloud with an empty field of view?",
+    "answers": [
+      "They will tend to focus at infinity.",
+      "They will naturally focus at the ideal point to detect other aircraft.",
+      "They will focus on the instruments only.",
+      "They will tend to focus at a point 1 to 2 metres away."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What will happen to the pilot who accepts a seating position that is too low in the cockpit?",
+    "answers": [
+      "They will lose from view a part of the approach area under the nose of the glider.",
+      "They will not suffer any dissadvantage.",
+      "They will have a tendancy to undershoot.",
+      "They will be able to see much further ahead of the glider."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "On arrival at a strange airfield, you call on the notified frequency but get no reply. Your radio is serviceable, what should your actions be?",
+    "answers": [
+      "Land anyway, regardless of no radio contact.",
+      "Land outside the boundary as the airfield is probably closed.",
+      "Continue with intended landing, watch for other traffic and follow suit, make relevant ‘blind calls’ on the radio.",
+      "Try and soar back to your home site."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the correct actions on joining a thermal?",
+    "answers": [
+      "Turn the same direction as other gliders and keep a good lookout.",
+      "Keep a good lookout and centre in the lift, regardless of others.",
+      "Centre as quickly as possible to make most use of the lift.",
+      "Always turn left in the northern hemisphere."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While ridge soaring with the hill on your right, you have to overtake another glider. What should your actions be?",
+    "answers": [
+      "Descend underneath, but staying in the lift.",
+      "Overtake on the right.",
+      "Overtake on the left.",
+      "Pass on either side as it doesn’t matter."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While watching a glider about to launch with a senior instructor on board, you notice the air brakes are open. What should you do?",
+    "answers": [
+      "Stay quiet so as not to look the fool.",
+      "Ask the advise of the duty pilot.",
+      "Stop the launch and bring it to the attention of the duty instructor.",
+      "Nothing, as the senior instructor probably knows about it."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You have flown every week-end for six months but missed the last four weekends. What should your actions be?",
+    "answers": [
+      "Continue as normal, lack of currency is not an issue.",
+      "Ask for a check flight or discuss your situation with the duty instructor.",
+      "Fly dual if there is a two seater available.",
+      "Fly the single seater to regain currency."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You notice on the daily inspection that the radio keeps blowing fuses. What should you do?",
+    "answers": [
+      "Tell the duty instructor before you fly the glider.",
+      "Replace with a larger fuse until the problem is solved.",
+      "Get a qualified person to check the radio or clearly mark the radio ‘u/s’.",
+      "Sort the problem at flying cesation."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A glider on a head on collision course with a military aircraft could have a very high closing speed. In such a situation, how would the image of the military aircraft appear to grow in size with decreasing range?",
+    "answers": [
+      "It would grow at a constant rate.",
+      "Initial growth would be rapid and further growth at a constant rate.",
+      "Initial growth would be small until close to impact where growth would become rapid.",
+      "Initial growth would be rapid all the way to impact."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "As the winch cable is being attached you notice that the weak link is damaged. What should you do?",
+    "answers": [
+      "Continue, as it launched the last glider alright.",
+      "Have the suspect item changed before launching.",
+      "Continue, as you are current on launch failures anyway.",
+      "Have the item changed at the end of the days flying."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are commencing a launch on the winch when you notice a glider turning in early to land up the field. Is this a problem?",
+    "answers": [
+      "As the launch has commenced the decision lies with the launch marshall.",
+      "No, ‘all clear’ means the immediate vicinity.",
+      "No, even if you have a launch failure there should be no confliction.",
+      "Yes, if you have a launch failure you may have conflicting approaches."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are converting to a new type. There is a cross wind and you are about to aerotow on the belly hook using an unusually short aerotow rope. What should you do?",
+    "answers": [
+      "Ask the wing tip holder to hold the into wind wing lower than normal so as to assist with keeping the wings level at slow speed.",
+      "Ask the wing tip holder to hold back on the down wind wing.",
+      "Refuse the launch as it is getting dangerous to continue under the circumstances.",
+      "Wire lock the back release mechanism to prevent inadvertant release."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A glider and a military aircraft could have a closing speed of 600 kts. If the visibility is 5 miles, but the pilots only see each other at 3 miles, how much time would the pilots have to avoid collision?",
+    "answers": [
+      "About 20 seconds.",
+      "About 35 seconds.",
+      "About 45 seconds.",
+      "About 55 seconds."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are breathing abnormally and showing symptoms similar to hypoxia at a low altitude where hypoxia would not be a consideration. What are you likely to be suffering from?",
+    "answers": [
+      "Fatigue.",
+      "Hypoxia.",
+      "Anoxia.",
+      "Hyperventilation."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "There are certain vital actions to be taken in the event of a launch failure. Which of the following is the most correct statement?",
+    "answers": [
+      "Release the cable, regain flying speed and land ahead.",
+      "Adopt a nose down attitude, regain a safe flying speed, release what is left of the cable and land according to your ‘Eventualities’ brief if possible.",
+      "Adopt a nose down attitude, release what is left of the cable, land ahead or choose an alternative landing area.",
+      "Return to the normal gliding attitude, check speed and land back at the launch point if possible."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "On visiting a hill site, you read on the notice board a club rule stating a minimum height to leave the hill and return to site. Who does this apply to?",
+    "answers": [
+      "All pilots, regardless of experience and ability.",
+      "Only local pilots as this is a local rule.",
+      "Only non instructors.",
+      "Only visitors, as they are unlikely to be familiar with the site."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are wire launching when you notice the parachute opening. What should be your immediate actions?",
+    "answers": [
+      "Pull back so as to tension the cable and close the chute.",
+      "Wait on the winch driver sorting out the power.",
+      "Treat the situation as a launch failure and take the appropriate actions.",
+      "Investigate the serviceability of the parachute once back on the ground."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Whilst flying downwind with a higher performance glider in front, and at about the same height as yourself, you notice he appears to be extending downwind further than you would like. What action should you take?",
+    "answers": [
+      "Follow the other glider and use less airbrake on the approach.",
+      "Ignore the other glider and fly your own circuit.",
+      "Follow the other glider and land in the undershoot if necessary.",
+      "Turn in early and be prepared to land up the field if necessary in order to avoid a potential conflict."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "After getting low on a cross country and choosing a field, you notice there is a stream along one side of it. What might this signify?",
+    "answers": [
+      "The field slopes down towards the stream.",
+      "The field slopes up towards the stream.",
+      "The field will be very soft, therefor the landing run will be short.",
+      "There are probably cattle nearby, so land with caution."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Who is responsible for stopping a launch should anything be going wrong?",
+    "answers": [
+      "The launch point controller.",
+      "The duty instructor.",
+      "Anybody.",
+      "The pilot."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "After Scuba diving, the guide lines are ‘do not fly within 12 hours of swimming using compressed air and avoid flying for 24 hours if a depth of 30 feet has been exceeded’. Which risk is being kept to a minimum?",
+    "answers": [
+      "Hyperventilation.",
+      "Hypoxia.",
+      "Decompression sickness.",
+      "Sensory loss."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the function of the eustachian tube?",
+    "answers": [
+      "To allow the middle ear to drain freely.",
+      "To allow the middle ear to equalize with ambient pressure.",
+      "To allow the inner ear to equalize with ambient pressure.",
+      "To allow the inner ear to drain freely."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are P2, flying mutually with a more experienced pilot who you consider has chosen an incorrect course of action which may endanger the glider. What should your actions be?",
+    "answers": [
+      "Accept this course of action as the other pilot is P1.",
+      "Question the action of the pilot, only if you think the handling pilot will listen.",
+      "Take control from the handling pilot and rectify the situation.",
+      "Always express any doubts that you may have."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "On a cross country flight in August you are faced with an out landing. Assuming no obstructions and fields of adequate size, which of the following would be the correct choice?",
+    "answers": [
+      "A field with cows in one corner.",
+      "A field of standing corn.",
+      "A field with sheep in one corner.",
+      "A stubble field that has a border ploughed around it."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In which direction should all turns be made when hill soaring?",
+    "answers": [
+      "Away from the hill.",
+      "Left.",
+      "Right.",
+      "Same as the glider in front."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are about to land out. Which of the following is the best option, when the only suitable field has a slope in it, and the wind is up the slope?",
+    "answers": [
+      "Land down hill, into wind.",
+      "Land across the slope, and cross wind.",
+      "Land up hill, down wind.",
+      "Land diagonally down slope to give the longest ground run with an into wind component."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are on aerotow when you notice the rudder of the tug waggling from side to side. What should your actions be?",
+    "answers": [
+      "Check air brakes are closed and jettison tail chute if it has deployed.",
+      "Check air brakes are closed.",
+      "Release immediately.",
+      "Fly out to the left and rock your wings in reply."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are faced with a field landing. You know the 4000’ wind is 240 degrees, 20 kts. What is the surface wind most likely to be?",
+    "answers": [
+      "240 degrees, 10 kts.",
+      "Greater than 240 degrees, less than 20 kts.",
+      "Less than 240 degrees, greater than 20 kts.",
+      "Less than 240 degrees, less than 20 kts."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is most correct when entering a turn?",
+    "answers": [
+      "Lookout first then turn.",
+      "Lookout, look over the nose, then turn.",
+      "Ensure it is clear in the direction of the turn, then turn.",
+      "Start the turn, then lookout in the same direction."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What actions should be taken when flying through an area of sink?",
+    "answers": [
+      "Slow down so as to reduce the rate of descent.",
+      "Increase speed so as to spend as little time in the sink as possible.",
+      "Continue as normal because the lift on the other side of the sink will compensate for the height loss.",
+      "Slow down and turn away from the sink."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the approximate time required to eliminate 1 unit of alcohol from the blood?",
+    "answers": [
+      "30 minutes.",
+      "60 minutes.",
+      "90 minutes.",
+      "120 minutes."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When keeping a good lookout, how is the most effective scanning achieved?",
+    "answers": [
+      "A series of short, regularly spaced eye movements, progressing across the field of view.",
+      "Rapidly and smoothly sweeping the entire field of view.",
+      "A random scan of the most likely areas of conflicting traffic.",
+      "Alternating between three or four different areas."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "During a solo flight you notice the handling appears to be different from the last time you flew it. What action, if any, should you take after landing?",
+    "answers": [
+      "None.",
+      "Check the log book to see if any ballast weight has been added or removed.",
+      "Bring it to the attention of the duty instructor before it flies again.",
+      "Let the next person to fly the glider know of the problem."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While flying in cloud you notice the ASI reading slowly reduces to zero. What is the most likely cause?",
+    "answers": [
+      "You are fully stalled.",
+      "There is ice in the static system.",
+      "There is water in the pitot system.",
+      "There is ice in the pitot system."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are down wind to land at your home site when you are overtaken by a higher performance glider with only one airbrake extended. Who has right of way?",
+    "answers": [
+      "The other glider, as there is an emergency.",
+      "You have right of way as the lower performing glider.",
+      "The other glider, due to its faster circuit speed.",
+      "You have right of way, even though there is an emergency in progress."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are half way up the winch launch when the speed increases above max winch launch. What should be your immediate actions?",
+    "answers": [
+      "Lower the nose slightly and give the too fast signal. If, after a few seconds, you are still too fast, then abandon the launch.",
+      "Pull back so as to load the winch and reduce the speed.",
+      "Release immediately.",
+      "Maintain the climbing attitude and wave off."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are soaring in a moderate westerly wind, a ridge which runs north west to south east when orographic cloud forms all around. Which compass heading and speed should you fly?",
+    "answers": [
+      "180 degrees at best L/D.",
+      "270 degrees at min sink.",
+      "245 degrees at min sink.",
+      "245 degrees at best L/D."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are about to join a thermal with two gliders circling in opposite directions. Which way do you turn?",
+    "answers": [
+      "Same direction as the higher glider.",
+      "Same direction as the lower glider.",
+      "Either direction as the thermal would seem to be a free for all.",
+      "Same direction as the closer glider."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are about to land as there is thunder storm activity from a Cb close by. What should you particularly be aware of?",
+    "answers": [
+      "Lightning flashes which may blind temporarily.",
+      "Rapid changes in wind strength and direction.",
+      "Reducing visibility due to low cloud base.",
+      "Reduction in performance due to wet wings."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While hill soaring with the hill on your left, you meet a higher performance glider coming the other way. Who has right of way and what actions should you take?",
+    "answers": [
+      "The other glider has right of way and you should turn right.",
+      "You have right of way being the lower performing glider but should be prepared to give way.",
+      "You have right of way but the rules of the ridge dictate that you should give way.",
+      "Neither has right of way and both should turn right."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Whilst in a straight glide you notice another glider on your right at about the same height. The bearing relative to you is remaining constant and the separation is reducing. What actions should you take?",
+    "answers": [
+      "None, as you have right of way.",
+      "Take avoiding action as the other glider has right of way.",
+      "Wait to see what develops but be prepared to take avoiding action.",
+      "Increase speed to try and out glide the other glider."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A pilot is faced with a field landing into a slightly down sloping field. What is most likely to happen?",
+    "answers": [
+      "A shallower approach than intended will be flown.",
+      "A normal approach will be flown, as intended.",
+      "A steeper approach than normal will be flown.",
+      "An under shoot will be flown."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the main cause of motion sickness?",
+    "answers": [
+      "Direct effect of movement on the stomach.",
+      "The mismatch between visual and vestibular sensory inputs.",
+      "Changes in blood pressure produced by motion.",
+      "Long periods of ‘head inside the cockpit’."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "After an aerobatic session in a semi-aerobatic glider, the accelerometer reads +4g and -2.5g. What action do you need to take, if any?",
+    "answers": [
+      "None, as the limit loads have not been exceeded.",
+      "Inform the duty instructor before it flies again, as the placard limits have been exceeded.",
+      "Make an entry in the DI book to record the applied loads.",
+      "Inform the CFI at the end of the day."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "On returning to your home airfield after a long flight, the duty instructor alerts you on the radio, of a strong wind gradient. What should you do?",
+    "answers": [
+      "Watch for heavy sink on the approach.",
+      "Increase airspeed well above the normal and be prepared for a rapid reduction in airspeed close to the ground.",
+      "Be prepared to use less airbrake on the later part of the approach.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are climbing in good wave lift, but your glider is not equipped with oxygen. At what height is it recommended you should abandon your climb?",
+    "answers": [
+      "12,000 feet.",
+      "10,000 feet.",
+      "8,000 feet.",
+      "17,000 feet."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While on a cross country, you are continually correcting your heading to the right in order to reach your goal. What might this signify?",
+    "answers": [
+      "The wind is from the right of track.",
+      "The wind is from the left of track.",
+      "There is probably a magnetic anomaly affecting the compass.",
+      "Magnetic variation is particularly strong at this time."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What disadvantages, if any, would there be in getting too close to cloud base?",
+    "answers": [
+      "You may loose sight of your next thermal.",
+      "You may inadvertently enter cloud and exit in the wrong direction.",
+      "You may inadvertently enter cloud and ice up sufficiently enough to lose out on performance, making the extra height gain worthless.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "How would you check your chosen field for slope?",
+    "answers": [
+      "Look for a lack of crop.",
+      "Look for sheep where cattle would normally be..",
+      "Check the map for contours.",
+      "Fly around the field checking visually for slope."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the stall recovery actions?",
+    "answers": [
+      "Stick forward, regain flying speed, level the wings (if necessary) and return to the normal gliding attitude.",
+      "Regain flying speed and return to the normal gliding attitude.",
+      "Stick forward, wings level, regain flying speed and return to the normal gliding attitude.",
+      "Stick forward, regain flying speed and return to the normal gliding attitude."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the correct mnemonic for the glider pre manoeuvre checks?",
+    "answers": [
+      "HASL ( height, area, security and lookout.)",
+      "HASSL ( height, airframe, security, straps and lookout.)",
+      "HASSLL ( height, airframe, straps, security, location and lookout.)",
+      "HASELL ( height, airframe, security, engine, location and lookout.)"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When carrying out the pre manoeuvre checks, what does the airframe part of the check call for?",
+    "answers": [
+      "Ensure that the airframe is cleared for the manoeuvres to be flown.",
+      "It acts as a reminder of the ‘g’ limits.",
+      "A check of placarded limiting speeds and loads and that the glider is cleared for the manoeuvres and that the correct configuration is used, i.e. flap settings etc.",
+      "A check of the limiting speeds such as Vne and Max Manoeuvre."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Why is it important to judge height without reference to an altimeter when flying a circuit?",
+    "answers": [
+      "Altimeter errors and pressure changes render the altimeter inaccurate and unreliable.",
+      "So as to be able to land safely, should the altimeter fail.",
+      "It is a requirement for the Bronze C flying check.",
+      "You may have forgotten to return the subscale to the correct setting."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When should a positive control check be carried out?",
+    "answers": [
+      "Before each flight.",
+      "Only after rigging the glider.",
+      "Before each days flying commences.",
+      "Before each days flying and immediately after rigging the glider."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What effect would 50 foot trees on the down wind boundary of your chosen field have on your landing run, assuming you would normally touch down just inside the field perimeter?",
+    "answers": [
+      "There will be no effect what so ever.",
+      "They will move the touch down point 500 feet further up the field.",
+      "They will move the touch down point 50 feet further up the field.",
+      "They will cause a wind shadow in the first 500 feet of the field."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A tobacco smoker, compared to a non-smoker, is subjected to altitudes at which the onset of hypoxia is likely. What will probably be the experience of the smoker?",
+    "answers": [
+      "Initial symptoms will be experienced at a lower cabin altitude.",
+      "Initial symptoms will be experienced at a higher cabin altitude.",
+      "Initial symptoms will be experienced at the same cabin altitude.",
+      "Initial symptoms will be experienced at the same cabin altitude, but worse."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are suffering from a common cold. What is the most likely event whilst flying?",
+    "answers": [
+      "The reduced pressure whilst flying will ease any discomfort caused by the infection.",
+      "Changes in pressure are likely to cause discomfort.",
+      "There should be no effects whilst flying.",
+      "You may feel a little dizzy but may ignore the symptoms and continue to fly."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Is it important to read NOTAMs before flying cross country?",
+    "answers": [
+      "No, if there is any problems, the duty instructor will point them out.",
+      "Yes, it is the pilots responsibility to familiarise themselves with notices.",
+      "No, they only apply to royal flights and the Red Arrows.",
+      "Yes, but only when planning to fly through controlled airspace."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are final gliding back to your home airfield and wish to fly a competition type finish. You call on the radio for permission but get no reply, what should be your actions?",
+    "answers": [
+      "Continue as planned, flying must have stopped.",
+      "Continue as planned, but keep a lookout for other gliders.",
+      "Change to a more conservative type finish followed by a normal circuit.",
+      "Keep trying on the radio until you get a reply."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the correct actions when a glider on your left is converging on your flight path.",
+    "answers": [
+      "Although you have right of way, take avoiding action early if necessary.",
+      "No action required as you have right of way.",
+      "Take avoiding action, as the other glider has right of way.",
+      "Increase speed so as to out glide the other aircraft."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are final gliding to your home airfield when you realise that you are unsure of reaching the airfield. What is the best course of action?",
+    "answers": [
+      "Continue as planned as you will be able to dolphin the last bit home.",
+      "Choose a field and land.",
+      "Change course and fly towards the nearest thermal.",
+      "Continue towards the airfield, but only if there is an alternative landing area available between you and the airfield."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are in the process of winch launching when there is a delay at the winch. Your canopy has begun to mist up but you have the cable attached. What is the best course of action?",
+    "answers": [
+      "Continue, as the canopy will clear on the launch.",
+      "Release the cable and clear the canopy before launching, a launch failure could be disastrous with poor visibility.",
+      "Continue, making use of the DV panel as required.",
+      "Open the DV panel and all vents in order to clear the canopy once the launch begins."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Having consumed a small amount of alcohol, how long should you wait before flying?",
+    "answers": [
+      "4 Hrs.",
+      "6 Hrs.",
+      "8 Hrs.",
+      "10 Hrs."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are on medication, the effects of which you are unsure. What is the correct thing to do?",
+    "answers": [
+      "Continue to fly.",
+      "Do not take the medication whilst airborne.",
+      "Wait a while after taking the medication to see if there is any reason not to fly.",
+      "Do not fly. If in doubt seek medical advice."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Who is responsible for stopping a launch?",
+    "answers": [
+      "The duty instructor.",
+      "Anybody.",
+      "The pilot.",
+      "The wing tip holder."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A Glider overtaking another in the UK shall follow which rule?",
+    "answers": [
+      "Always overtake from above.",
+      "Overtake on either side.",
+      "Always overtake on the right.",
+      "Always overtake on the left."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is correct when 2 aircraft are on a converging course?",
+    "answers": [
+      "The aircraft which has the other on its right has the right of way.",
+      "The aircraft at the lower altitude has the right of way.",
+      "The aircraft which has the other on its right shall give way.",
+      "The slower aircraft must give way."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does hyperventilation lead to?",
+    "answers": [
+      "A shortage of oxygen.",
+      "Blackouts.",
+      "Greyouts.",
+      "An excess of oxygen."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What effects will cigarette smoking have on a pilot?",
+    "answers": [
+      "It will reduce the amount of oxygen in the blood.",
+      "It will increase the amount of oxygen in the blood.",
+      "It will increase the pilots decision time.",
+      "It will increase the pilots awareness."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What name is given when the body is suffering from low temperatures?",
+    "answers": [
+      "Hypoxia.",
+      "Hypothermia.",
+      "Hypoglycaemic.",
+      "Anoxia."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the amount of oxygen that diffuses across the lung membranes when at high altitudes?",
+    "answers": [
+      "It remains the same.",
+      "It increases.",
+      "It reduces due to temperature reductions.",
+      "It reduces due to pressure reductions."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the percentage content of oxygen in the air as altitude increases?",
+    "answers": [
+      "It decreases due to decrease in temperature.",
+      "It increases.",
+      "It remains the same.",
+      "It decreases due to decrease in pressure."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The respiratory process is governed by chemical receptors in the brain which monitor the levels of oxygen and carbon dioxide. Which of the following is the most accurate statement with respect to a healthy body?",
+    "answers": [
+      "The body is more sensitive to changes in oxygen than carbon dioxide.",
+      "The body is more sensitive to changes in carbon dioxide than oxygen.",
+      "The body is more sensitive to changes in the gas registering the least amount.",
+      "The body is more sensitive to changes in the gas registering the largest amount."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following list of signs and symptoms are associated with hypoxia? 1. Personality changes. 2. Impaired judgement. 3. Muscular impairment. 4. Memory impairment. 5. Sensory loss. 6. Impairment of consciousness.",
+    "answers": [
+      "Items 1 and 2 only.",
+      "Items 1 to 3 only.",
+      "Items 1 to 4 only.",
+      "All of the above items."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following should be carried out before washing a glider?",
+    "answers": [
+      "Ensure that the airbrakes are locked in.",
+      "Ensure that the control column is restrained by the harness.",
+      "Ensure that the wheelbrake is on.",
+      "Ensure that the aircraft is serviceable."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which 2 conditions are particularly detrimental to GRP structure?",
+    "answers": [
+      "Polar Continental and polar maritime air masses.",
+      "Rain and strong winds.",
+      "Moisture and solar radiation.",
+      "Low humidity and light winds."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Why should care be taken when using a hose to rinse down a glider after washing?",
+    "answers": [
+      "Because there is a water shortage.",
+      "To ensure that water is not forced into orifices.",
+      "To minimise soap dilution.",
+      "To ensure personnel don’t get wet."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In a motor glider, which type of poisoning may result due to a faulty exhaust system?",
+    "answers": [
+      "Carbon monoxide.",
+      "Carbon dioxide.",
+      "Hypoxia.",
+      "Blood."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What problems exist, if any, detecting carbon monoxide in the cockpit of a motor glider?",
+    "answers": [
+      "It is easily recognisable because of its peculiar odour.",
+      "It is easily recognisable because of its peculiar colour.",
+      "It is difficult to recognise because it is odourless and colourless.",
+      "It is impossible to detect."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the amount of oxygen available as altitude increases?",
+    "answers": [
+      "Decreases due to decrease in air density.",
+      "Remains the same.",
+      "Increases due to increase in density.",
+      "Becomes diluted."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Lack of oxygen may cause a particularly dramatic effect in a pilot. What is this known as?",
+    "answers": [
+      "Anoxia.",
+      "Hypoxia.",
+      "Suffocation.",
+      "Hyperventilation."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   }
 ]

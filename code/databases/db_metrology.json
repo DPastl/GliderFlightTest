@@ -1318,5 +1318,846 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "At the passage of a cold front, what will the wind do?",
+    "answers": [
+      "Veer and decrease.",
+      "Back and decrease.",
+      "Veer and increase.",
+      "Back and increase."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What type of cloud is associated with moist air flowing over a hill?",
+    "answers": [
+      "Anabatic cloud.",
+      "Radiation cloud.",
+      "Advection cloud.",
+      "Orographic cloud."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does ‘Buys Ballots’ law state of the northern hemisphere?",
+    "answers": [
+      "If you stand with your back to the wind the low is on your left.",
+      "If you stand with your back to the wind the low is on your right.",
+      "Low pressure systems rotate clockwise when viewed from above.",
+      "Temperature decreases with height at a rate of 1.7 degrees per 1000 ft."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is usually the first sign of an approaching warm front in the summer months?",
+    "answers": [
+      "Cumulo nimbus rapidly approaching from the west.",
+      "High layer cloud slowly approaching, with weakening soaring conditions.",
+      "Rain, heavy at first, slowly dying out as the front approaches.",
+      "Increasing winds, but little prospect of rain."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What weather associated with cumulo nimbus is considered to be the worst hazard when landing a glider?",
+    "answers": [
+      "Lightning, blinding pilots and damaging gliders.",
+      "Heavy rain leaving the wings performance seriously degraded.",
+      "Icing, degrading performance and making vision through the canopy difficult.",
+      "Increased wind strength together with rapid direction changes, making landing in particular, very difficult."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of radiation fog?",
+    "answers": [
+      "Warm dry air flowing over cold wet ground.",
+      "Warm moist air flowing over cold dry ground, being cooled from beneath.",
+      "The sun warming cold moist ground.",
+      "Moist air cooling over night to below the dew point with light winds."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In the lower atmosphere, what is regarded as being the accepted reduction of pressure with increase in height?",
+    "answers": [
+      "30 mb per 1000 feet.",
+      "1 mb per 30 feet.",
+      "1mb per 1000 feet.",
+      "30 mb per 10,000 feet."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is wind gradient?",
+    "answers": [
+      "Rapid changes in wind direction with height.",
+      "Turbulence, due to the fast flow close to the ground.",
+      "The difference in pressure between a high and a low.",
+      "Rapid reduction in wind strength close to the ground."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A high pressure inversion in summer will have what effects on soaring?",
+    "answers": [
+      "Prevention of the formation of thermals.",
+      "Prevention of the formation of cumulus, once the inversion is below the dew point.",
+      "Increase the overall average thermal strength due to lack of cloud shadow.",
+      "Allow thermals to continue later into the evening."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the overlapping of a warm and cold front called?",
+    "answers": [
+      "An occlusion.",
+      "A col.",
+      "A depression.",
+      "An inversion."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the name given to a line drawn on a map joining places of equal pressure?",
+    "answers": [
+      "An Isobar.",
+      "A millibar.",
+      "A pressure gradient.",
+      "An Isogonal."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Whilst flying cross country you notice that the cumulus are getting larger and some have developed an anvil shape at the top. What weather is most likely to follow?",
+    "answers": [
+      "Rapidly improving soaring conditions.",
+      "Deteriorating soaring conditions due to the increase in cloud shadow.",
+      "Thunder storms or rain showers leading to unsoarable areas.",
+      "Wide spread rain."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What effect in general, does a building high pressure system have on the level of an inversion?",
+    "answers": [
+      "The level rises as the high pressure system approaches.",
+      "The level remains the same, however, the dew point does rise above it.",
+      "The level falls slowly as the high pressure system approaches.",
+      "There is no effect on the inversion, however, the cloud base will lower."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Where might you find rotor cloud?",
+    "answers": [
+      "Over hill tops and in the lee of hills in association with wave systems.",
+      "Along a sea breeze front in association with strong lift and sink.",
+      "In front of orographic cloud.",
+      "Underneath cumulus nimbus clouds in association with down draughts."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to visibility and temperature at the passage of a cold front?",
+    "answers": [
+      "Visibility increases and temperature decreases.",
+      "Visibility decreases and temperature decreases.",
+      "Visibility increases and temperature increases.",
+      "Visibility decreases and temperature increases."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the effects of diurnal variation on the soaring day?",
+    "answers": [
+      "The wind increases at the start of the day and decreases at the end of the day.",
+      "The wind veers and increases at the start of the day and backs and decreases at the end of the day.",
+      "The wind backs and increases at the start of the day and veers and decreases at the end of the day.",
+      "The wind veers and decreases at the start of the day and backs and increases at the end of the day."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The forecast wind is due to veer by 30 degrees during the morning. If the wind direction is a north easterly at the start, what will be the wind direction after it has veered, assuming the forecast is correct?",
+    "answers": [
+      "015 degrees.",
+      "045 degrees.",
+      "075 degrees.",
+      "225 degrees."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Due to a high pressure system the prevailing wind across the UK is from the south west on a summers day. What name best describes this wind?",
+    "answers": [
+      "Tropical maritime.",
+      "Tropical continental.",
+      "Polar maritime.",
+      "Polar continental."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of advection fog?",
+    "answers": [
+      "Warm dry air, flowing over cold wet ground.",
+      "Warm moist air, flowing over a cold surface, being cooled from beneath.",
+      "The sun, warming cold moist ground.",
+      "Warm moist air, flowing over a hill or ridge."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In the atmosphere, air flows from high pressure to low pressure in an attempt to reach equilibrium. Why then, does the wind flow anti clockwise round a low pressure when viewed from above?",
+    "answers": [
+      "Due to the Earths rotation and the coriander effect.",
+      "Due to the Earths rotation and the Coriolis effect.",
+      "Due to the jet stream in association with the low.",
+      "Due to temperature gradients within the low creating friction between layers"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In May a deep trough is forecast to pass through the local area during the day. What would be the most likely associated weather?",
+    "answers": [
+      "Excellent soaring, particularly after the trough has passed.",
+      "Poor soaring due to slowly deteriorating weather.",
+      "Particularly violent weather at the passage of the trough, including strong winds, heavy rain and Cb activity.",
+      "Better soaring during the passage of the trough, but otherwise a poor day."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In August, a weak ridge is forecast across the country the day after a cold front has passed through. What would be the most likely weather?",
+    "answers": [
+      "Poor soaring as the ridge will reduce the instability from the cold front.",
+      "Good soaring as a ridge reduces the instability behind the cold front preventing over convevtion.",
+      "Poor soaring due to over convection.",
+      "Deteriorating soaring conditions due to the lowering inversion."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the area, like a saddle on a mountain ridge, bounded by two high pressure systems and two low pressure systems called?",
+    "answers": [
+      "An occlusion.",
+      "A trough.",
+      "A ridge.",
+      "A Col."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is a cause of temperature inversion?",
+    "answers": [
+      "Descending air warming due to compression and resting on the cooler airmass beneath.",
+      "Pollution in the lower atmosphere reflecting the suns energy.",
+      "Uneven heating of the atmosphere due to instability.",
+      "Uneven heating of the atmosphere due to stability."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are flying from a site in the UK where the ridge faces south west. A depression is forecast to track close to the area over the next few days. Where would the centre of the depression need to be, in relation to the ridge site, for the ridge to work best?",
+    "answers": [
+      "Due south.",
+      "North east.",
+      "South west.",
+      "North west."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is a visibility of more than 1000 metres but less than 2000 metres known as?",
+    "answers": [
+      "Fog.",
+      "Mist.",
+      "Haze.",
+      "Poor visibility."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A sea breeze front has been forecast to penetrate inland beyond one of your chosen turning points. Assuming this takes place before you get there, what would be the expected weather conditions as you approach the TP?",
+    "answers": [
+      "Improving soaring conditions until the TP has been rounded.",
+      "Deteriorating through the front, but much better round the TP.",
+      "Improved at the front, but weak soaring, if any, around the TP.",
+      "There will be little change to soaring conditions as most fronts of this type are weak."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the approximate rate of change of temperature with height for the dry adiabatic lapse rate?",
+    "answers": [
+      "3 degrees Celsius loss per 1000 feet height gain.",
+      "2 degrees Celsius loss per 1000 feet height gain.",
+      "1.5 degrees Celsius loss per 1000 feet height gain.",
+      "1 degree Celsius loss per 1000 feet height gain."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When an air mass rises it cools at a given rate. Cooler air cannot hold as much water vapour as warmer air and therefor eventually becomes saturated. What is this point called, and what happens there?",
+    "answers": [
+      "The saturated lapse point, and cloud vertical development starts here.",
+      "The dew point, and cloud vertical development stops here.",
+      "The saturated lapse point, and cloud vertical development stops here.",
+      "The dew point, and cloud vertical development starts here."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the three main stages called in the life cycle of a thunderstorm?",
+    "answers": [
+      "The cumulus stage, the mature stage and the dissipating stage.",
+      "The cumulus stage, the mature stage and the precipitation stage.",
+      "The cumulus stage, the precipitation stage and the dissipating stage.",
+      "The precipitation stage, the gust front stage and the dissipating stage."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is meant by the term ‘stable air mass’?",
+    "answers": [
+      "The pressure is high, and therefore no thermal activity will be present.",
+      "The environmental lapse rate is less than the dry adiabatic lapse rate.",
+      "The airmass is dry, therefore no thermals or cumulus cloud will form.",
+      "The environmental lapse rate is greater than the dry adiabatic lapse rate."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the name given to the wind effect that increases temperature and raises cloud base in the lee of a hill?",
+    "answers": [
+      "The orographic wind effect.",
+      "The foehn wind effect.",
+      "The geostrophic wind effect.",
+      "The lee wave rotor wind effect."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the official definition of fog?",
+    "answers": [
+      "Visibility reduced to below 5000 metres.",
+      "Visibility reduced to below 1000 metres.",
+      "Visibility reduced to below 2000 metres.",
+      "Visibility reduced to below 3000 metres."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Icing effects, in particular, aerodynamics. What other effects does icing have on a glider?",
+    "answers": [
+      "Pitot tubes & static vents may become blocked.",
+      "Weight is increased which may alter the C of G position.",
+      "Weight is increased which may alter the C of G position and pitot tubes & statics may become blocked.",
+      "Weight is increased which may alter the C of G position, pitot tubes & statics may become blocked and radio communications may be degraded."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A large depression is centred over the north of Scotland. What will be the wind direction over central & southern England?",
+    "answers": [
+      "From the North.",
+      "From the East.",
+      "From the South.",
+      "From the West"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Three conditions are necessary for a thunderstorm to develop. If deep instability is forecast with a high moisture content, what is the third condition required?",
+    "answers": [
+      "Light winds and little cloud shadow.",
+      "Light winds aloft so as to allow vertical development of the cumulus.",
+      "An already high cloud base with large cumulus developing.",
+      "A trigger action such as a front forcing the air aloft, a mountain forcing the air aloft or strong heating of the lower air mass."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the approximate rate of change of temperature with height for the saturated adiabatic lapse rate?",
+    "answers": [
+      "3 degrees Celsius loss per 1000 feet height gain.",
+      "2 degrees Celsius loss per 1000 feet height gain.",
+      "1.5 degrees Celsius loss per 1000 feet height gain.",
+      "1 degree Celsius loss per 1000 feet height gain."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What causes hail to form?",
+    "answers": [
+      "Rain freezing as it falls through a cold atmosphere.",
+      "Rain falling through a temperature inversion.",
+      "Water molecules freezing in the up draughts of a Cb, growing with each cycle until too heavy to be sustained by the rising air.",
+      "Ice crystals in the upper cloud falling to the ground before they have time to melt."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Is it possible for thermals to develop under an extensive layer of strato-cumulus?",
+    "answers": [
+      "Yes, if there is sufficient instability in the atmosphere.",
+      "No, there will be insufficient energy from the sun reaching the ground.",
+      "No, strato-cumulus normally forms in stable conditions.",
+      "No, even where the layer cloud in broken or thin enough to allow the sun’s energy through, insufficient energy will reach the ground."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of a sea breeze front?",
+    "answers": [
+      "Sea heating more quickly than the land which causes the air to rise over the sea. This in turn leads to advection and the sea breeze.",
+      "Cooler sea air mixing with an offshore breeze creates the frontal system.",
+      "Land heating more quickly than the sea which causes the air to rise overland which in turn leads to advection and the sea breeze.",
+      "Warm air over the sea against cooler land air creates the frontal system."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of katabatic winds?",
+    "answers": [
+      "Cooling air becomes more dense and therefore sinks. At night this sinking air will flow down hills and through valleys creating the wind.",
+      "Warm air becomes less dense and rises. With the sun on a slope during the day, warm air flows up hill creating the wind.",
+      "Exhaust air descending in a high pressure system leads to the creation of the wind.",
+      "The wind blowing over a ridge creates a low pressure on the leeward slope which in turn sucks air out of the leeward valley creating the wind."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the name given to the point at which water vapour condenses, and what is the required humidity?",
+    "answers": [
+      "The dew point and can occur at any percentage saturation.",
+      "The saturation level and can occur above 90% saturation.",
+      "The dew point and requires 100% saturation.",
+      "The evaporation point and requires 100% saturation."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the ICAO standard altimeter setting?",
+    "answers": [
+      "What ever the regional QNH is on the flight.",
+      "What ever the forecast QNH is on the day.",
+      "1013.2 millibars, ( hectopascals ), regardless of local conditions.",
+      "1013.2 millibars, (hectopascals ), unless the regional QNH is lower."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When an altimeter scale is set to QNH, what does it indicate?",
+    "answers": [
+      "Height above the ground.",
+      "Altitude above the ground.",
+      "Altitude, which is height above 1013.2 millibars, ( hectopascals).",
+      "Altitude, which is height above mean sea level."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What conditions are usually associated with warm dry air from the continent flowing over the UK in the summer?",
+    "answers": [
+      "Convective cloud, showers and thunderstorms.",
+      "Stratus, sea fog and drizzle.",
+      "Warm with clear skies.",
+      "Warm with hazy weather."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is the most accurate definition of the adiabatic lapse rate?",
+    "answers": [
+      "The rate of change of temperature due to expansion with increasing height, taking into account the moisture content, i.e. dry or saturated.",
+      "The rate of change of temperature with increasing height.",
+      "The rate of change of pressure with height, taking into account the moisture content, i.e. dry or saturated.",
+      "The rate of change of pressure with height, taking into account air temperature."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The surface temperature is 20 degrees and the trigger temperature is 24 degrees centigrade. Assuming the environmental lapse rate 2 degrees, the dry adiabatic lapse rate is 3 degrees, what height will the thermal go to?",
+    "answers": [
+      "2000 feet.",
+      "3000 feet.",
+      "4000 feet.",
+      "5000 feet."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "At what height is the surface wind measured?",
+    "answers": [
+      "20 metres. (60 feet).",
+      "10 metres. ( 30 feet).",
+      "5 metres. (15 feet).",
+      "3 metres. (10 feet)."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "An anticyclone may be described as the atmosphere at rest. What does the air mass consists of?",
+    "answers": [
+      "Slowly subsiding air flowing anticlockwise in the northern hemisphere.",
+      "Slowly rising air flowing clockwise in the northern hemisphere.",
+      "Rapidly subsiding air flowing anticlockwise in the northern hemisphere.",
+      "Slowly subsiding air flowing clockwise in the northern hemisphere."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What would be an indication of a strong wind on a weather Chart?",
+    "answers": [
+      "Isobars close together indicating a slack pressure gradient .",
+      "Isobars close together indicating a steep pressure gradient.",
+      "Contours close together indicating a steep wind gradient.",
+      "Isobars far apart indicating a steep pressure gradient."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of the Coriolis effect?",
+    "answers": [
+      "Rotation of the earth.",
+      "Vertical air movements within a high.",
+      "Pressure differences.",
+      "Vertical air movements within a low."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which direction does air flow around a high pressure in the northern hemisphere?",
+    "answers": [
+      "Anticlockwise.",
+      "Clockwise.",
+      "From low pressure to high pressure.",
+      "South."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the name given to lines depicting points of equal pressure on a synoptic chart?",
+    "answers": [
+      "Isogonals.",
+      "Isobars.",
+      "Contours.",
+      "Isometrics."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of anabatic winds.",
+    "answers": [
+      "Cooling air becomes more dense and therefore sinks. At night this sinking air will flow down hills and through valleys creating the wind.",
+      "Warm air becomes less dense and rises. With the sun on a slope during the day, warm air flows up hill creating the wind.",
+      "Exhaust air descending in a high pressure system leads to the creation of the wind.",
+      "The wind blowing over a ridge creates a low pressure on the leeward slope which in turn sucks air out of the leeward valley creating the wind."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of Hoar frost?",
+    "answers": [
+      "Dry air in contact with the ground being cooled below freezing.",
+      "Dry air in contact with the ground being saturated.",
+      "Moist air in contact with any surface being cooled below freezing.",
+      "Moist air in contact with the sea being cooled below freezing"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of hill Fog?",
+    "answers": [
+      "Moist air forced uphill and its temperature reduced to below the dew point.",
+      "Dry air forced up hill and its temperature increased to the saturation point.",
+      "Moist air forced down hill and its temperature increased to the saturation point.",
+      "Moist air forced up hill and its temperature increased above the dew point."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the values of the dry adiabatic lapse rate (DALR) and saturated adiabatic laps rate (SALR).",
+    "answers": [
+      "DALR = 3 C per 1000 ft, SALR = 2 C per 1000 ft.",
+      "DALR = 3 F per 1000 ft, SALR = 2 F per 1000 ft.",
+      "DALR = 3 C per 100 ft, SALR = 1.5 C per 100 ft.",
+      "DALR = 3 C per 1000 ft, SALR = 1.5 C per 1000 ft."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the cause of wind?",
+    "answers": [
+      "The coriolis force.",
+      "Pressure differences trying to reach equilibrium.",
+      "The rotation of the earth.",
+      "Air mass modification."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Cloud amounts are reported in Oktas. Clouds are also divided into 10 main classifications. What does the information 3/8 SC, 6/8 CS, 4/8 AC indicate?",
+    "answers": [
+      "3/8 Stratocumulus, ¾ cover Cirrostratus, ½ cover Altocumulus.",
+      "3/8 Stratus, ¾ cover Cirrostratus, 4/8 cover Altocirrus.",
+      "3/8 Cumulostratus, 6/8 Stratocumulus, 4/8 Altocumulosaltus.",
+      "3/8 Stratocumulus, 6/8 cirrostratus, 4/8 Altrocirrolus."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the most severe weather conditions causing destructive winds, squalls, heavy rain and hail, generally associated with?",
+    "answers": [
+      "Thunderstorms and line squalls over land.",
+      "Slow moving cold fronts over the sea.",
+      "Fast moving warm fronts over the land.",
+      "Fast moving cold fronts over the sea."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is a squall line usually associated with?",
+    "answers": [
+      "A fast moving warm front.",
+      "An occluded front.",
+      "A fast moving cold front.",
+      "A stationary front."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is an Isobar?",
+    "answers": [
+      "A line drawn on a synoptic chart joining points of equal height above mean sea level.",
+      "A line drawn on a synoptic chart joining points of equal pressure at mean sea level.",
+      "A line drawn on a synoptic chart joining points of equal pressure at 1013.2 Mb.",
+      "A line drawn on a synoptic chart joining points of equal temperature corrected to a standard atmosphere."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What would be a typical characteristic of a Tropical Continental airmass in winter?",
+    "answers": [
+      "Warm and fairly dry.",
+      "Warm and moist with low cloud, rain/drizzle.",
+      "Cool and moist perhaps with hail and thunder.",
+      "Very cold and dry."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is a surface visibility of less than 1000 metres classed as?",
+    "answers": [
+      "Fog.",
+      "Haze.",
+      "Mist.",
+      "VMC."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which condition is most likely to effect gliding within a stable air mass?",
+    "answers": [
+      "Good visibility at the surface, poor at height.",
+      "Moderate turbulence at low level with good visibility.",
+      "Smoke, haze and dust concentrated in lower levels resulting in poor visibility.",
+      "Steady drizzle with very poor visibility."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the name given to the ratio of existing water vapour in the air, as compared to the maximum amount that could exist at a given temperature?",
+    "answers": [
+      "The condensation level.",
+      "The saturation level.",
+      "The relative humidity.",
+      "The dew point."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What causes the wind to increase and veer with increase in height?",
+    "answers": [
+      "Geostationary forces and decreasing air pressure.",
+      "Geostrophic forces and surface friction.",
+      "Geostrophic forces and increasing air pressure.",
+      "Geostationary forces and surface tension."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the correct name given to a weather map?",
+    "answers": [
+      "Isobar Chart.",
+      "Ordinance Chart.",
+      "Synoptic Chart.",
+      "Astro Chart."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What name is given to an airmass that originated from Greenland?",
+    "answers": [
+      "Polar Continental.",
+      "Tropical Maritime.",
+      "Tropical Continental.",
+      "Polar Maritime."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What name is given to an airmass that originated from Africa?",
+    "answers": [
+      "Polar Continental.",
+      "Polar Maritime.",
+      "Tropical Maritime.",
+      "Tropical Continental."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   }
+
 ]

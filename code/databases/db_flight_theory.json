@@ -742,5 +742,1049 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+,
+  {
+    "question": "When is total drag at a minimum?",
+    "answers": [
+      "At the stall.",
+      "At best glide (best L/D) for still air.",
+      "When lift dependant drag is equal to zero lift drag.",
+      "At minimum sink."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What will be the reading on the ASI if the Dynamic source of the ASI is blocked?",
+    "answers": [
+      "It will over read.",
+      "It will under read.",
+      "It will not respond.",
+      "It will read normally."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is meant by the aspect ratio of a glider?",
+    "answers": [
+      "The ratio of wing span to mean chord.",
+      "The ratio of wing span to surface area.",
+      "The ratio of weight to wing area.",
+      "The ratio of total lift to weight."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which two quantities are required to be present for a glider to spin?",
+    "answers": [
+      "Roll and yaw.",
+      "High angle of attack and yaw.",
+      "Nose high attitude and yaw.",
+      "High angle of attack and roll."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Below what maximum speed is it safe to use full deflection of any one control, regardless of the situation?",
+    "answers": [
+      "Vd. Maximum dive speed, by design.",
+      "Vne. Velocity never exceed.",
+      "Vb. Maximum rough air speed (design gust speed).",
+      "Va. Design manoeuvring speed."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the purpose of the gliders fin?",
+    "answers": [
+      "To provide a stable platform for the rudder to be mounted upon.",
+      "To provide directional stability.",
+      "To provide lateral stability.",
+      "To provide longitudinal stability."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "On a silver duration flight, soarable conditions stop after four and a half hours. You are at 5000 ft. What is the best speed to fly in order to complete the flight?",
+    "answers": [
+      "Minimum sink.",
+      "Best glide (best L/D).",
+      "Just above the stall.",
+      "It is irrelevant, as the weather will cause the flight to be terminated early."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "With regard to any glider, what is the standard spin recovery for minimum height loss?",
+    "answers": [
+      "Stick forward, full opposite rudder, centralise the rudder when the spinning stops and recover from the dive.",
+      "Full opposite rudder, with ailerons neutral move stick progressively forward until the spinning stops, centralise the rudder and recover from the dive.",
+      "Let go the controls as the aircraft will exit the spin on its own.",
+      "Full opposite rudder, stick centrally forward until the spinning stops and recover from the dive."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While maintaining the normal gliding attitude you notice that the air speed indicator is reading low and erratic. What is the most likely cause?",
+    "answers": [
+      "Water in the static system.",
+      "Water in the Pitot system.",
+      "Ice in the static system.",
+      "Ice in the Pitot system."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "‘Wash out’ is a term used to describe a particular design feature of a glider. What does it describe?",
+    "answers": [
+      "A twist in the wing, such that the inboard part of the wing stalls before the outboard, hence preventing wing drop at the stall.",
+      "The angle that the top and bottom surfaces make at the trailing edge, thus reducing induced drag.",
+      "The amount of airflow deflected over the ailerons due to the air brakes being open.",
+      "The angle that the wings sweep forward from the root to tip, as in the ASK 13."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the approximate distribution of production of lift on a glider wing?",
+    "answers": [
+      "50% from above and 50% from below.",
+      "60% from above and 40% from below.",
+      "70% from above and 30% from below.",
+      "90% from above and 10% from below."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to induced drag as airspeed is increased from the stall towards Vne?",
+    "answers": [
+      "Induced drag increases approximately as the square of the IAS.",
+      "Induced drag reduces towards best L/D then increases again.",
+      "Induced drag remains constant.",
+      "Induced drag reduces inversely as the square of the IAS."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Three forces act on a glider in flight. Which force, or part of a force, causes a glider to turn?",
+    "answers": [
+      "Unequal amounts of lift from the wings only results in the turn.",
+      "Part of total lift acting in the direction of the turn.",
+      "Unequal amounts of lift combined with induced drag result in the turn.",
+      "Part of total lift combined with induced drag result in the turn."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the importance of indicated airspeed (IAS) and true airspeed (TAS), when flying at altitude?",
+    "answers": [
+      "IAS is always less than TAS and the ASI under reads the true airspeed.",
+      "TAS is always less than IAS and the ASI under reads the true airspeed.",
+      "IAS is always less than TAS and the ASI over reads the true airspeed.",
+      "TAS is always less than IAS and the ASI over reads the true airspeed."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "If the 1 ‘g’ stalling speed is 34 knots, what will be the stalling speed in a steep turn with the accelerometer reading 4 ‘g’?",
+    "answers": [
+      "34 knots.",
+      "51 knots.",
+      "57 knots.",
+      "68 knots."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is the most correct with regards to the amount of lift being produced by a wing as the angle of attack is increased from 0 degrees?",
+    "answers": [
+      "It increases with respect to increasing angle of attack.",
+      "It increases with respect to increasing angle of attack, then remains constant above the stalling angle.",
+      "It increases until the stalling angle, then reduces rapidly towards zero.",
+      "It remains the same until the stalling angle, then reduces rapidly towards zero."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the aerodynamic purpose of the gliders tailplane?",
+    "answers": [
+      "To provide a stable platform for the elevator to be mounted upon.",
+      "To provide directional stability.",
+      "To provide lateral stability.",
+      "To provide longitudinal stability."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What effect do air brakes have on a glider?",
+    "answers": [
+      "Increase drag only.",
+      "Reduce lift only.",
+      "Increase stability, reduce lift and increase drag.",
+      "Reduce airspeed."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the definition of a Mean Camber line?",
+    "answers": [
+      "A line joining the centres of curvature between the Leading and Trailing edges and equidistant from the upper and lower surfaces.",
+      "The distance between the Leading and Trailing edges.",
+      "A straight line joining the Leading and Trailing edges.",
+      "The path traced by particles in steady flow."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the amounts of lift and drag being produced by the left wing when the control column is moved to the left?",
+    "answers": [
+      "Less lift and less drag.",
+      "Less lift and more drag.",
+      "More lift and less drag.",
+      "More lift and more drag."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "How does a change of weight affect the stalling speed of a glider?",
+    "answers": [
+      "The stall speed only changes if the weight alters the C of G position.",
+      "There is no change to the 1‘g’ stalling speed.",
+      "The stall speed increases with increasing weight.",
+      "The stall speed increases with reducing weight."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Vne is calculated by taking the maximum design dive speed (Vd), and multiplying it by 0.9. Is it therefore safe to exceed Vne, and if so, why?",
+    "answers": [
+      "Yes, there should be no risk up to Vd.",
+      "Yes, but this is normally only done during test flights.",
+      "Yes, but only to 0.95 Vd as this is as fast as the test pilot proves the glider.",
+      "No, Vne means Velocity never exceed."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the centre of gravity and glider stability if the cockpit load is reduced?",
+    "answers": [
+      "C of G moves rearwards and longitudinal stability reduces.",
+      "C of G moves rearwards and longitudinal stability increases.",
+      "Cof G moves forwards and longitudinal stability reduces.",
+      "C of G moves forwards and longitudinal stability increases."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to profile drag as airspeed is increased from the stall towards Vne?",
+    "answers": [
+      "Profile drag increases approximately as the square of the IAS.",
+      "Profile drag reduces towards best L/D then increases again.",
+      "Profile drag remains constant.",
+      "Profile drag reduces inversely as the square of the IAS."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A glider with a glide angle of 30:1 is at 3000 feet. Assuming still air and allowing 800 feet for a circuit, how far can the glider travel before commencing a circuit to land?",
+    "answers": [
+      "12.5 nautical miles.",
+      "11 nautical miles.",
+      "10.85 nautical miles.",
+      "9 nautical miles."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In which direction does lift developed by the wing of an aircraft in flight act?",
+    "answers": [
+      "Perpendicular to the chord line.",
+      "Perpendicular to the longitudinal axis.",
+      "Perpendicular to the relative air flow.",
+      "Parallel to the normal axis."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "It is vital that the weights and positions of cockpit loads are within limits. What could be affected when flying with loads outside those limits?",
+    "answers": [
+      "Lift coefficient.",
+      "Total reaction.",
+      "Lift dependent drag.",
+      "Stability."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the main advantage of adding water ballast to the tail of a glider?",
+    "answers": [
+      "To increase the over all weight.",
+      "The centre of gravity may be adjusted to place the trimmed elevator in the position for minimum drag.",
+      "Allow the glider to achieve the same glide angle at a higher speed.",
+      "To increase longitudinal stability and therefor increase performance."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the Barometric Pressure Scale enable the pilot to achieve?",
+    "answers": [
+      "To reset the altimeter datum.",
+      "To reset the ASI datum.",
+      "To move the needles on the ASI.",
+      "To reset the electric vario."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Why is the capacity flask insulated?",
+    "answers": [
+      "To prevent temperature changes affecting the variometer readings.",
+      "To prevent temperature changes affecting the ASI readings.",
+      "To prevent temperature changes affecting the altimeter readings.",
+      "To allow for acceleration errors in the compass."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In order to reduce the likelihood of wing tip stalling, a wing can be designed incorporating wash out. What does this involve?",
+    "answers": [
+      "The use of Frise ailerons.",
+      "A reduction in the angle of incidence towards the wing tip.",
+      "A reduction in the chord length towards the wing tip.",
+      "A reduction in the angle of attack towards the wing tip."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In flight when no pitch is present, the tailplane and elevator provide no pitching moment. What happens when the control column is moved forward?",
+    "answers": [
+      "The elevator moves down and produces lift at the tail in an upward sense thus pitching the nose down.",
+      "The elevator moves down and produces lift at the tail in a downward sense thus pitching the nose down.",
+      "The elevator moves down and reduces lift, pitching the aircraft nose down.",
+      "The elevator moves down and reduces lift on the wing thus pitching the nose down ."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the purpose of wing sealing tape?",
+    "answers": [
+      "Helps to reduce form drag.",
+      "Helps to reduce interference drag.",
+      "Helps to reduce surface friction.",
+      "Helps prevent the inboard from stalling before the tip."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to total drag as airspeed is increased from the stall towards Vne?",
+    "answers": [
+      "Total drag increases approximately as the square of the IAS.",
+      "Total drag reduces towards best L/D then increases again.",
+      "Total drag remains constant.",
+      "Total drag reduces inversely as the square of the IAS."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The airspeed indicator has a yellow band. What does the start of the yellow band indicate?",
+    "answers": [
+      "The maximum manoeuvring speed, above which inputs of more than ½ control deflection of any one control must not be used.",
+      "The maximum manoeuvring speed, above which inputs of more than 1/3 control deflection of any one control must not be used.",
+      "The minimum speed to use full control deflections.",
+      "The minimum approach speed in strong winds."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the stalling speed in a turn?",
+    "answers": [
+      "The stalling speed increases in the turn due to a component of total lift now acting in the direction of the turn..",
+      "The stalling speed increases in the turn due to the extra speed required to make the turn.",
+      "The stalling speed remains the same as long as the load remains at 1’g’.",
+      "The stalling speed increases in the turn due to extra drag from maneouvering."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Why is there a relationship between flap movement and pitch?",
+    "answers": [
+      "Flaps down and glider will pitch nose up due to increased drag.",
+      "Flaps down and glider will pitch nose down due to centre of pressure moving rearwards.",
+      "Flaps down and glider will pitch nose up due to centre of pressure moving forwards.",
+      "Flaps down and glider will pitch nose down due to increased drag."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is meant by the term ‘angle of attack’?",
+    "answers": [
+      "The angle at which the wings are fixed onto the glider.",
+      "The angle at which the airflow meets the leading edge.",
+      "The angle between the wing and the relative airflow.",
+      "The angle between the chord line and the relative airflow."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the two main types of airflow over a wing?",
+    "answers": [
+      "Smooth and laminar.",
+      "Smooth and rough.",
+      "Laminar and turbulent.",
+      "Smooth and turbulated."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What causes adverse yaw or aileron drag?",
+    "answers": [
+      "An increase in lift dependent drag on the up going wing.",
+      "An increase in profile drag on the up going wing.",
+      "A decrease in profile drag on the down going wing.",
+      "Too coarse an application of aileron."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the definition of a Chord Line?",
+    "answers": [
+      "A line joining the centres of curvature between the Leading and Trailing edges and equidistant from the upper and lower surfaces.",
+      "The distance between the Leading and Trailing edges.",
+      "A straight line joining the Leading and Trailing edges.",
+      "The path traced by particles in a steady flow."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the purpose of a gliders dihedral?",
+    "answers": [
+      "To help reduce aileron drag.",
+      "To help increase directional stability.",
+      "To help increase lateral stability.",
+      "To help increase longitudinal stability."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "How is the Aspect Ratio of a wing calculated?",
+    "answers": [
+      "Multiplying span by chord.",
+      "Dividing span by chord.",
+      "Dividing wing area by span.",
+      "Dividing chord by wing loading."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does stagnation point refer to?",
+    "answers": [
+      "The point on a wing where laminar flow becomes turbulent flow.",
+      "The point on a wing leading edge where air is brought to rest.",
+      "The area behind the wing where turbulent flow becomes streamlined.",
+      "The layer of air next to the wings surface."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the definition of Centre of Pressure?",
+    "answers": [
+      "The point on a wing where the aircraft should be weighed.",
+      "The point on a wings leading edge where air is brought to rest.",
+      "The point on a wing where laminar flow becomes turbulent flow.",
+      "The point on the chord line through which total reaction acts."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Streamlining a flat plate section reduces which type of drag?",
+    "answers": [
+      "Surface friction drag.",
+      "Vortex drag.",
+      "Lift dependent drag.",
+      "Form drag."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Airflow meeting at the junctions of wing and fuselage create which type of drag?",
+    "answers": [
+      "Interference drag.",
+      "Interactive drag.",
+      "Surface friction.",
+      "Vortex drag."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the Green Arc on a coloured ASI represent?",
+    "answers": [
+      "From Stalling speed to Minimum Manoeuvring speed.",
+      "From Minimum sink to Maximum Manoeuvring speed.",
+      "From 1.1 times Stalling speed to Maximum Manoeuvring speed.",
+      "From 1.1 times Stalling speed to Minimum Manoeuvring speed."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the layer of air next to a surface of an aircraft in flight called?",
+    "answers": [
+      "Stagnation layer.",
+      "Boundary layer.",
+      "Surface layer.",
+      "Drag layer."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A small frontal area will reduce which type of drag?",
+    "answers": [
+      "Vortex drag.",
+      "Lift dependent drag.",
+      "Surface friction.",
+      "Form drag."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is the best combination to reduce Vortex drag?",
+    "answers": [
+      "High aspect ratio/high speed/high all up weight.",
+      "High aspect ratio/low speed/high all up weight.",
+      "High aspect ratio/high speed/low all up weight.",
+      "Low aspect ratio/low speed/high all up weight."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the primary purpose of flaps?",
+    "answers": [
+      "To improve glide ratio over a wider range of airspeeds.",
+      "To make take off and landing easier by improving forward visibility.",
+      "To reduce the stalling speed.",
+      "To reduce airspeed."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What will be the effect on a gliders induced drag if water ballast is added to the wings?",
+    "answers": [
+      "There will be no change.",
+      "It will reduce, as the glider has to fly faster to achieve the same glide angle.",
+      "It will reduce, as the glider may now fly at a reduced AoA.",
+      "It will increase due to the greater lift required to equal the increase in weight."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "As angle of attack increases, what direction will the Centre of pressure move?",
+    "answers": [
+      "Forward until the stalling angle, then rapidly further forward.",
+      "Rearward until the stalling angle, then slowly forward.",
+      "Forward until the stalling angle, then remains constant.",
+      "Forward until the stalling angle, then rapidly back."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the centre of pressure?",
+    "answers": [
+      "It is the same point as the centre of gravity.",
+      "The point on the fuselage through which the force of lift is said to act.",
+      "The point on the chord line where the average lift strength may be found.",
+      "The point on the chord line through which the force of lift is said to act."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the centre of pressure as the AoA is increased from zero degrees?",
+    "answers": [
+      "It moves forward until the stall, then moves rapidly rearwards.",
+      "It moves slowly forward then stagnates at the stall.",
+      "It increases in intensity until the stall then reduces again.",
+      "It move slowly rearwards until the stall then moves rapidly forward."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When using flaps, what is the basic rule when making significant changes in speed whilst flying cross country?",
+    "answers": [
+      "Increase speed with flaps then stick, reduce speed with stick then flaps.",
+      "Increase speed with flaps then stick, reduce speed with flaps then stick.",
+      "Increase speed with stick then flaps, reduce speed with flaps then stick.",
+      "Increase speed with stick then flaps, reduce speed with stick then flaps."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In which direction does the resultant line of all drag forces acting on an aircraft in flight act?",
+    "answers": [
+      "Parallel to the longitudinal axis.",
+      "Parallel to the chord line.",
+      "Parallel to the relative airflow.",
+      "Horizontal and opposite to the direction of flight."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the first action as part of the standard stall recovery?",
+    "answers": [
+      "Control column neutral.",
+      "Control column forward.",
+      "Control column centrally neutral.",
+      "Control column centrally forward."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Recovery from autorotation can be effected by which immediate action?",
+    "answers": [
+      "Reduction in angle of attack.",
+      "Levelling of the wings.",
+      "Application of opposite rudder.",
+      "Neutralising the ailerons."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which statement is correct when refering to an aircraft’s 3 axis?",
+    "answers": [
+      "They are fixed relative to the airflow.",
+      "The are independent of the aircraft’s attitude.",
+      "They are fixed relative to the aircraft irrespective of attitude.",
+      "They are fixed relative to the horizon irrespective of attitude."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "From which source does the Variometer takes static pressure in order to compensate for changes in airspeed?",
+    "answers": [
+      "The Irving tube.",
+      "The Pitot head.",
+      "Static Vents.",
+      "The Brunswick tube."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "QUESTION 63.What causes induced drag?",
+    "answers": [
+      "Wing tip vortices.",
+      "The frontal area resisting the airflow.",
+      "The generation of lift, leading to chord and span wise airflow, trailing edge and wing tip vortices.",
+      "Rough surfaces on the glider."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which type of drag is reduced by polishing?",
+    "answers": [
+      "Lift dependent drag.",
+      "Surface friction.",
+      "Interference drag.",
+      "Form drag."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What will happen to the Altimeter if the Static source is blocked?",
+    "answers": [
+      "It will over read.",
+      "It will under read.",
+      "It will read normally.",
+      "It will not respond."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the main advantage of adding water ballast to the wings of a glider?",
+    "answers": [
+      "Lateral stability is increased.",
+      "Due to increased weight, the glider can fly faster achieving the same performance.",
+      "The gliders performance is increased.",
+      "The glider may now alter its performance by jettisoning the ballast."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to lift and drag when flaps are moved from a cruise setting to a thermalling setting?",
+    "answers": [
+      "Lift reduces and drag reduces.",
+      "Lift reduces and drag increases.",
+      "Lift increases and drag reduces.",
+      "Lift increases and drag increases."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When a glider is on the ground, what is the pressure in the capacity flask equal to?",
+    "answers": [
+      "Zero.",
+      "Static pressure.",
+      "Static and dynamic pressure.",
+      "Dynamic pressure."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In the Northern Hemisphere, when will a magnetic compass change its reading without the aircraft changing its heading?",
+    "answers": [
+      "The aircraft is flying North or South and changes direction.",
+      "The aircraft is flying East or West and is yawed.",
+      "The aircraft is heading North or South and accelerates or decelerates.",
+      "The aircraft is heading East or West and accelerates or decelerates."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In the Northern Hemisphere, if the aircraft is in a constant rate turn, when will the greatest effect on the magnetic compass be seen?",
+    "answers": [
+      "East / West headings.",
+      "North / South headings.",
+      "All headings as there is no effect.",
+      "All headings as there is a constant effect."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which method of reducing dip error in the magnetic compass is the correct one?",
+    "answers": [
+      "Increase the strength of the magnets.",
+      "Reduce the strength of the magnets.",
+      "Suspend the magnets below the needle.",
+      "Suspend the needle below the magnets."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is correct when turning onto north in the northern hemisphere?",
+    "answers": [
+      "Roll out of the turn about 25° - 30° before the compass reads north.",
+      "Roll out of the turn about 25° - 30° after the compass reads north.",
+      "Roll out of the turn when the compass reads north.",
+      "Roll out or the turn about 45° - 50° after the compass reads north."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "If the battery source powering the turn indicator becomes discharged and the rotor speed is reduced, what will be the effect on the indicator readings?",
+    "answers": [
+      "A lower angle of bank is indicated than the aircraft is flying.",
+      "A higher rate of turn will be indicated on the instrument than is actually achieved.",
+      "A lower rate of turn will be indicated on the instrument than is actually achieved.",
+      "It is difficult for the pilot to see any effect."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the principle of the gyroscope in the turn indicator?",
+    "answers": [
+      "If a turning force is applied to the gyro, the resultant movement will be 90° from the initial force and in the direction of rotation.",
+      "If a turning force is applied to the gyro, the resultant movement will be 180° from the initial force and in the direction of rotation.",
+      "If a turning force is applied to the gyro, the resultant movement will be 90° from the initial force and in the opposite direction of rotation.",
+      "If a turning force is applied to the gyro, the resultant movement will be 180° from the initial force and in the opposite direction of rotation."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the term Total Reaction mean?",
+    "answers": [
+      "The resultant of all Aerodynamic Forces acting on an aerofoil.",
+      "The resultant of all Drag Forces acting on an aerofoil.",
+      "The resultant of all Lift Forces acting on an aerofoil.",
+      "The result of a Weight and Balance calculation."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the point called at which laminar flow becomes turbulent?",
+    "answers": [
+      "Transition point.",
+      "Stagnation point.",
+      "Separation point.",
+      "Boundary point."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "As angle of attack increases, what happens to the Centre of pressure?",
+    "answers": [
+      "Forward until the stalling angle, then rapidly further forward.",
+      "Rearward until the stalling angle, then slowly forward.",
+      "Forward until the stalling angle, then remains constant.",
+      "Forward until the stalling angle, then rapidly back."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The centre of pressure is the point through which the total reaction is said to act. At normal angles of attack, where does it lie?",
+    "answers": [
+      "Forward of the centre of gravity.",
+      "One third of the chord aft of the leading edge.",
+      "Aft of the centre of gravity.",
+      "Aft of the normal axis."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "How can the effect of aileron drag can be reduced?",
+    "answers": [
+      "Fitting Fowler ailerons.",
+      "Fitting Differential ailerons.",
+      "Fitting Independent ailerons.",
+      "Introducing Wash in."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What will be the effect on an altimeter, when flying from a high pressure region to a low pressure region?",
+    "answers": [
+      "There will be no effect.",
+      "The altimeter will under read the true height, if left on the original pressure setting.",
+      "The altimeter will over read the true height, if left on the original pressure setting.",
+      "The effect cannot be determined unless the pressure setting is corrected."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Ice forms over the pitot head during a wave flight. What indications will there be that this has occurred?",
+    "answers": [
+      "The indicated airspeed will remain constant as the pressure in the pitot can no longer change.",
+      "The indicated airspeed will rapidly reduce to zero.",
+      "The indicated airspeed will remain constant but fluctuate slightly as the static vents are still unblocked.",
+      "The indicated airspeed will slowly reduce to zero."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Since pressure decreases with height, what is the effect on glider instruments above 10,000 feet?",
+    "answers": [
+      "Little or no effect on the altimeter, however, the airspeed indicator will under read the true airspeed.",
+      "Little or no effect on the altimeter, however, the airspeed indicator will over read the true airspeed.",
+      "The altimeter will grossly over read, and the airspeed indicator will under read the true airspeed.",
+      "The altimeter will grossly over read, and the airspeed indicator will over read the true airspeed."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The static source of the ASI is blocked during descent. What will the instrument read?",
+    "answers": [
+      "Over read.",
+      "Under read.",
+      "Read normally.",
+      "Fail to operate."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The ASI is colour coded on most gliders. What does the yellow arc represent?",
+    "answers": [
+      "Maximum Manoeuvring speed to VNE.",
+      "Minimum Manoeuvring speed to Stalling speed.",
+      "Stalling speed to Maximum Manoeuvring speed.",
+      "Minimum Manoeuvring speed to VNE."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The Pitot source is blocked on the Altimeter. What will the instrument read?",
+    "answers": [
+      "Over read.",
+      "Under read.",
+      "Read normally.",
+      "Fail to operate."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the variometer measure?",
+    "answers": [
+      "Rising air currents.",
+      "Rate of change of pressure.",
+      "Lift.",
+      "Height change."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the Barometric Pressure Scale enable the pilot to do?",
+    "answers": [
+      "To reset the altimeter datum.",
+      "To reset the ASI datum.",
+      "To move the needles on the ASI.",
+      "To reset the electric vario."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   }
-]

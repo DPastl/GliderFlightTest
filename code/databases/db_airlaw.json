@@ -790,5 +790,629 @@
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "What are the minimum requirements for flying in cloud in gliders?",
+    "answers": [
+      "The occupants must wear a serviceable parachute and have been instructed in its use.",
+      "The pilot must have received instruction in the use of blind flying instruments.",
+      "Before entering cloud, the pilot must transmit position and height (QNH) on 130.4 MHZ.",
+      "All the above."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the restrictions imposed on gliders flying within a MATZ. ( Military Air Traffic Zone )?",
+    "answers": [
+      "No entry during the hours eight AM to five PM.",
+      "No entry while the MATZ is active.",
+      "None, so long as the ATZ is not penetrated.",
+      "None."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are approaching a strange airfield and receive red flashes from the ground, what should be your actions?",
+    "answers": [
+      "Give way to other aircraft and continue circling.",
+      "Land immediately.",
+      "Do not land as the airfield is not available for landing.",
+      "Move clear of the landing area."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Under what circumstances is a weak link not required in the winch / auto tow cable?",
+    "answers": [
+      "The launch is a hill top site where the conditions are likely to be rough and break the weak link on a regular basis.",
+      "The proven breaking strain of the launch cable is lower than that of the weak link strength required by the glider manufacturer.",
+      "The tow car is of low power.",
+      "The glider is a heavy two seater with a history of breaking weak links."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are your actions if you suspect any defect or damage to a glider?",
+    "answers": [
+      "Report it to the duty pilot before the next flight.",
+      "Report it to the duty instructor before the next flight.",
+      "Note the defect or damage in the DI book before the next flight.",
+      "Ground the glider until an inspector can check for defects or damage."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the VMC rules when flying in class D airspace below 3000ft AMSL at 140 kts or less?",
+    "answers": [
+      "1500 ft horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+      "1500m horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+      "1000m horizontally, 1500 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
+      "Clear of cloud and in sight of the surface with an in flight visibility of more than 5 Km."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When aerotowing, the tug rocks its wings laterally. What does this mean?",
+    "answers": [
+      "Release, you’re at 2000 ft.",
+      "Release immediately.",
+      "Your air brakes are open.",
+      "The tug can’t release."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When two aircraft are approaching head on, each shall alter its course in which direction?",
+    "answers": [
+      "To the left.",
+      "Only the first to see the other need take avoiding action to the right.",
+      "Only one alters course to the right to save any confusion.",
+      "To the right."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When two aircraft are converging at approximately the same height, who has the right of way?",
+    "answers": [
+      "The aircraft which has the other on its right has right of way.",
+      "The aircraft on the left.",
+      "Neither. Both must take avoiding action.",
+      "The aircraft which has the other on its right shall give way."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Who has command of a tug / glider combination?",
+    "answers": [
+      "The tug pilot.",
+      "The glider pilot.",
+      "Neither, as there must be a captain of each aircraft.",
+      "The most senior of the two pilots."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A glider shall not fly over any congested area below a height which would enable it to land clear of the area, or below 1500ft above the highest fixed object within 2000ft., which ever is the higher. Nor shall it fly over or within 3000ft of any open air assembly of more than 1000 persons ( without specific CAA permission). When is there an exemption to the 1500 foot rule?",
+    "answers": [
+      "Never, the rule is rigid and must be adhered to at all times.",
+      "During normal take-off and landing and for life saving.",
+      "Only when excellent soaring conditions exist.",
+      "Only during a field landing."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following statements is most correct?",
+    "answers": [
+      "Gliders shall give way to airships and balloons.",
+      "Gliders shall give way to balloons.",
+      "Balloons shall give way to gliders.",
+      "Gliders shall give way to aerotow combinations only."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Above what height should oxygen equipment be carried and what height is recommended for its use?",
+    "answers": [
+      "10,000 ft amsl and use above 12,000 ft amsl.",
+      "12,000 ft amsl and use above 10,000 ft amsl.",
+      "10,000 ft amsl and use above 10,000 ft amsl.",
+      "12,000 ft amsl and use above 12,000 ft amsl."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What must all glider pilots carry on flights over 5 nautical miles from their gliding site?",
+    "answers": [
+      "A low level navigation chart.",
+      "Map(s) marked clearly with the controlled and regulated airspace.",
+      "A flight plan.",
+      "A serviceable parachute."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Any accident resulting in death, serious injury or substantial damage to an aircraft must be reported to whom?",
+    "answers": [
+      "The BGA within 24 hours.",
+      "The Department of Transport AAIB.",
+      "The Police.",
+      "The Police and the Department of Transport AAIB."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the maximum launch height allowed by the winch method without written permission from the CAA?",
+    "answers": [
+      "There is no limit.",
+      "2000 ft.",
+      "60 metres.",
+      "2000 ft, but up to 3000 ft at a few notified sites."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A glider is defined as being in flight during what period?",
+    "answers": [
+      "From when it leaves the ground until it touches down again.",
+      "From the signal ‘take up slack’ until it comes to rest after landing.",
+      "From when it first moves to take-off until it comes to rest after landing.",
+      "From the signal ‘all out’ until it touches down again."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A continuous green light to an aircraft in flight means what?",
+    "answers": [
+      "Land immediately.",
+      "You may land.",
+      "Land when safe to do so.",
+      "Do not land."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is not recommended for flight?",
+    "answers": [
+      "Rain on the wings when the air temperature is close to freezing.",
+      "Frost on the wings.",
+      "Snow on the wings.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the dimensions of an air traffic zone at an airfield where the longest runway is greater than 1850 metres?",
+    "answers": [
+      "2000 feet above the airfield and 5 miles in diameter centred on the mid point of the longest runway.",
+      "2500 feet above the airfield and 5 miles in diameter centred on the mid point of the longest runway.",
+      "2000 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway.",
+      "2500 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Restricted area. What does this mean with regards to a glider in flight?",
+    "answers": [
+      "There is little relevance as the restrictions can not be complied with by a glider.",
+      "Flight within the published dimensions of the area must comply with the specified restrictions.",
+      "There shall be no thermalling within the restricted area.",
+      "Flight is restricted due to the density of traffic within the area."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When landing close behind other aircraft, and in particular power aircraft, what should be your actions?",
+    "answers": [
+      "Over fly them and land long.",
+      "Land clear to their left.",
+      "You can land on either side.",
+      "Land clear to their right."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Whilst approaching an airfield you notice a red flare fired from the control tower. What should your actions be?",
+    "answers": [
+      "Keep a good look out as there must be another aircraft near by.",
+      "Do not land, wait for permission.",
+      "Remain clear of the ATZ.",
+      "Continue with the circuit and watch for further instructions."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the signal requirements from a glider pilot who is unable to release from the aerotow?",
+    "answers": [
+      "Fly out to the left and rock his wings.",
+      "Fly out to the right and rock his wings.",
+      "Try to break the rope.",
+      "Call on the radio and inform the tug pilot of the problem."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "If a solo glider pilot does not hold a CAA or equivalent medical or a current driving licence, what are the ‘declaration of health’ requirements?",
+    "answers": [
+      "Before first flying solo and on 50th, 60th and 65th birthdays.",
+      "Before first flying solo and every 10 years there after.",
+      "Before first flying solo and every 5 years there after.",
+      "Before first flying solo."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does a white dumbbell displayed in the signal square signify?",
+    "answers": [
+      "Both gliders and powered aircraft are operating from the airfield.",
+      "Movements of aircraft on the ground are confined to paved surfaces.",
+      "Winch launching and aerotows are in progress at the same time.",
+      "Paved areas are only available for powered aircraft. Gliders must land on the grass."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which statement is incorrect? You shall not fly -",
+    "answers": [
+      "Over or within 3000 ft of any open air assembly of more than 1000 people.",
+      "Below a height of 1500 ft above the highest fixed obstacle within 2000 ft.",
+      "Below a height of 2000 ft above any congested area of a city, town or settlement.",
+      "Below a height which would enable it to land clear of the area."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Your cross country route takes a line through East Midlands CTA. What must be your actions during the flight?",
+    "answers": [
+      "Maintain VMC whilst in the CTA and keep a good look out.",
+      "Cross at the lowest possible level to avoid conflict with other traffic.",
+      "Call the ATC unit to inform them of your presence. You must hold a CAA RT license.",
+      "Cross at right angles, maintaining VMC."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the tug pilot signalling when you see the rudder waggling whilst on tow?",
+    "answers": [
+      "Check your air brakes are not open or drag chute deployed and close or jettison as necessary.",
+      "You are to release immediately.",
+      "Wait until the tug tows you overhead the airfield and releases his end of the rope.",
+      "Expect the tug to slow down and continue at a slower speed."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Other than persons by parachute in an emergency, which is most correct statement with reference to items permitted to be dropped from a glider in flight?",
+    "answers": [
+      "Ballast in the form of water only.",
+      "Tow ropes at an approved airfield.",
+      "Ballast in the form of fine sand only.",
+      "Ballast in the form of fine sand or water."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the VMC minima required for gliders crossing airways?",
+    "answers": [
+      "Gliders are not allowed to cross airways at all except by local agreement.",
+      "1000m horizontally, 1500ft vertically and 8km visibility.",
+      "1500m horizontally, 1000ft vertically and 5km visibility.",
+      "1500m horizontally, 1000ft vertically and 8km visibility."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Prohibited area. What does this mean with regards to gliders in flight?",
+    "answers": [
+      "There is little relevance as the area is only prohibited to powered aircraft.",
+      "Flight within the published dimensions of the area is prohibited.",
+      "Landing within the area is prohibited.",
+      "Flight is prohibited directly over head the area."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the requirements to fly a newly rigged club aircraft?",
+    "answers": [
+      "Any pilot with the type endorsement in their log book.",
+      "You must be an instructor authorised by the CFI or deputy for that purpose.",
+      "Any instructor who is self authorising may carry out the task.",
+      "You must be authorised by the CFI or deputy for that purpose."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the hours of day light (determined on the ground ) as defined for flying purposes?",
+    "answers": [
+      "Street lights ‘off ’ to street lights ‘on’.",
+      "30 minutes before sunrise until 30 minutes after sunset.",
+      "30 minutes after sunrise until 30 minutes before sunset.",
+      "Sunrise until sunset."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the requirements for keeping an accurate and up to date personal flying log book?",
+    "answers": [
+      "All pilots up to silver C and all instructors to prove their renewal requirements have been met.",
+      "All pilots regardless of hours and qualifications.",
+      "There are no requirements.",
+      "All pilots flying club owned aircraft to prove their currency."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Whilst hill soaring which of the following statements is always true?",
+    "answers": [
+      "A glider wishing to overtake another should pass on its left side.",
+      "A glider wishing to overtake another should pass between it and the hill.",
+      "A glider wishing to overtake another should pass on its right side.",
+      "A glider wishing to overtake another should pass beneath it."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Who has the right of way when two aircraft are landing together?",
+    "answers": [
+      "The faster aircraft.",
+      "The lower aircraft. ( unless the other is obviously in distress ).",
+      "The aircraft with the lower performance, but only if it is a two seater.",
+      "The least experienced pilot."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does a red and yellow striped arrow in the signal square of an airfield indicate?",
+    "answers": [
+      "The direction to follow the taxiway when recovering aircraft or gliders to park.",
+      "The direction of thermal turns for gliders.",
+      "The direction in which to vacate the runway after landing.",
+      "The direction of circuit in use."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are joining below a glider in a thermal. What are your actions?",
+    "answers": [
+      "Leave the thermal and find another.",
+      "Turn either direction as long as there is sufficient separation.",
+      "Turn in the same direction.",
+      "Remain at a safe distance below the other glider."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Whilst planning a cross country flight you notice by reference to Notams that a purple airway has been established along your intended route during the period 1300 to 1500 Hrs. What should your actions be?",
+    "answers": [
+      "Continue as planned as it only applies to powered aircraft.",
+      "Change your route to remain clear of the airway during the notified period.",
+      "Continue as planned and cross the airway in VMC conditions at right angles.",
+      "Cross the airway as low as possible to avoid conflict with the royal aircraft."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Danger area. What does this mean with regards to a glider in flight?",
+    "answers": [
+      "Flight within the published dimensions is restricted to periods where no dangerous activities are taking place.",
+      "Flight within the published dimensions may encounter activities dangerous to the glider or it’s occupants.",
+      "There is little relevance to gliders as they may enter the area at will.",
+      "Flight within the published dimensions is prohibited."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does a double white cross ( ++ ) showing on a runway indicate?",
+    "answers": [
+      "An area where the runway is not available for landing.",
+      "Gliders and powered aircraft are using the same runway.",
+      "An area that shall only be used for the take off and landing of gliders.",
+      "An area that shall only be used for powered aircraft."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the knock-on effects of a glider pilots driving licence being revoked on medical grounds?",
+    "answers": [
+      "The pilot should inform his CFI within 30 days, who will make the appropriate decision.",
+      "The pilot should only fly solo. No passenger carrying allowed.",
+      "The pilot becomes unfit to fly gliders solo.",
+      "There are no problems and the pilot may continue as normal."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does a white ‘T’ in the signal square of an airfield denote?",
+    "answers": [
+      "Aircraft landing and taking off will do so in a direction parallel with the shaft of the ‘T’ and towards the cross arm.",
+      "The location of the tea cabin.",
+      "Gliders will be landing at right angles to that of powered aircraft.",
+      "Two runways are simultaneously in use."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "All BGA gliders must carry their approved identification markings. What are the requirements?",
+    "answers": [
+      "Displayed on the under side of the starboard wing.",
+      "Displayed on the fin and rudder and on the under side of the port wing.",
+      "Displayed on each side of the fin and rudder or on the fuselage in a substantially vertical plane. As large as practicable.",
+      "Displayed in the cockpit as a reminder when using the radio."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Nose of tug to tail of glider, what is the maximum length of a tug / glider combination?",
+    "answers": [
+      "150 yards in total.",
+      "150 metres in total.",
+      "100 yards in total.",
+      "100 metres in total."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the minimum number of aerotows required by the tug pilot and glider pilot combined before launching may take place?",
+    "answers": [
+      "20.",
+      "10.",
+      "6.",
+      "There is no minimum requirement as both are trained for their respective roles."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the minimum equipment required in a glider used for aerobatic flying?",
+    "answers": [
+      "A five point harness and serviceable parachute.",
+      "An approved pitot tube extension to enable inverted flight.",
+      "An artificial horizon.",
+      "A serviceable G meter."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the minimum age required before flying a glider solo in the United Kingdom?",
+    "answers": [
+      "16 years.",
+      "14 years.",
+      "17 years.",
+      "15 years."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The captain of any aircraft must satisfy himself that the intended flight can be made safely. In order to achieve this, it is an operational requirement that all gliding clubs provide what facilities?",
+    "answers": [
+      "Navigational information concerning temporary hazards and permanent changes.",
+      "A telephone link to the nearest ATC unit to inform them of the days operation.",
+      "Meteorological forecasts for the use of club members.",
+      "Briefings for all cross country flights."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Certain areas of class ‘B’ airspace have been annotated as ‘Gliding areas’. The controlling Air Traffic agency requires a request to utilise the areas prior to gliders flying in this airspace. What are the time periods required for notification by telephone to the Air Traffic agency?",
+    "answers": [
+      "Two hours before intended use and five minutes prior to entry.",
+      "Twenty four hours before intended use and two hours prior to launch.",
+      "Two hours before launch and five minutes prior to entry.",
+      "Twenty four hours before intended use and two hours prior to entry."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the rules for glider flights between FL 245 and FL 660?",
+    "answers": [
+      "There are no restrictions.",
+      "Only allowed in certain designated areas (windows) with prior permission.",
+      "No glider flights allowed due to the difficulties in controlling such airspace.",
+      "Only allowed during the hours of day light as determined on the ground."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   }
 ]

@@ -1,0 +1,350 @@
+[
+  {
+    "question": "The frequency 130.4 MHZ is allocated for what purpose?",
+    "answers": [
+      "Competition only.",
+      "Ground to ground only.",
+      "Training purposes only.",
+      "Cloud flying and related cross country messages only."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the requirements with which you must comply to operate a radio in a glider where only the gliding frequencies are available?",
+    "answers": [
+      "A licence for the radio and an RT licence for the pilot.",
+      "A licence for the radio only.",
+      "An RT licence for the pilot only.",
+      "A citizens band radio licence."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the requirements for a glider pilot to transmit in the aeronautical VHF band?",
+    "answers": [
+      "A radio operators licence is required if any frequencies other than BGA gliding frequencies are available on the radio.",
+      "No radio operators licence required regardless of frequency used.",
+      "No radio operators licence required regardless of frequency used, so long as the set complies with the CAA regulations.",
+      "A radio operators licence is required regardless of frequency used."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A radio installed in a motor vehicle for the purpose of communication with gliders must have a Radio communications licence. To whom do you apply for this licence?",
+    "answers": [
+      "The Civil Aviation Authority.",
+      "National Air Traffic Service.",
+      "The Post Office.",
+      "The Radio Communications Agency."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the purpose of a ‘blind transmission’?",
+    "answers": [
+      "To pass information to a station you believe can hear you although you cannot hear them.",
+      "To pass information when flying ‘blind’ in cloud.",
+      "To pass information on a frequency in the hope that the intended recipient will get the message.",
+      "To pass information when no reply is required."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When operating in class ‘B’ airspace, at what flight levels do you call entering and leaving the ‘Gliding area’?",
+    "answers": [
+      "Establish contact at FL 200 in the climb and call entering at FL245. No call required when leaving.",
+      "Establish contact at FL 200 in the climb and call leaving at FL 245 in the descent.",
+      "Establish contact at FL 245 in the climb and call leaving at FL 200 in the descent.",
+      "Establish contact at FL 245 in the climb and call leaving at FL 245 in the descent."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is correct for a gliders initial transmission to a ground station? (Glider call sign = Alpha Charlie Zulu. Ground station = Bicester base)",
+    "answers": [
+      "Alpha Charlie Zulu to Bicester base.",
+      "Bicester base this is Alpha Charlie Zulu.",
+      "Bicester this is Charlie Zulu.",
+      "Alpha Charlie Zulu calling Bicester."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Before entering cloud, the pilot of a glider should make a general announcement of height and position. Which frequency should be used?",
+    "answers": [
+      "130.125 MHZ or 130.4 MHZ which ever is available.",
+      "121.5 MHZ .",
+      "129.9 MHZ .",
+      "130.4 MHZ."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following frequencies is shared with other non gliding users?",
+    "answers": [
+      "129.975 MHZ .",
+      "130.125 MHZ .",
+      "129.9 MHZ .",
+      "130.1 MHZ ."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following frequencies is solely for gliding use?",
+    "answers": [
+      "129.9 MHZ .",
+      "130.125 MHZ .",
+      "121.5 MHZ .",
+      "131.4 MHZ ."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A glider radio must meet certain standards. Which of the following is a true statement?",
+    "answers": [
+      "A glider radio must be of a design registered with the BGA.",
+      "A glider radio must be of a design registered with the CAA.",
+      "A glider radio must meet only electrical safety standards.",
+      "A glider radio must comply with CAA specifications."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is a ground to ground frequency only?",
+    "answers": [
+      "129.975 MHZ.",
+      "130.125 MHZ.",
+      "129.9 MHZ.",
+      "130.4 MHZ."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Competition gliding relies heavily on the use of radio. What are the frequencies allocated to competitions?",
+    "answers": [
+      "Primary 130.1 MHZ and secondary 130.125 MHZ.",
+      "Primary 130.1 MHZ and secondary 129.9 MHZ.",
+      "Primary 130.125 MHZ and secondary 130.4 MHZ.",
+      "Primary 130.4 MHZ and secondary 129.975 MHZ."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which frequency is allocated for the purpose of lead and follow training?",
+    "answers": [
+      "129.975 MHZ.",
+      "130.1 MHZ.",
+      "130.4 MHZ.",
+      "130.125 MHZ."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the main use of the frequency 129.975 MHZ?",
+    "answers": [
+      "Control purposes with in 10 NM radius and up to 3000’ at approved sites only.",
+      "Control purposes with in 10 NM radius and up to 3000’.",
+      "Control purposes at approved sites only.",
+      "Control purposes with no restrictions and at all sites."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following call signs does not comply with the ICAO phonetic alphabet?",
+    "answers": [
+      "Bravo..... Delta.....Foxtrot.",
+      "Echo.....Golf.....Papa.",
+      "Oscar.....Quebec.....Sugar.",
+      "Romeo.....Tango.....Victor."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following frequencies will help with navigational assistance in the event that you become lost?",
+    "answers": [
+      "130.1 MHZ.",
+      "129.975 MHZ.",
+      "134.3 MHZ.",
+      "121.5 MHZ."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What should your actions be on hearing a distress or urgency transmission intended for a ground station?",
+    "answers": [
+      "Maintain radio silence.",
+      "Maintain radio silence, but note all the details in case you should have to relay the message.",
+      "Leave the frequency immediately.",
+      "Continue with normal transmissions."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following call signs complies with the ICAO phonetic alphabet?",
+    "answers": [
+      "Alpha.....Charlie.....Hotel.",
+      "Indigo.....Kilo.....Juliet.",
+      "Foxtrot.....Mark.....November.",
+      "Delta.....Noddy.....Uniform."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are unfortunate enough to require urgent medical assistance after a field landing accident. Your radio has remained serviceable. Which frequency should be used to make your Mayday call?",
+    "answers": [
+      "That of the nearest airfield.",
+      "119.0 MHZ.",
+      "121.5 MHZ but in the event of no reply, any gliding frequency.",
+      "129.9 MHZ."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You have made contact with a ground station to pass the details of a distress message. Which of the following should you transmit?",
+    "answers": [
+      "Your call sign and nature of the emergency.",
+      "Your intentions.",
+      "Your position, heading and altitude.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What are the requirements for a radio transmitting set installed in a retrieve car?",
+    "answers": [
+      "Need not be licenced if operated on the BGA frequencies only.",
+      "Need not be licenced so long as it complies with CAA regulations.",
+      "Must be licenced with the Civil Aviation Authority.",
+      "Must be licenced with the Ministry of Transport."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A station you are calling complains of poor reception. What should your actions be?",
+    "answers": [
+      "Keep trying until they get your message.",
+      "Wait and try again when lower down.",
+      "Wait and try again when higher up.",
+      "Shout into the microphone."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The following is a list of frequencies giving continuously updated meteorological reports. A 128.6MHz, B 126.6MHz, C 135.375MHz and D 125.725. What is the name given to this service?",
+    "answers": [
+      "Metcast UK.",
+      "Metservice.",
+      "Volmet.",
+      "Metfax UK."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is a true characteristic of aeronautical VHF radio?",
+    "answers": [
+      "Range to the ground station increases with aircraft height.",
+      "Volume increases with range.",
+      "Volume must be increased when transmitting over greater distances.",
+      "Multiple transmissions on the same frequency may be heard simultaneously."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Your cross country route takes you through class D airspace. Which of the following is the most true statement?",
+    "answers": [
+      "You may legally cross without the use of radio.",
+      "You may legally cross without the use of radio but are advised to call the controlling agency.",
+      "You must call the controlling agency and hold a current RT licence.",
+      "You must seek the permission of the controlling agency before entering."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While flying you note that the previously busy gliding frequency you have been monitoring is completely silent. What should your actions be?",
+    "answers": [
+      "Enjoy the peace and quiet.",
+      "Check that your transmit button is not jammed in the transmit position.",
+      "Conclude that you are out of range of other gliders.",
+      "Presume that everyone is busy due to the deteriorating weather."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Aviators use a system of ‘Q’ codes to speed communications. Which of the following codes denotes atmospheric pressure at aerodrome level?",
+    "answers": [
+      "QNE.",
+      "QFH.",
+      "QFE.",
+      "QDM."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Aviators use a system of ‘Q’ codes to speed communications. Which of the following codes denotes the sea level pressure setting on the altimeter sub- scale?",
+    "answers": [
+      "QFE.",
+      "QNH.",
+      "QNE.",
+      "QTE."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  }
+]
