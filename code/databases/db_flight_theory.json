@@ -743,7 +743,6 @@
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
   },
-,
   {
     "question": "When is total drag at a minimum?",
     "answers": [
@@ -1788,3 +1787,4 @@
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   }
+]
