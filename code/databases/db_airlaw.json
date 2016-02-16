@@ -972,18 +972,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What is the maximum launch height allowed by the winch method without written permission from the CAA?",
-    "answers": [
-      "There is no limit.",
-      "2000 ft.",
-      "60 metres.",
-      "2000 ft, but up to 3000 ft at a few notified sites."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "A glider is defined as being in flight during what period?",
     "answers": [
       "From when it leaves the ground until it touches down again.",
