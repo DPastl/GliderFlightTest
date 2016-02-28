@@ -2158,6 +2158,90 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "If one must fly past a thunderstorm, one should",
+    "answers": [
+      "stay at least 15 miles away and pass to the right.",
+      "stay at least 15 miles away and pass to the left.",
+      "stay at least 5 miles away and pass to the right.",
+      "stay at least 10 miles away and pass to the left."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "A thunderstorm is an area of low pressure. In the northern hemisphere, passing a thunderstorm on the _____ side one encounters tailwinds.",
+    "answers": [
+      "right",
+      "left",
+      "back",
+      "front"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "Icing is caused by",
+    "answers": [
+      "supercooled water droplets freezing onto the aircraft.",
+      "ice crystals adhering to the aircraft.",
+      "rain freezing onto the wings of the aircraft.",
+      "clouds sticking to the aircraft."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "PROG surface charts are Prognostic surface charts that",
+    "answers": [
+      "show actual weather conditions below 3000ft AGL.",
+      "show actual wind flow patterns at different altitudes.",
+      "show the forcast of weather expected at the surface.",
+      "show the forcast of weather expected aloft at different altitudes."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "Upper level charts are charts that",
+    "answers": [
+      "show actual weather conditions below 3000ft AGL.",
+      "show actual wind flow patterns at different altitudes.",
+      "show the forcast of weather expected at the surface.",
+      "show the forcast of weather expected aloft at different altitudes."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "TAFs (Terminal Aerodrome Forcasts) are",
+    "answers": [
+      "issued 4 times daily at 6 hour intervals.",
+      "issued 6 times daily at 4 hour intervals.",
+      "issued 3 times daily at 8 hour intervals.",
+      "issued 2 times daily at 12 hour intervals."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "METARs (MEteorological Aviation weather Reports) are",
+    "answers": [
+      "issued 4 times daily and valid 12 hours after being issued.",
+      "issued 6 times daily and valid 12 hours after being issued.",
+      "issued 2 times daily and valid 12 hours after being issued.",
+      "issued 8 times daily and valid 12 hours after being issued."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The Atmosphere Document"
   }
 
 ]
