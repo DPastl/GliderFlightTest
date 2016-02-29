@@ -1402,5 +1402,29 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Any body of water, or frozen surface thereof, that is not within territorial waters of any state are called",
+    "answers": [
+      "oceans.",
+      "seas.",
+      "high seas.",
+      "international waters."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": ""
+  },
+  {
+    "question": "_____ airspace is below 18,000ft ASL and _____ airspace is above 18,000ft ASL.",
+    "answers": [
+      "Low-level/high-level",
+      "High-level/low-level",
+      "Mid-level/high-level",
+      "Low-level/mid-level"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": ""
   }
 ]
