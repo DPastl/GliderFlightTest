@@ -1413,7 +1413,7 @@
     ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
-    "questionSource": ""
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
     "question": "_____ airspace is below 18,000ft ASL and _____ airspace is above 18,000ft ASL.",
@@ -1425,6 +1425,6 @@
     ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
-    "questionSource": ""
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   }
 ]
