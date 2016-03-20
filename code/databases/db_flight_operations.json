@@ -343,7 +343,7 @@
       "my transmission has ended and I expect a reply.",
       "okay, I have received your message."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "Flying Scholarship PIP"
   },
@@ -523,7 +523,7 @@
       "greater controllability on the ground in cross wind conditions.",
       "better ground visibility."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
   },

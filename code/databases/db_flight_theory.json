@@ -429,7 +429,8 @@
     ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
-    "questionSource": "Flying Scholarship PIP"
+    "questionSource": "Flying Scholarship PIP",
+    "doNotRandomize": 1
   },
   {
     "question": "The aspect ratio of a wing is computed by dividing the span by the",

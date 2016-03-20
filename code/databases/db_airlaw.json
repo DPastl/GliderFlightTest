@@ -1068,18 +1068,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "If a solo glider pilot does not hold a CAA or equivalent medical or a current driving licence, what are the ‘declaration of health’ requirements?",
-    "answers": [
-      "Before first flying solo and on 50th, 60th and 65th birthdays.",
-      "Before first flying solo and every 10 years there after.",
-      "Before first flying solo and every 5 years there after.",
-      "Before first flying solo."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What does a white dumbbell displayed in the signal square signify?",
     "answers": [
       "Both gliders and powered aircraft are operating from the airfield.",
@@ -1278,18 +1266,6 @@
       "Gliders and powered aircraft are using the same runway.",
       "An area that shall only be used for the take off and landing of gliders.",
       "An area that shall only be used for powered aircraft."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What are the knock-on effects of a glider pilots driving licence being revoked on medical grounds?",
-    "answers": [
-      "The pilot should inform his CFI within 30 days, who will make the appropriate decision.",
-      "The pilot should only fly solo. No passenger carrying allowed.",
-      "The pilot becomes unfit to fly gliders solo.",
-      "There are no problems and the pilot may continue as normal."
     ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",

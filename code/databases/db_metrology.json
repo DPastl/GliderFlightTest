@@ -235,7 +235,7 @@
       "mountain wave",
       "land breeze"
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
@@ -749,7 +749,7 @@
       "strato, alto, cirro.",
       "cirro, strato, alto.",
       "cirro, alto, strato.",
-      "srato, cirro, alto."
+      "strato, cirro, alto."
     ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",

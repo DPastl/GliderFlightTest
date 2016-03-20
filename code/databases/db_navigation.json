@@ -504,18 +504,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What is the importance of reading TNW’s (Temporary Navigation Warnings) before flying cross country?",
-    "answers": [
-      "They contain useful information about air shows.",
-      "They serve as a reminder of restricted air space.",
-      "They contain information on royal flights.",
-      "They list important information about notified activities that may effect flight safety."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What does the annotation P106/2.5 refer to when next to a shaded area on the 1:500 000 scale aeronautical chart?",
     "answers": [
       "Gliders are prohibited from landing in this area.",
@@ -588,18 +576,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "How often are TNW information bulletins published?",
-    "answers": [
-      "As necessary.",
-      "Twice annually.",
-      "Fortnightly.",
-      "Twice weekly."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What does the annotation R14/2.5 refer to when next to an area bounded by a solid red line on a 1:500 000 scale aeronautical chart?",
     "answers": [
       "Entry is restricted to this area below 2500 ft AMSL.",
@@ -620,18 +596,6 @@
       "It is a danger area you should pass through expeditiously."
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What is the relevance of a purple airway to gliding?",
-    "answers": [
-      "There is no relevance to gliders.",
-      "The airway is for information only on royal flights.",
-      "The airway marks prohibited airspace during a royal flight.",
-      "The airway marks restricted airspace dairying a royal flight."
-    ],
-    "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -710,9 +674,9 @@
   {
     "question": "How can the magnetic variation be determined for any given point?",
     "answers": [
-      "Look it up in the UK Air Pilot.",
-      "Check in Laws and Rules for glider pilots.",
-      "Check the latest edition of TNW’s.",
+      "Look it up in the Canada Air Pilot.",
+      "Check in Canadian Air Regulations for glider pilots.",
+      "Check the latest edition of Free Flight.",
       "Check on a 1:500 000 scale aeronautical chart where the magnetic variation is shown at 1 degree intervals."
     ],
     "correctAnswerIndex": 3,
@@ -752,18 +716,6 @@
       "4500 feet."
     ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Each individual entry in TNW’s has a 4 digit code as part of the prefix. What does this code relate to?",
-    "answers": [
-      "The CAA serial number.",
-      "The Ordinance Survey grid reference.",
-      "The most northerly co-ordinate or latitude.",
-      "The nearest identifying feature as a latitude and longitude."
-    ],
-    "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
