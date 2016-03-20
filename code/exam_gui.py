@@ -146,6 +146,9 @@ class ExamGui():
         for i in range(self.num_answers):
             self.radio_buttons[i].configure(text=question_text[i + 1], bg=default_bg)
 
+        if self._exam.answer_list[self._exam.current_question_index] is not None:
+            self.radio_buttons[self._exam.get_correct_answer() - 1].configure(bg='green')
+
     ######################## Events #######################
 
     def start_test(self):
