@@ -74,6 +74,8 @@ class ExamGui():
         # Determine how many answers there are for the current question
         self.num_answers = len(self._exam.question_list[self._exam.current_question_index].answers)
 
+        self.user_answers = [None for _ in range(self.num_answers)]
+
         for i in range(self.num_answers):
             self.radio_buttons.append(Tk.Radiobutton(
                 self.frame, text=question_text[i + 1], variable=self.answer_index,
@@ -146,7 +148,10 @@ class ExamGui():
         for i in range(self.num_answers):
             self.radio_buttons[i].configure(text=question_text[i + 1], bg=default_bg)
 
+        # Chech if the user has answered this question
         if self._exam.answer_list[self._exam.current_question_index] is not None:
+            if self.user_answers[self._exam.current_question_index] is not None:
+                self.radio_buttons[self.user_answers[self._exam.current_question_index]].configure(bg='red')
             self.radio_buttons[self._exam.get_correct_answer() - 1].configure(bg='green')
 
     ######################## Events #######################
@@ -161,6 +166,7 @@ class ExamGui():
 
     def answer_question(self):
         print self.answer_index.get()
+        self.user_answers[self._exam.current_question_index] = self.answer_index.get()
 
         # Check if question was already answered.
         # TODO: Fix this so that if we go back to an old question we already answered it shows the answer.
