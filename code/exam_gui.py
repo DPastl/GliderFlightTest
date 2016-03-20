@@ -14,6 +14,8 @@ class ExamGui():
     exterior_window_width = 600
     interior_window_width = 570
 
+    num_questions = 50
+
     def __init__(self, master):
         self._master = master
         self.display_startup()
@@ -73,8 +75,6 @@ class ExamGui():
 
         # Determine how many answers there are for the current question
         self.num_answers = len(self._exam.question_list[self._exam.current_question_index].answers)
-
-        self.user_answers = [None for _ in range(self.num_answers)]
 
         for i in range(self.num_answers):
             self.radio_buttons.append(Tk.Radiobutton(
@@ -160,19 +160,20 @@ class ExamGui():
         # Destroy the old frame and make a new one
         self.frame.destroy()
 
-        self._exam = exam.Exam(50)  # Create a list of questions
+        self._exam = exam.Exam(self.num_questions)  # Create a list of questions
         self._exam.next_question()
         self.create_test_frame()
+        self.user_answers = [None for _ in range(self.num_questions)]
 
     def answer_question(self):
         print self.answer_index.get()
-        self.user_answers[self._exam.current_question_index] = self.answer_index.get()
 
         # Check if question was already answered.
         # TODO: Fix this so that if we go back to an old question we already answered it shows the answer.
         if self._exam.answer_list[self._exam.current_question_index] is not None:
             pass
         else:
+            self.user_answers[self._exam.current_question_index] = self.answer_index.get()
             # If it wasn't, then check the inputted answer.
             if not self._exam.answer_current_question(self.answer_index.get() + 1):
                 # Make incorrect answer turn red
