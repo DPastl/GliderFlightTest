@@ -1080,18 +1080,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "Which statement is incorrect? You shall not fly -",
-    "answers": [
-      "Over or within 3000 ft of any open air assembly of more than 1000 people.",
-      "Below a height of 1500 ft above the highest fixed obstacle within 2000 ft.",
-      "Below a height of 2000 ft above any congested area of a city, town or settlement.",
-      "Below a height which would enable it to land clear of the area."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "Your cross country route takes a line through East Midlands CTA. What must be your actions during the flight?",
     "answers": [
       "Maintain VMC whilst in the CTA and keep a good look out.",
