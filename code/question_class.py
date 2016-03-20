@@ -22,8 +22,7 @@ class QuestionClass(object):
             newanswers = [None for _ in range(len(self.answers))]
             for i in range(len(self.answers)):
                 newanswers[new_indicies[i]] = self.answers[i]
-                if i == self.answerindex:
-                    self.answerindex = new_indicies[i]
+            self.answerindex = new_indicies.index(self.answerindex)
             self.answers = newanswers
 
     def __str__(self):
@@ -67,3 +66,4 @@ class QuestionClass(object):
     # Returns the flag to indicate if the question was used or not
     def get_used(self):
         return self.used
+
