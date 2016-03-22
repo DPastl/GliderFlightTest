@@ -1390,5 +1390,175 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Mandatory frequency mean a _____ VHF frequency specified in the Canada Air Pilot or the Canada Flight Supplement for the use of radio-equipped aircraft operating within an MF area.",
+    "answers": [
+      "VHF",
+      "HF",
+      "LF",
+      "UHF"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Manoeuvring area means that part of an aerodrome, other than _____, that is intended to be used for the take-off and landing of aircraft and for the movement of aircraft associated with take-off and landing.",
+    "answers": [
+      "an apron",
+      "a taxiway",
+      "a runway",
+      "a hangar"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Night means the time between the ____ of evening civil twilight and the ____ of morning civil twilight.",
+    "answers": [
+      "end/beginning",
+      "beginning/beginning",
+      "end/end",
+      "beginning/end"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Operator, in respect of an aircraft, means the person that _____",
+    "answers": [
+      "has possession of the aircraft as owner, lessee or otherwise.",
+      "is the Pilot in Command during flight.",
+      "usually operates the aircraft.",
+      "has permission to operate an aircraft as obtained from the owner, lessee or otherwise."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A powered glider is an aeroplane that, with engines inoperative, ____",
+    "answers": [
+      "has the flight characteristics of a glider.",
+      "has an L/D of more than 10:1.",
+      "is capable of stowing the engine and propellor assembly.",
+      "is defined as an ultra-light aircraft."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "RVSM airspace or Reduced Vertical Separation Minimum airspace means airspace where a vertical separation minimum of _____ feet applies.",
+    "answers": [
+      "1,000",
+      "2,000",
+      "500",
+      "1,500"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A closed marking means a cross-shaped marking that is ____ on runways and ____ on taxiways.",
+    "answers": [
+      "white/yellow",
+      "white/white",
+      "yellow/yellow",
+      "yellow/white"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A closed marking is a cross-shaped marking that must be visible _____ AGL above the marking.",
+    "answers": [
+      "1,000 feet",
+      "250 metres",
+      "3,000 feet",
+      "1 kilometre"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "When an aerodrome is permanently closed, the operator must",
+    "answers": [
+      "remove all wind direction indicators.",
+      "place closed markings on the runways.",
+      "install red flags/cones along the boundary of unserviceable movement areas.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "At night, runways need to be indicated with ____ lights on either side, and taxiways need to be indicated with ____ lights on either side.",
+    "answers": [
+      "white/blue",
+      "white/white",
+      "blue/blue",
+      "blue/white"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "To act as a flight crewmember, one must",
+    "answers": [
+      "hold the appropriate permit/license/rating and be able to produce it while exercising those priveleges.",
+      "have a valid permit/license/rating.",
+      "hold the appropriate medical certificate.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "To use one's license, one must have completed a flight review within _____ preceding the flight.",
+    "answers": [
+      "12 months",
+      "6 months",
+      "5 years",
+      "3 years"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "To carry a passenger in a glider, one must have completed at least ____ takeoffs/landings in a glider within the last ____ months.",
+    "answers": [
+      "5/6",
+      "3/12",
+      "1/12",
+      "6/6"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "To carry a passenger in a glider, one must have utilized the launch method that will be used for the passenger flight at least ____ time(s).",
+    "answers": [
+      "three",
+      "five",
+      "four",
+      "one"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   }
 ]
