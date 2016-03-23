@@ -1658,5 +1658,54 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Unless otherwise authorized, no pilot-in-command shall operate an aircraft at an altitude lower than _____ over an aerodrome except for landing/taking off.",
+    "answers": [
+      "2000 ft",
+      "1000 ft",
+      "500 ft",
+      "1500 ft"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "In controlled airspace, minimum conditions for VFR flight are",
+    "answers": [
+      "visibility not less than 3 miles and distance from cloud not less than 500 ft vertically and 1 mile horizontally.",
+      "visibility not less than 2 miles and distance from cloud not less than 1000 ft vertically and 1 mile horizontally.",
+      "visibility not less than 3 miles and distance from cloud not less than 250 ft vertically and 2000 ft horizontally.",
+      "visibility not less than 1 miles and distance from cloud not less than 500 ft vertically and 2000 ft horizontally."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "In un-controlled airspace, at or above 1000 ft AGL during day, minimum conditions for VFR flight are",
+    "answers": [
+      "visibility not less than 1 miles and distance from cloud not less than 500 ft vertically and 2000 ft horizontally.",
+      "visibility not less than 2 miles and distance from cloud not less than 500 ft vertically and 1 mile horizontally.",
+      "visibility not less than 3 miles and distance from cloud not less than 250 ft vertically and 0.5 miles horizontally.",
+      "visibility not less than 1 miles and distance from cloud not less than 500 ft vertically and 1 mile horizontally."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "If there is a 2-way radio-ommunications failure in VFR flight in Class B, C, or D airspace, the pilot-in-command shall",
+    "answers": [
+      "leave the airspace, in controlled airspace by landing at the aerodrome, or else by shortest route.",
+      "set the aircraft transponder code to 7600 (if equipped).",
+      "inform an air traffic control unit as soon as possible of actions taken.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
   }
 ]
