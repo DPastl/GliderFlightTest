@@ -516,7 +516,7 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "The minimum flight visibility for airplanes under VFR outside controlled airpsace is; within control zones, the minimum flight visibility is.  The missing figures are",
+    "question": "The minimum flight visibility for airplanes under VFR outside controlled airpsace is _____, and within control zones, the minimum flight visibility is _____",
     "answers": [
       "500 feet, 1 mile.",
       "1 mile, 3 miles.",
@@ -1556,6 +1556,104 @@
       "five",
       "four",
       "one"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A medical certificate for a glider pilot license is valid for ____ months after the day on which the medical exam took place.",
+    "answers": [
+      "60",
+      "24",
+      "36",
+      "48"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "The end of the validity period of a medical certificate is calculated from the _____ following the day on which the medical exam took place.",
+    "answers": [
+      "first day of the month",
+      "last day of the month",
+      "first day of the week",
+      "last day of the week"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A person who is _____ pregnant or has given birth in the preceeding _____ shall not exercise the privileges of a license.",
+    "answers": [
+      "30 weeks/6 weeks",
+      "6 months/1 month",
+      "20 weeks/2 weeks",
+      "1 month/4 weeks"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "The classes of controlled airspace in Canada are",
+    "answers": [
+      "A, B, C, D, E, and F (special use restricted/advisory).",
+      "A, B, C, D, E,  F, and G (special use restricted/advisory).",
+      "A, B, C, D, and E (special use restricted/advisory).",
+      "None of the above."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "The classes of un-uncontrolled airspace in Canada are",
+    "answers": [
+      "E and F (special use restricted/advisory).",
+      "F and G (special use restricted/advisory).",
+      "F (special use restricted/advisory) and G.",
+      "None of the above."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "Transponder Airspace consists of _____ as specified in the Designated Airspace Handbook.",
+    "answers": [
+      "all Class A, B, and C and any Class D or E",
+      "all Class B and C and any Class D or E",
+      "all Class A, F, and G and any Class D or E",
+      "all Class B, C, and F and any Class D or E"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "_____ when the appropriate air traffic control unit is not in operation.",
+    "answers": [
+      "Class C airspace becomes Class E airspace",
+      "Class A airspace becomes Class B airspace",
+      "Class D airspace becomes Class F airspace",
+      "Class F airspace becomes Class A airspace"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "At and below 18,000 ft and above 2000 ft, VFR cruising altitudes are ______ for tracks 0-179 degrees and ______ for tracks 180-359 degrees.",
+    "answers": [
+      "odd thousands of feet + 500 ft/even thousands of feet + 500 ft",
+      "odd thousands of feet/even thousands of feet",
+      "even thousands of feet + 500 ft/odd thousands of feet + 500 ft",
+      "even thousands of feet/odd thousands of feet"
     ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
