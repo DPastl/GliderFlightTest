@@ -156,18 +156,6 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "You have been cleared to land in a gusty wind condition. You are concerned at the wind angle as indicated by the wind-sock at the approach end of the runway, which you feel now favours another runway.  You should",
-    "answers": [
-      "continue to land as you must obey the landing clearance.",
-      "use full flaps and approach at the reduced approach speed.",
-      "alter heading and land on another runway which is more into the wind.",
-      "overshoot and request and into wind runway."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
     "question": "Which statement concerning wing tip vortices is false?",
     "answers": [
       "They are caused directly by jet wash.",
@@ -1101,7 +1089,8 @@
     ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser",
+    "doNotRandomize": 1
   },
   {
     "question": "You are climbing in good wave lift, but your glider is not equipped with oxygen. At what height is it recommended you should abandon your climb?",

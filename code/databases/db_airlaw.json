@@ -907,9 +907,9 @@
       "Balloons shall give way to gliders.",
       "Gliders shall give way to aerotow combinations only."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
     "question": "Above what height(s) must oxygen equipment be carried and used?",
@@ -980,18 +980,6 @@
       "All of the above."
     ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What are the dimensions of an air traffic zone at an airfield where the longest runway is greater than 1850 metres?",
-    "answers": [
-      "2000 feet above the airfield and 5 miles in diameter centred on the mid point of the longest runway.",
-      "2500 feet above the airfield and 5 miles in diameter centred on the mid point of the longest runway.",
-      "2000 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway.",
-      "2500 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway."
-    ],
-    "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1128,18 +1116,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What are the requirements for keeping an accurate and up to date personal flying log book?",
-    "answers": [
-      "All pilots up to silver C and all instructors to prove their renewal requirements have been met.",
-      "All pilots regardless of hours and qualifications.",
-      "There are no requirements.",
-      "All pilots flying club owned aircraft to prove their currency."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "Who has the right of way when two aircraft are landing together?",
     "answers": [
       "The faster aircraft.",
@@ -1224,18 +1200,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What is the minimum number of aerotows required by the tug pilot and glider pilot combined before launching may take place?",
-    "answers": [
-      "20.",
-      "10.",
-      "6.",
-      "There is no minimum requirement as both are trained for their respective roles."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What is the minimum equipment required in a glider used for aerobatic flying?",
     "answers": [
       "A five point harness and serviceable parachute.",
@@ -1248,16 +1212,16 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What is the minimum age required before flying a glider solo in the United Kingdom?",
+    "question": "What is the minimum age required before flying a glider solo in Canada?",
     "answers": [
       "16 years.",
       "14 years.",
       "17 years.",
       "15 years."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
     "question": "The captain of any aircraft must satisfy himself that the intended flight can be made safely. In order to achieve this, it is an operational requirement that all gliding clubs provide what facilities?",
