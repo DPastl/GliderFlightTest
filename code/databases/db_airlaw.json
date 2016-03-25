@@ -936,16 +936,16 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "Above what height should oxygen equipment be carried and what height is recommended for its use?",
+    "question": "Above what height(s) must oxygen equipment be carried and used?",
     "answers": [
-      "10,000 ft amsl and use above 12,000 ft amsl.",
-      "12,000 ft amsl and use above 10,000 ft amsl.",
-      "10,000 ft amsl and use above 10,000 ft amsl.",
-      "12,000 ft amsl and use above 12,000 ft amsl."
+      "10,000-13,000 ft ASL after 30 minutes and above 13,000 ft ASL",
+      "12,000 ft ASL",
+      "10,000 ft ASL",
+      "12,000-15,000 ft ASL after 30 minutes and above 15,000 ft ASL"
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
     "question": "What must all glider pilots carry on flights over 5 nautical miles from their gliding site?",
@@ -1707,5 +1707,65 @@
     "correctAnswerText": "Correct!",
     "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
     "doNotRandomize": 1
+  },
+  {
+    "question": "No person shall operate a glider in day VFR flight unless it is equipped with at least",
+    "answers": [
+      "an altimeter, airspeed indicator, and magnetic compass.",
+      "an altimeter, airspeed indicator, and time-piece.",
+      "an altimeter, airspeed indicator, and variometer.",
+      "an altimeter and an airspeed indicator."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A person may activate an ELT during _____ for a duration _____ for the purpose of testing it.",
+    "answers": [
+      "the first five minutes of any hour UTC/of not more than five seconds",
+      "the first two minutes of any hour UTC/of not more than five seconds",
+      "the first five minutes of any hour UTC/of not more than two seconds",
+      "the first five minutes of any odd hour UTC/of not more than five seconds"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Where an ELT has been inadvertently activated during flight, the pilot-in-command of the aircraft shall ensure that the ELT is switched off and that",
+    "answers": [
+      "the nearest ATC unit, flight service station, or aerodrome radio station is so informed ASAP.",
+      "the nearest ATC unit or Transport Canada Office is contacted immediately.",
+      "all nearby aircraft are informed of the mistake over the radio.",
+      "the ELT is never switched on by accident again."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Every owner of a glider must keep",
+    "answers": [
+      "a journey log.",
+      "a journey log and a separate technical record.",
+      "an electronic journey log.",
+      "a technical record of each installed engine."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "No person shall conduct a take-off in a glider unless the journey log is on board the glider unless",
+    "answers": [
+      "it is not planned that the glider will land and shut down at any location other than the point of departure.",
+      "it is not planned that the glider will fly farther than 25 nm from the point of departure.",
+      "the glider does not reach an altitude above 10,000 ft ASL.",
+      "the distance between the point departure and the point of arrival is less than 25 nm."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   }
 ]
