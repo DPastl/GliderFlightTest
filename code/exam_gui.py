@@ -66,7 +66,7 @@ class ExamGui():
         self.frame.grid_rowconfigure(5, minsize=30)
 
         question_text = self._exam.get_current_question_text()
-        self.question_label = Tk.Label(self.frame, text=question_text[0],
+        self.question_label = Tk.Label(self.frame, text= 'Question '+str(self._exam.current_question_index+1)+ ': ' +question_text[0],
                                        justify=Tk.LEFT, anchor=Tk.W,
                                        wraplength=self.interior_window_width)
         self.question_label.grid(row=0, column=0, columnspan=4, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
@@ -139,7 +139,7 @@ class ExamGui():
     def update_test_frame(self):
         # Updates the already created list of radio buttons and question label
         question_text = self._exam.get_current_question_text()
-        self.question_label.configure(text=question_text[0])
+        self.question_label.configure(text= 'Question '+str(self._exam.current_question_index+1)+ ': ' + question_text[0])
         default_bg = self._master.cget('bg')
         
         # Determine how many answers there are for the current question
