@@ -773,7 +773,7 @@
       "series of green flashes.",
       "series of red flashes.",
       "steady red light.",
-      "stead green light."
+      "steady green light."
     ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
@@ -790,18 +790,6 @@
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
-  },
-  {
-    "question": "What are the minimum requirements for flying in cloud in gliders?",
-    "answers": [
-      "The occupants must wear a serviceable parachute and have been instructed in its use.",
-      "The pilot must have received instruction in the use of blind flying instruments.",
-      "Before entering cloud, the pilot must transmit position and height (QNH) on 130.4 MHZ.",
-      "All the above."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
     "question": "What are the restrictions imposed on gliders flying within a MATZ. ( Military Air Traffic Zone )?",
@@ -848,18 +836,6 @@
       "Ground the glider until an inspector can check for defects or damage."
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What are the VMC rules when flying in class D airspace below 3000ft AMSL at 140 kts or less?",
-    "answers": [
-      "1500 ft horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-      "1500m horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-      "1000m horizontally, 1500 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-      "Clear of cloud and in sight of the surface with an in flight visibility of more than 5 Km."
-    ],
-    "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1068,18 +1044,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What does a white dumbbell displayed in the signal square signify?",
-    "answers": [
-      "Both gliders and powered aircraft are operating from the airfield.",
-      "Movements of aircraft on the ground are confined to paved surfaces.",
-      "Winch launching and aerotows are in progress at the same time.",
-      "Paved areas are only available for powered aircraft. Gliders must land on the grass."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "Your cross country route takes a line through East Midlands CTA. What must be your actions during the flight?",
     "answers": [
       "Maintain VMC whilst in the CTA and keep a good look out.",
@@ -1176,18 +1140,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "Whilst hill soaring which of the following statements is always true?",
-    "answers": [
-      "A glider wishing to overtake another should pass on its left side.",
-      "A glider wishing to overtake another should pass between it and the hill.",
-      "A glider wishing to overtake another should pass on its right side.",
-      "A glider wishing to overtake another should pass beneath it."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "Who has the right of way when two aircraft are landing together?",
     "answers": [
       "The faster aircraft.",
@@ -1196,18 +1148,6 @@
       "The least experienced pilot."
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What does a red and yellow striped arrow in the signal square of an airfield indicate?",
-    "answers": [
-      "The direction to follow the taxiway when recovering aircraft or gliders to park.",
-      "The direction of thermal turns for gliders.",
-      "The direction in which to vacate the runway after landing.",
-      "The direction of circuit in use."
-    ],
-    "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1280,18 +1220,6 @@
       "Displayed in the cockpit as a reminder when using the radio."
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Nose of tug to tail of glider, what is the maximum length of a tug / glider combination?",
-    "answers": [
-      "150 yards in total.",
-      "150 metres in total.",
-      "100 yards in total.",
-      "100 metres in total."
-    ],
-    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1392,7 +1320,7 @@
     "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
-    "question": "Mandatory frequency mean a _____ VHF frequency specified in the Canada Air Pilot or the Canada Flight Supplement for the use of radio-equipped aircraft operating within an MF area.",
+    "question": "Mandatory frequency mean a _____ frequency specified in the Canada Air Pilot or the Canada Flight Supplement for the use of radio-equipped aircraft operating within an MF area.",
     "answers": [
       "VHF",
       "HF",

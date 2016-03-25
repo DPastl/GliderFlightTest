@@ -1572,18 +1572,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "In August, a weak ridge is forecast across the country the day after a cold front has passed through. What would be the most likely weather?",
-    "answers": [
-      "Poor soaring as the ridge will reduce the instability from the cold front.",
-      "Good soaring as a ridge reduces the instability behind the cold front preventing over convevtion.",
-      "Poor soaring due to over convection.",
-      "Deteriorating soaring conditions due to the lowering inversion."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What is the area, like a saddle on a mountain ridge, bounded by two high pressure systems and two low pressure systems called?",
     "answers": [
       "An occlusion.",

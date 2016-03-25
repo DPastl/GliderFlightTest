@@ -360,18 +360,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "In a glider, which of the following defines visual flight rules below 3000 feet?",
-    "answers": [
-      "1000 feet vertically and 5 nautical miles horizontally from cloud and in sight of the ground.",
-      "1500 feet vertically and 1000 feet horizontally from cloud and in sight of the ground.",
-      "1000 feet vertically and 1500 feet horizontally from cloud and in sight of the ground.",
-      "Clear of cloud, and in sight of the surface, in a flight visibility of 1500 metres when airspeed is 140 kts or less."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What is your average cross country speed if you cover 30 Kms in the first 40 minutes of a flight?",
     "answers": [
       "35 Kph.",
@@ -396,7 +384,7 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "When is the E2B or Airpath compass most reliable for gliding?",
+    "question": "When is the magnetic compass most reliable for gliding?",
     "answers": [
       "On an east or west heading.",
       "On a north or south heading.",

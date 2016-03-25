@@ -1344,18 +1344,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "A Glider overtaking another in the UK shall follow which rule?",
-    "answers": [
-      "Always overtake from above.",
-      "Overtake on either side.",
-      "Always overtake on the right.",
-      "Always overtake on the left."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "Which of the following is correct when 2 aircraft are on a converging course?",
     "answers": [
       "The aircraft which has the other on its right has the right of way.",
