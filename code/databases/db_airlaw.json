@@ -1164,18 +1164,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What does a double white cross ( ++ ) showing on a runway indicate?",
-    "answers": [
-      "An area where the runway is not available for landing.",
-      "Gliders and powered aircraft are using the same runway.",
-      "An area that shall only be used for the take off and landing of gliders.",
-      "An area that shall only be used for powered aircraft."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What does a white ‘T’ in the signal square of an airfield denote?",
     "answers": [
       "Aircraft landing and taking off will do so in a direction parallel with the shaft of the ‘T’ and towards the cross arm.",

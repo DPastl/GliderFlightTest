@@ -504,28 +504,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "Which of the following is correct for maintaining VMC in class D airspace whilst above 3000ft amsl but below FL100?",
-    "answers": [
-      "The glider must remain clear of cloud and in sight of the surface.",
-      "The glider must remain 1500 metres horizontally and 1000 ft vertically away from cloud in a flight visibility of 5Km or greater.",
-      "The flight visibility must be 5 Km or greater.",
-      "The glider must remain clear of cloud only."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-    "question": "Your airfield is 330 feet above mean sea level (amsl). If the airfield pressure (QFE) is 996 millibars (hectopascals), what height above the airfield is flight level 55? (Assume 1 millibar = 30 feet).",
-    "answers": [
-      "4980 feet.",
-      "6010 feet.",
-      "5450 feet.",
-      "5500 feet."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What is the approximation when using a 1:500 000 scale chart?",
     "answers": [
       "12 statute miles or 10 nautical miles to the inch.",
@@ -654,18 +632,6 @@
       "Behind."
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Your cross country track takes you through a MATZ. What should your actions be?",
-    "answers": [
-      "Fly through the MATZ but be aware of the ATZ and possible traffic on extended centre lines.",
-      "Call the controlling authority and ask for permission to penetrate the MATZ.",
-      "Put in a ‘dog leg’ to avoid the MATZ.",
-      "Remain VMC whilst in the MATZ."
-    ],
-    "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },

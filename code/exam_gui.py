@@ -201,4 +201,3 @@ if __name__ == '__main__':
     app = ExamGui(root)
     root.wm_title("Glider Exam Generator")
     root.mainloop()
-    root.destroy()  # optional; see description below

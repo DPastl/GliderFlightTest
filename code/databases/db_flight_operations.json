@@ -1153,18 +1153,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What is the correct mnemonic for the glider pre manoeuvre checks?",
-    "answers": [
-      "HASL ( height, area, security and lookout.)",
-      "HASSL ( height, airframe, security, straps and lookout.)",
-      "HASSLL ( height, airframe, straps, security, location and lookout.)",
-      "HASELL ( height, airframe, security, engine, location and lookout.)"
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "When carrying out the pre manoeuvre checks, what does the airframe part of the check call for?",
     "answers": [
       "Ensure that the airframe is cleared for the manoeuvres to be flown.",
@@ -1511,5 +1499,65 @@
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the correct mnemonic for the glider pre manoeuvre checks?",
+    "answers": [
+      "I AM SAFE ( Illness, Alimentation, Medication, Stress, Alcohol, Fatigue, Emotion)",
+      "SWAFTS ( Straps, Wheel and Water, Airspeed, Flaps, Traffic, Spoilers)",
+      "CALL ( Cockpit, Altitude, Location, Lookout)",
+      "CISTRSC-O ( Controls, Instruments, Straps, Trim, Release, Spoilers, Canopy, Options)"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Soar and Learn to fly gliders, 2011, page 16"
+  },
+  {
+    "question": "What is the correct mnemonic for the glider pre takeoff checks?",
+    "answers": [
+      "I AM SAFE ( Illness, Alimentation, Medication, Stress, Alcohol, Fatigue, Emotion)",
+      "SWAFTS ( Straps, Wheel and Water, Airspeed, Flaps, Traffic, Spoilers)",
+      "CALL ( Cockpit, Altitude, Location, Lookout)",
+      "CISTRSC-O ( Controls, Instruments, Straps, Trim, Release, Spoilers, Canopy, Options)"
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Soar and Learn to fly gliders, 2011, page 15"
+  },
+  {
+    "question": "What is the correct mnemonic for the glider pre landing checks?",
+    "answers": [
+      "I AM SAFE ( Illness, Alimentation, Medication, Stress, Alcohol, Fatigue, Emotion)",
+      "SWAFTS ( Straps, Wheel and Water, Airspeed, Flaps, Traffic, Spoilers)",
+      "CALL ( Cockpit, Altitude, Location, Lookout)",
+      "CISTRSC-O ( Controls, Instruments, Straps, Trim, Release, Spoilers, Canopy, Options)"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Soar and Learn to fly gliders, 2011, page 17"
+  },
+  {
+    "question": "What is the correct mnemonic for the personal checklist you should perform before flying?",
+    "answers": [
+      "I AM SAFE ( Illness, Alimentation, Medication, Stress, Alcohol, Fatigue, Emotion)",
+      "SWAFTS ( Straps, Wheel and Water, Airspeed, Flaps, Traffic, Spoilers)",
+      "CALL ( Cockpit, Altitude, Location, Lookout)",
+      "CISTRSC-O ( Controls, Instruments, Straps, Trim, Release, Spoilers, Canopy, Options)"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Soar and Learn to fly gliders, 2011, page 13"
+  },
+  {
+    "question": "What is the correct mnemonic for pilot decision making?",
+    "answers": [
+      "I AM SAFE ( Illness, Alimentation, Medication, Stress, Alcohol, Fatigue, Emotion)",
+      "SWAFTS ( Straps, Wheel and Water, Airspeed, Flaps, Traffic, Spoilers)",
+      "SOAR ( Situation, Options, Act, Repeat)",
+      "CISTRSC-O ( Controls, Instruments, Straps, Trim, Release, Spoilers, Canopy, Options)"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Soar and Learn to fly gliders, 2011, page 19"
   }
 ]
