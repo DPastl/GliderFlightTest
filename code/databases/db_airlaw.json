@@ -516,7 +516,7 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "The minimum flight visibility for airplanes under VFR outside controlled airpsace is; within control zones, the minimum flight visibility is.  The missing figures are",
+    "question": "The minimum flight visibility for airplanes under VFR outside controlled airpsace is _____, and within control zones, the minimum flight visibility is _____",
     "answers": [
       "500 feet, 1 mile.",
       "1 mile, 3 miles.",
@@ -773,7 +773,7 @@
       "series of green flashes.",
       "series of red flashes.",
       "steady red light.",
-      "stead green light."
+      "steady green light."
     ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
@@ -790,18 +790,6 @@
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
-  },
-  {
-    "question": "What are the minimum requirements for flying in cloud in gliders?",
-    "answers": [
-      "The occupants must wear a serviceable parachute and have been instructed in its use.",
-      "The pilot must have received instruction in the use of blind flying instruments.",
-      "Before entering cloud, the pilot must transmit position and height (QNH) on 130.4 MHZ.",
-      "All the above."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
     "question": "What are the restrictions imposed on gliders flying within a MATZ. ( Military Air Traffic Zone )?",
@@ -848,18 +836,6 @@
       "Ground the glider until an inspector can check for defects or damage."
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What are the VMC rules when flying in class D airspace below 3000ft AMSL at 140 kts or less?",
-    "answers": [
-      "1500 ft horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-      "1500m horizontally, 1000 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-      "1000m horizontally, 1500 ft vertically, clear of cloud and in a flight visibility of more than 8 Km.",
-      "Clear of cloud and in sight of the surface with an in flight visibility of more than 5 Km."
-    ],
-    "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -931,21 +907,21 @@
       "Balloons shall give way to gliders.",
       "Gliders shall give way to aerotow combinations only."
     ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Above what height should oxygen equipment be carried and what height is recommended for its use?",
-    "answers": [
-      "10,000 ft amsl and use above 12,000 ft amsl.",
-      "12,000 ft amsl and use above 10,000 ft amsl.",
-      "10,000 ft amsl and use above 10,000 ft amsl.",
-      "12,000 ft amsl and use above 12,000 ft amsl."
-    ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Above what height(s) must oxygen equipment be carried and used?",
+    "answers": [
+      "10,000-13,000 ft ASL after 30 minutes and above 13,000 ft ASL",
+      "12,000 ft ASL",
+      "10,000 ft ASL",
+      "12,000-15,000 ft ASL after 30 minutes and above 15,000 ft ASL"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
     "question": "What must all glider pilots carry on flights over 5 nautical miles from their gliding site?",
@@ -1008,18 +984,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What are the dimensions of an air traffic zone at an airfield where the longest runway is greater than 1850 metres?",
-    "answers": [
-      "2000 feet above the airfield and 5 miles in diameter centred on the mid point of the longest runway.",
-      "2500 feet above the airfield and 5 miles in diameter centred on the mid point of the longest runway.",
-      "2000 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway.",
-      "2500 feet above the airfield and 4 miles in diameter centred on the mid point of the longest runway."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Restricted area. What does this mean with regards to a glider in flight?",
     "answers": [
       "There is little relevance as the restrictions can not be complied with by a glider.",
@@ -1064,18 +1028,6 @@
       "Call on the radio and inform the tug pilot of the problem."
     ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What does a white dumbbell displayed in the signal square signify?",
-    "answers": [
-      "Both gliders and powered aircraft are operating from the airfield.",
-      "Movements of aircraft on the ground are confined to paved surfaces.",
-      "Winch launching and aerotows are in progress at the same time.",
-      "Paved areas are only available for powered aircraft. Gliders must land on the grass."
-    ],
-    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1164,30 +1116,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What are the requirements for keeping an accurate and up to date personal flying log book?",
-    "answers": [
-      "All pilots up to silver C and all instructors to prove their renewal requirements have been met.",
-      "All pilots regardless of hours and qualifications.",
-      "There are no requirements.",
-      "All pilots flying club owned aircraft to prove their currency."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Whilst hill soaring which of the following statements is always true?",
-    "answers": [
-      "A glider wishing to overtake another should pass on its left side.",
-      "A glider wishing to overtake another should pass between it and the hill.",
-      "A glider wishing to overtake another should pass on its right side.",
-      "A glider wishing to overtake another should pass beneath it."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "Who has the right of way when two aircraft are landing together?",
     "answers": [
       "The faster aircraft.",
@@ -1196,18 +1124,6 @@
       "The least experienced pilot."
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What does a red and yellow striped arrow in the signal square of an airfield indicate?",
-    "answers": [
-      "The direction to follow the taxiway when recovering aircraft or gliders to park.",
-      "The direction of thermal turns for gliders.",
-      "The direction in which to vacate the runway after landing.",
-      "The direction of circuit in use."
-    ],
-    "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1284,30 +1200,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "Nose of tug to tail of glider, what is the maximum length of a tug / glider combination?",
-    "answers": [
-      "150 yards in total.",
-      "150 metres in total.",
-      "100 yards in total.",
-      "100 metres in total."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What is the minimum number of aerotows required by the tug pilot and glider pilot combined before launching may take place?",
-    "answers": [
-      "20.",
-      "10.",
-      "6.",
-      "There is no minimum requirement as both are trained for their respective roles."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What is the minimum equipment required in a glider used for aerobatic flying?",
     "answers": [
       "A five point harness and serviceable parachute.",
@@ -1329,7 +1221,7 @@
     ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
     "question": "The captain of any aircraft must satisfy himself that the intended flight can be made safely. In order to achieve this, it is an operational requirement that all gliding clubs provide what facilities?",
@@ -1386,6 +1278,383 @@
       "High-level/low-level",
       "Mid-level/high-level",
       "Low-level/mid-level"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Mandatory frequency mean a _____ frequency specified in the Canada Air Pilot or the Canada Flight Supplement for the use of radio-equipped aircraft operating within an MF area.",
+    "answers": [
+      "VHF",
+      "HF",
+      "LF",
+      "UHF"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Manoeuvring area means that part of an aerodrome, other than _____, that is intended to be used for the take-off and landing of aircraft and for the movement of aircraft associated with take-off and landing.",
+    "answers": [
+      "an apron",
+      "a taxiway",
+      "a runway",
+      "a hangar"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Night means the time between the ____ of evening civil twilight and the ____ of morning civil twilight.",
+    "answers": [
+      "end/beginning",
+      "beginning/beginning",
+      "end/end",
+      "beginning/end"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Operator, in respect of an aircraft, means the person that _____",
+    "answers": [
+      "has possession of the aircraft as owner, lessee or otherwise.",
+      "is the Pilot in Command during flight.",
+      "usually operates the aircraft.",
+      "has permission to operate an aircraft as obtained from the owner, lessee or otherwise."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A powered glider is an aeroplane that, with engines inoperative, ____",
+    "answers": [
+      "has the flight characteristics of a glider.",
+      "has an L/D of more than 10:1.",
+      "is capable of stowing the engine and propellor assembly.",
+      "is defined as an ultra-light aircraft."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "RVSM airspace or Reduced Vertical Separation Minimum airspace means airspace where a vertical separation minimum of _____ feet applies.",
+    "answers": [
+      "1,000",
+      "2,000",
+      "500",
+      "1,500"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A closed marking means a cross-shaped marking that is ____ on runways and ____ on taxiways.",
+    "answers": [
+      "white/yellow",
+      "white/white",
+      "yellow/yellow",
+      "yellow/white"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A closed marking is a cross-shaped marking that must be visible _____ AGL above the marking.",
+    "answers": [
+      "1,000 feet",
+      "250 metres",
+      "3,000 feet",
+      "1 kilometre"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "When an aerodrome is permanently closed, the operator must",
+    "answers": [
+      "remove all wind direction indicators.",
+      "place closed markings on the runways.",
+      "install red flags/cones along the boundary of unserviceable movement areas.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "At night, runways need to be indicated with ____ lights on either side, and taxiways need to be indicated with ____ lights on either side.",
+    "answers": [
+      "white/blue",
+      "white/white",
+      "blue/blue",
+      "blue/white"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "To act as a flight crewmember, one must",
+    "answers": [
+      "hold the appropriate permit/license/rating and be able to produce it while exercising those priveleges.",
+      "have a valid permit/license/rating.",
+      "hold the appropriate medical certificate.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "To use one's license, one must have completed a flight review within _____ preceding the flight.",
+    "answers": [
+      "12 months",
+      "6 months",
+      "5 years",
+      "3 years"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "To carry a passenger in a glider, one must have completed at least ____ takeoffs/landings in a glider within the last ____ months.",
+    "answers": [
+      "5/6",
+      "3/12",
+      "1/12",
+      "6/6"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "To carry a passenger in a glider, one must have utilized the launch method that will be used for the passenger flight at least ____ time(s).",
+    "answers": [
+      "three",
+      "five",
+      "four",
+      "one"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A medical certificate for a glider pilot license is valid for ____ months after the day on which the medical exam took place.",
+    "answers": [
+      "60",
+      "24",
+      "36",
+      "48"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "The end of the validity period of a medical certificate is calculated from the _____ following the day on which the medical exam took place.",
+    "answers": [
+      "first day of the month",
+      "last day of the month",
+      "first day of the week",
+      "last day of the week"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A person who is _____ pregnant or has given birth in the preceeding _____ shall not exercise the privileges of a license.",
+    "answers": [
+      "30 weeks/6 weeks",
+      "6 months/1 month",
+      "20 weeks/2 weeks",
+      "1 month/4 weeks"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "The classes of controlled airspace in Canada are",
+    "answers": [
+      "A, B, C, D, E, and F (special use restricted/advisory).",
+      "A, B, C, D, E,  F, and G (special use restricted/advisory).",
+      "A, B, C, D, and E (special use restricted/advisory).",
+      "None of the above."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "The classes of un-uncontrolled airspace in Canada are",
+    "answers": [
+      "E and F (special use restricted/advisory).",
+      "F and G (special use restricted/advisory).",
+      "F (special use restricted/advisory) and G.",
+      "None of the above."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "Transponder Airspace consists of _____ as specified in the Designated Airspace Handbook.",
+    "answers": [
+      "all Class A, B, and C and any Class D or E",
+      "all Class B and C and any Class D or E",
+      "all Class A, F, and G and any Class D or E",
+      "all Class B, C, and F and any Class D or E"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "_____ when the appropriate air traffic control unit is not in operation.",
+    "answers": [
+      "Class C airspace becomes Class E airspace",
+      "Class A airspace becomes Class B airspace",
+      "Class D airspace becomes Class F airspace",
+      "Class F airspace becomes Class A airspace"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "At and below 18,000 ft and above 2000 ft, VFR cruising altitudes are ______ for tracks 0-179 degrees and ______ for tracks 180-359 degrees.",
+    "answers": [
+      "odd thousands of feet + 500 ft/even thousands of feet + 500 ft",
+      "odd thousands of feet/even thousands of feet",
+      "even thousands of feet + 500 ft/odd thousands of feet + 500 ft",
+      "even thousands of feet/odd thousands of feet"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Unless otherwise authorized, no pilot-in-command shall operate an aircraft at an altitude lower than _____ over an aerodrome except for landing/taking off.",
+    "answers": [
+      "2000 ft",
+      "1000 ft",
+      "500 ft",
+      "1500 ft"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "In controlled airspace, minimum conditions for VFR flight are",
+    "answers": [
+      "visibility not less than 3 miles and distance from cloud not less than 500 ft vertically and 1 mile horizontally.",
+      "visibility not less than 2 miles and distance from cloud not less than 1000 ft vertically and 1 mile horizontally.",
+      "visibility not less than 3 miles and distance from cloud not less than 250 ft vertically and 2000 ft horizontally.",
+      "visibility not less than 1 miles and distance from cloud not less than 500 ft vertically and 2000 ft horizontally."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "In un-controlled airspace, at or above 1000 ft AGL during day, minimum conditions for VFR flight are",
+    "answers": [
+      "visibility not less than 1 miles and distance from cloud not less than 500 ft vertically and 2000 ft horizontally.",
+      "visibility not less than 2 miles and distance from cloud not less than 500 ft vertically and 1 mile horizontally.",
+      "visibility not less than 3 miles and distance from cloud not less than 250 ft vertically and 0.5 miles horizontally.",
+      "visibility not less than 1 miles and distance from cloud not less than 500 ft vertically and 1 mile horizontally."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "If there is a 2-way radio-ommunications failure in VFR flight in Class B, C, or D airspace, the pilot-in-command shall",
+    "answers": [
+      "leave the airspace, in controlled airspace by landing at the aerodrome, or else by shortest route.",
+      "set the aircraft transponder code to 7600 (if equipped).",
+      "inform an air traffic control unit as soon as possible of actions taken.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016",
+    "doNotRandomize": 1
+  },
+  {
+    "question": "No person shall operate a glider in day VFR flight unless it is equipped with at least",
+    "answers": [
+      "an altimeter, airspeed indicator, and magnetic compass.",
+      "an altimeter, airspeed indicator, and time-piece.",
+      "an altimeter, airspeed indicator, and variometer.",
+      "an altimeter and an airspeed indicator."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "A person may activate an ELT during _____ for a duration _____ for the purpose of testing it.",
+    "answers": [
+      "the first five minutes of any hour UTC/of not more than five seconds",
+      "the first two minutes of any hour UTC/of not more than five seconds",
+      "the first five minutes of any hour UTC/of not more than two seconds",
+      "the first five minutes of any odd hour UTC/of not more than five seconds"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Where an ELT has been inadvertently activated during flight, the pilot-in-command of the aircraft shall ensure that the ELT is switched off and that",
+    "answers": [
+      "the nearest ATC unit, flight service station, or aerodrome radio station is so informed ASAP.",
+      "the nearest ATC unit or Transport Canada Office is contacted immediately.",
+      "all nearby aircraft are informed of the mistake over the radio.",
+      "the ELT is never switched on by accident again."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Every owner of a glider must keep",
+    "answers": [
+      "a journey log.",
+      "a journey log and a separate technical record.",
+      "an electronic journey log.",
+      "a technical record of each installed engine."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "No person shall conduct a take-off in a glider unless the journey log is on board the glider unless",
+    "answers": [
+      "it is not planned that the glider will land and shut down at any location other than the point of departure.",
+      "it is not planned that the glider will fly farther than 25 nm from the point of departure.",
+      "the glider does not reach an altitude above 10,000 ft ASL.",
+      "the distance between the point departure and the point of arrival is less than 25 nm."
     ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",

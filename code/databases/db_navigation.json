@@ -336,18 +336,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "Your airfield is 270 feet above mean sea level (amsl). If the airfield pressure (QFE) is 998 millibars (hectopascals), what height above the airfield is flight level 55? (Assume 1 millibar = 30 feet).",
-    "answers": [
-      "5500 feet.",
-      "5950 feet.",
-      "5450 feet.",
-      "5050 feet."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "During a final glide, the GPS gives a ground speed of 90 kts and you are flying with an IAS of 75 kts. There is 15 NM to your goal airfield. How long will the glide take and what is the wind component?",
     "answers": [
       "15 minutes and 15 kts tail wind.",
@@ -356,18 +344,6 @@
       "10 minutes and 15 kts head wind."
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "In a glider, which of the following defines visual flight rules below 3000 feet?",
-    "answers": [
-      "1000 feet vertically and 5 nautical miles horizontally from cloud and in sight of the ground.",
-      "1500 feet vertically and 1000 feet horizontally from cloud and in sight of the ground.",
-      "1000 feet vertically and 1500 feet horizontally from cloud and in sight of the ground.",
-      "Clear of cloud, and in sight of the surface, in a flight visibility of 1500 metres when airspeed is 140 kts or less."
-    ],
-    "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -396,7 +372,7 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "When is the E2B or Airpath compass most reliable for gliding?",
+    "question": "When is the magnetic compass most reliable for gliding?",
     "answers": [
       "On an east or west heading.",
       "On a north or south heading.",
@@ -528,6 +504,16 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
+    "question": "Which of the following is correct for maintaining VMC in class D airspace whilst above 3000ft amsl but below FL100?",
+    "answers": [
+      "The glider must remain clear of cloud and in sight of the surface.",
+      "The glider must remain 1500 metres horizontally and 1000 ft vertically away from cloud in a flight visibility of 5Km or greater.",
+      "The flight visibility must be 5 Km or greater.",
+      "The glider must remain clear of cloud only."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
     "question": "Your airfield is 330 feet above mean sea level (amsl). If the airfield pressure (QFE) is 996 millibars (hectopascals), what height above the airfield is flight level 55? (Assume 1 millibar = 30 feet).",
     "answers": [
       "4980 feet.",
@@ -678,18 +664,6 @@
       "Call the controlling authority and ask for permission to penetrate the MATZ.",
       "Put in a ‘dog leg’ to avoid the MATZ.",
       "Remain VMC whilst in the MATZ."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "The airfield from which you are flying is 600 ft AMSL. With the altimeter set to zero before flight, the subscale reads 1007 millibars. What will the altimeter read at the base of an airway extending from FL 45 upwards. (Assume 30 ft per millibar).",
-    "answers": [
-      "4320 feet.",
-      "4680 feet.",
-      "3900 feet.",
-      "4500 feet."
     ],
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",

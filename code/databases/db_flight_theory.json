@@ -86,7 +86,7 @@
   {
     "question": "The relative wind has an effect on the",
     "answers": [
-      "andle of incidence",
+      "angle of incidence",
       "angle of attack",
       "coefficient of drag",
       "asymmetric thrust"
@@ -240,7 +240,7 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "During autorotation, the downgoind wing has",
+    "question": "During autorotation, the downgoing wing has",
     "answers": [
       "the same angle of attack as the upgoing wing",
       "a greater angle of attack than the upgoing wing",
@@ -408,7 +408,7 @@
     "questionSource": "Flying Scholarship PIP"
   },
   {
-    "question": "Longitudinal stability around the lateral axis of the aircraft and is called pitch stability. The two principle factors which influence longitudinal stbility are",
+    "question": "Longitudinal stability around the lateral axis of the aircraft is called pitch stability. The two principle factors which influence longitudinal stability are",
     "answers": [
       "size and position of the horizontal stabilizer and the position of the C of G.",
       "dihedral and the position of the C of G.",
