@@ -480,18 +480,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What does the annotation D124/2 refer to when next to an area bounded by a solid red line on the 1:500 000 scale aeronautical chart?",
-    "answers": [
-      "It is a permanent danger area up to 2000 ft amsl.",
-      "The area is prohibited to all types of aviators below 12 400 ft.",
-      "It is a danger area activated by NOTAM.",
-      "It is an area you should pass through expeditiously."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What is the main limitation when using a 1:250 000 scale aeronautical chart?",
     "answers": [
       "The scale is not large enough.",
@@ -548,18 +536,6 @@
       "5500 feet."
     ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Which of the following is correct for maintaining VMC in class D airspace whilst above 3000ft amsl but below FL100?",
-    "answers": [
-      "The glider must remain clear of cloud and in sight of the surface.",
-      "The glider must remain 1500 metres horizontally and 1000 ft vertically away from cloud in a flight visibility of 5Km or greater.",
-      "The flight visibility must be 5 Km or greater.",
-      "The glider must remain clear of cloud only."
-    ],
-    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },

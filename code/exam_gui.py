@@ -65,8 +65,9 @@ class ExamGui():
             self.frame.grid_rowconfigure(1 + i, minsize=45)
         self.frame.grid_rowconfigure(5, minsize=30)
 
+        question_num = "Question {0}:\n".format(self._exam.current_question_index + 1)
         question_text = self._exam.get_current_question_text()
-        self.question_label = Tk.Label(self.frame, text=question_text[0],
+        self.question_label = Tk.Label(self.frame, text=(question_num + question_text[0]),
                                        justify=Tk.LEFT, anchor=Tk.W,
                                        wraplength=self.interior_window_width)
         self.question_label.grid(row=0, column=0, columnspan=4, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
@@ -138,8 +139,9 @@ class ExamGui():
 
     def update_test_frame(self):
         # Updates the already created list of radio buttons and question label
+        question_num = "Question {0}:\n".format(self._exam.current_question_index + 1)
         question_text = self._exam.get_current_question_text()
-        self.question_label.configure(text=question_text[0])
+        self.question_label.configure(text=(question_num + question_text[0]))
         default_bg = self._master.cget('bg')
         
         # Determine how many answers there are for the current question
@@ -166,7 +168,6 @@ class ExamGui():
         self.user_answers = [None for _ in range(self.num_questions)]
 
     def answer_question(self):
-        print self.answer_index.get()
 
         # Check if question was already answered.
         # TODO: Fix this so that if we go back to an old question we already answered it shows the answer.
@@ -179,7 +180,6 @@ class ExamGui():
                 # Make incorrect answer turn red
                 self.radio_buttons[self.answer_index.get()].configure(bg='red')
             # Display correct answer
-            print self._exam.get_correct_answer() - 1
             self.radio_buttons[self._exam.get_correct_answer() - 1].configure(bg='green')
 
     def next_question(self):

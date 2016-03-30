@@ -1320,14 +1320,14 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What is the minimum age required before flying a glider solo in the United Kingdom?",
+    "question": "What is the minimum age required before flying a glider solo in Canada?",
     "answers": [
       "16 years.",
       "14 years.",
       "17 years.",
       "15 years."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },

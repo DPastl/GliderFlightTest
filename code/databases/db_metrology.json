@@ -2196,18 +2196,6 @@
     "questionSource": "The Atmosphere Document"
   },
   {
-    "question": "PROG surface charts are Prognostic surface charts that",
-    "answers": [
-      "show actual weather conditions below 3000ft AGL.",
-      "show actual wind flow patterns at different altitudes.",
-      "show the forcast of weather expected at the surface.",
-      "show the forcast of weather expected aloft at different altitudes."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The Atmosphere Document"
-  },
-  {
     "question": "Upper level charts are charts that",
     "answers": [
       "show actual weather conditions below 3000ft AGL.",

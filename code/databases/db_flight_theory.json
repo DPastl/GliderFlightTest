@@ -79,7 +79,7 @@
       "lift equals weight and drag equals thrust",
       "weight and thrust equals lift"
     ],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
@@ -1489,7 +1489,7 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "QUESTION 63.What causes induced drag?",
+    "question": "What causes induced drag?",
     "answers": [
       "Wing tip vortices.",
       "The frontal area resisting the airflow.",
