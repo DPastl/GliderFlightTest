@@ -132,18 +132,6 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "Your Airplane Flight Manual specifies a basic empty weight of 1,640 lbs. and a maximum gross weight of 2,550 lbs. You are planning a flight with two friends who weigh 172 lbs. and 195 lbs. respectively. Your weight is 179 lbs. You have three peices of baggage weighing 30, 24, 17 lbs. each. You have full fuel tanks giving you 48 Gallons of usable fuel.  The take-off weight of the airplane would be",
-    "answers": [
-      "the same as the maximum gross weight.",
-      "slightly more than the maximum gross weight.",
-      "5 lbs less than the maximum gross weight.",
-      "56 lbs less than the maximum gross weight."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
     "question": "Since the surface wind is gusting, causing turbulence as you approach to land, it is important to",
     "answers": [
       "always use full flaps.",
@@ -1425,18 +1413,6 @@
       "Ensure that the aircraft is serviceable."
     ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Which 2 conditions are particularly detrimental to GRP structure?",
-    "answers": [
-      "Polar Continental and polar maritime air masses.",
-      "Rain and strong winds.",
-      "Moisture and solar radiation.",
-      "Low humidity and light winds."
-    ],
-    "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },

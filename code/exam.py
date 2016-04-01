@@ -9,13 +9,12 @@ controlled from another class if required.
 from database_accessor import DatabaseAccessor
 
 class Exam():
-
-    def __init__(self, num_questions=50):
+    def __init__(self, num_questions=50, databases_to_use=None):
         # set up the exam, what databases to include, how many questions to ask.
         # then get those questions and add them to the question list.  Initialize
         # the answer list to false for every question.  Also check that the user's
         # number of questions is actually possible given the size of our databases
-        self.question_database = DatabaseAccessor()
+        self.question_database = DatabaseAccessor(databases_to_use)
         self.num_questions = num_questions
         self.current_question_index = None
         self.answer_list = list()  # To keep track of what the user answered to each question

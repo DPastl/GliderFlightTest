@@ -720,7 +720,7 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "Many common drugs such as cold tablets, cough mixtures, antihistamines and other over the counter remedies may serisouly impair the judgement and co-ordination needed while flying.  The safest rule is to",
+    "question": "Many common drugs such as cold tablets, cough mixtures, antihistamines and other over the counter remedies may serisouly impair the judgement and coco-ordination needed while flying.  The safest rule is to",
     "answers": [
       "read the manufacturer's warning to ensure that you are aware of possible reactions to such drugs.",
       "allow at least 8 hours between taking any medicine or drug and flying.",
@@ -1028,18 +1028,6 @@
       "Call on the radio and inform the tug pilot of the problem."
     ],
     "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Your cross country route takes a line through East Midlands CTA. What must be your actions during the flight?",
-    "answers": [
-      "Maintain VMC whilst in the CTA and keep a good look out.",
-      "Cross at the lowest possible level to avoid conflict with other traffic.",
-      "Call the ATC unit to inform them of your presence. You must hold a CAA RT license.",
-      "Cross at right angles, maintaining VMC."
-    ],
-    "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1393,7 +1381,7 @@
     "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
-    "question": "To act as a flight crewmember, one must",
+    "question": "To act as a flight crew member, one must",
     "answers": [
       "hold the appropriate permit/license/rating and be able to produce it while exercising those priveleges.",
       "have a valid permit/license/rating.",

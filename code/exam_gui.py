@@ -1,6 +1,7 @@
 import Tkinter as Tk
 
 import exam
+from database_accessor import database_file_enum
 
 '''
 A simple exam GUI.
@@ -18,6 +19,12 @@ class ExamGui():
 
     def __init__(self, master):
         self._master = master
+        # Create a list to keep track of which databases to use
+        self.database_file_names = database_file_enum.keys()
+        self.checkbox_list = [Tk.IntVar() for _ in range(len(self.database_file_names))]
+        for item in self.checkbox_list:
+            item.set(True)
+
         self.display_startup()
 
     ######################## Window Creation #######################
@@ -30,21 +37,35 @@ class ExamGui():
         self.frame.grid(sticky=Tk.N + Tk.S + Tk.E + Tk.W)
         self.frame.grid_columnconfigure(0, minsize=300)
         self.frame.grid_columnconfigure(1, minsize=300)
-        self.frame.grid_rowconfigure(0, minsize=260)
-        self.frame.grid_rowconfigure(1, minsize=30)
+        self.frame.grid_rowconfigure(0, minsize=80)
+        self.frame.grid_rowconfigure(1, minsize=60)
+        self.frame.grid_rowconfigure(2, minsize=30)
+        self.frame.grid_rowconfigure(3, minsize=30)
+        self.frame.grid_rowconfigure(4, minsize=30)
+        self.frame.grid_rowconfigure(5, minsize=30)
+        self.frame.grid_rowconfigure(6, minsize=30)
 
         self.label = Tk.Label(self.frame, text="Welcome to the Glider Exam Generator")
         self.label.grid(row=0, columnspan=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
+        self.label = Tk.Label(self.frame, text="Select the databases to use:")
+        self.label.grid(row=1, columnspan=2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
+        # Add checkboxes for each database
+        for index in range(len(self.database_file_names)):
+            checkbutton = Tk.Checkbutton(self.frame, text=self.database_file_names[index],
+                                         variable=self.checkbox_list[index])
+            checkbutton.grid(row=int(index / 2) + 2, column=index % 2, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+
         self.button = Tk.Button(
             self.frame, text="Start Test", command=self.start_test
         )
-        self.button.grid(row=1, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.button.grid(row=6, column=0, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
         self.button = Tk.Button(
             self.frame, text="QUIT", fg="red", command=self.frame.quit
         )
-        self.button.grid(row=1, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
+        self.button.grid(row=6, column=1, sticky=Tk.N + Tk.S + Tk.E + Tk.W)
 
 
     def create_test_frame(self):
@@ -162,7 +183,13 @@ class ExamGui():
         # Destroy the old frame and make a new one
         self.frame.destroy()
 
-        self._exam = exam.Exam(self.num_questions)  # Create a list of questions
+        # Select the databases to use:
+        database_list = list()
+        for index in range(len(self.checkbox_list)):
+            if self.checkbox_list[index].get():
+                database_list.append(self.database_file_names[index])
+
+        self._exam = exam.Exam(self.num_questions, database_list)  # Create a list of questions
         self._exam.next_question()
         self.create_test_frame()
         self.user_answers = [None for _ in range(self.num_questions)]

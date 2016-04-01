@@ -2186,7 +2186,7 @@
   {
     "question": "Upper level charts are charts that",
     "answers": [
-      "show actual weather conditions below 3000ft AGL.",
+      "show actual weather conditions belowp 3000ft AGL.",
       "show actual wind flow patterns at different altitudes.",
       "show the forcast of weather expected at the surface.",
       "show the forcast of weather expected aloft at different altitudes."

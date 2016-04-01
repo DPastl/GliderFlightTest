@@ -18,7 +18,8 @@ database_file_enum = {
     'flight_theory': 'db_flight_theory.json',
     'instruments': 'db_instruments.json',
     'flight_operations': 'db_flight_operations.json',
-    'human_factors': 'db_human_factors.json'
+    'human_factors': 'db_human_factors.json',
+    'radio': 'db_radio.json'
 }
 
 
@@ -28,19 +29,19 @@ class DatabaseAccessor(object):
     question_list = list()
     allow_duplicates = False
 
-    def __init__(self, database_to_use='all', allow_duplicates=False):
+    def __init__(self, database_to_use=None, allow_duplicates=False):
         '''
         Pulls questions from the databases provided and places them into a
         list.  Also validates the databases before attempting to use them.
-        :param database_to_use: Database to use.  Can be either 'all' for
-        all databases or one of the keys in database_file_enum.
+        :param database_to_use: Database to use.  Can be either None for
+        all databases or a list of the keys in database_file_enum.
         :param allow_duplicates: True allows duplicates, False disallows them
         :return: Nothing
         '''
         import json
 
         self.allow_duplicates = allow_duplicates
-        if database_to_use == 'all':
+        if database_to_use is None:
             for database_name, database_file_name in database_file_enum.iteritems():
                 with open(database_root_dir + '/' + database_file_name, 'r') as f:
                     db_contents = json.load(f)
@@ -51,11 +52,18 @@ class DatabaseAccessor(object):
                     else:
                         print database_name
         else:
-            if database_to_use not in database_file_enum.keys():
-                raise Exception("Database name not in list!")
-            else:
-                with open(database_root_dir + '/' + database_file_enum[database_to_use], 'r') as f:
-                    self.database_list[database_to_use] = json.load(f)
+            for database_name in database_to_use:
+                if database_name not in database_file_enum.keys():
+                    raise Exception("Database name not in list!")
+                else:
+                    with open(database_root_dir + '/' + database_file_enum[database_name], 'r') as f:
+                        db_contents = json.load(f)
+                        valid = ValidateDatabase(db_contents)
+                        if valid.valid:
+                            for jsonquestion in db_contents:
+                                self.question_list.append(QuestionClass(jsonquestion))
+                        else:
+                            print database_name
 
     def get_num_questions(self):
         '''
@@ -84,6 +92,13 @@ class DatabaseAccessor(object):
                     newquestion.set_used()
                     return newquestion
         raise Exception("No Questions Remain In List")
+
+    def get_database_names(self):
+        """
+        Returns a list of database names that the test knows
+        :return:
+        """
+        return database_file_enum.keys()
 
 
 # This method validates the contents of a database file. Makes sure
