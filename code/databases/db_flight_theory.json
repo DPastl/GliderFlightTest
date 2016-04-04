@@ -1787,5 +1787,41 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "If an aeroplane stalls while descending in a co-ordinated left turn, it may enter",
+    "answers": [
+      "an incipient right spin.",
+      "an incipient left spin.",
+      "a steep right spiral.",
+      "a shallow left spiral."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Civil Aviation Sample Examination, Fourth Edition November 2008, Question 21"
+  },
+  {
+    "question": "The indicated stalling speed of an aeroplane",
+    "answers": [
+      "is higher when flying downwind than upwind.",
+      "increases with altitude.",
+      "decreases with altitude.",
+      "does not change with change of altitude."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Civil Aviation Sample Examination, Fourth Edition November 2008, Question 24"
+  },
+  {
+    "question": "During an approach to land on an upsloping runway, the pilot may experience the illusion that the aeroplane is . . . . . than it actually is.",
+    "answers": [
+      "higher",
+      "lower",
+      "closer in",
+      "approaching faster"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Civil Aviation Sample Examination, Fourth Edition November 2008, Question 38"
   }
 ]

@@ -2218,6 +2218,18 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "The Atmosphere Document"
+  },
+  {
+    "question": "The forecast surface wind will be included in a GFA if it has a sustained speed of at least",
+    "answers": [
+      "5 kt.",
+      "10 kt.",
+      "15 kt.",
+      "20 kt."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Ultralight Sample Examination, First Edition December 2005, Question 30"
   }
 
 ]

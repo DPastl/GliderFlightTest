@@ -1625,6 +1625,18 @@
     "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
   },
   {
+    "question": "A correction to a entry in a technical record may be performed, in addition to providing a date, signature, and reason for the correction, by",
+    "answers": [
+      "using corrective fluid (white-out) or similar products to erase the previous entry and insert the correct entry.",
+      "striking out the entry so it remains legible and insert the correct entry.",
+      "covering up the incorrect entry with black marker and inserting the correct entry.",
+      "writing a small note in a margin to indicate the correction."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
     "question": "No person shall conduct a take-off in a glider unless the journey log is on board the glider unless",
     "answers": [
       "it is not planned that the glider will land and shut down at any location other than the point of departure.",
@@ -1635,5 +1647,29 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "Canadian Aviation Regulations SOR/96-433 Feb 3, 2016"
+  },
+  {
+    "question": "Unless otherwise specified, a control zone is",
+    "answers": [
+      "the same as a control area.",
+      "controlled airspace around an aerodrome that extends vertically from the surface to 3,000 feet AGL.",
+      "always Class D airspace.",
+      "controlled airspace along airways above 2,200 feet ASL."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Civil Aviation Sample Examination, Fourth Edition November 2008, question 1"
+  },
+  {
+    "question": "When in VFR flight within the altimeter setting region, the altimeter should be set to",
+    "answers": [
+      "the current altimeter setting of the nearest station along the route of flight.",
+      "29.92 in. Hg. or 1013.2 mb.",
+      "the station pressure of the nearest weather reporting station.",
+      "the standard altimeter setting."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Civil Aviation Sample Examination, Fourth Edition November 2008, question 18"
   }
 ]
