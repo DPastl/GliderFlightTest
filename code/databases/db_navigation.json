@@ -74,10 +74,10 @@
   {
     "question": "In an airplane in straight and level flight, the magnetic compass will indicate a turn to the left when",
     "answers": [
-      "accelerating on a heading of 270˚",
-      "decelerating on a heading of 090˚",
-      "decelerating on a heading of 270˚",
-      "accelerating on a heading of 000˚"
+      "accelerating on a heading of 270 degrees",
+      "decelerating on a heading of 090 degrees",
+      "decelerating on a heading of 270 degrees",
+      "accelerating on a heading of 000 degrees"
     ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
@@ -110,10 +110,10 @@
   {
     "question": "Complete familiarity with the compass rose is essential to naviation.  Which of these statements is true?",
     "answers": [
-      "The reciprocal of 267˚ is 117˚.",
-      "The direction NE is 090˚",
-      "To turn right 90˚ from a heading of 145˚ would be a turn to 235˚.",
-      "The reciprocal of 115˚ is 225˚"
+      "The reciprocal of 267 degrees is 117 degrees.",
+      "The direction NE is 090 degrees",
+      "To turn right 90 degrees from a heading of 145 degrees would be a turn to 235 degrees.",
+      "The reciprocal of 115 degrees is 225 degrees"
     ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",

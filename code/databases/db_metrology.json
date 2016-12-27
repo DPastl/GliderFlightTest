@@ -216,7 +216,7 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "An aircraft is flying at 10,000 feet ASL on a track of 200˚.  In order to maintain this track, the pilot is holding a heading of 186˚.  An area of low pressure exists",
+    "question": "An aircraft is flying at 10,000 feet ASL on a track of 200 degrees.  In order to maintain this track, the pilot is holding a heading of 186 degrees.  An area of low pressure exists",
     "answers": [
       "to the right of track",
       "to the left of the track",
@@ -279,9 +279,9 @@
     "question": "When unsaturated air is forced to rise, the expansion of the rising air causes it to cool.  This cooling is called",
     "answers": [
       "the normal lapse rate and is 1.98° per 1000 feet",
-      "advection cooling and 2˚C per 1000 feet",
-      "radiation cooling and is 3˚C per 1000 feet",
-      "the dry lapse rate and is 3˚C per 1000 feet"
+      "advection cooling and 2 degreesC per 1000 feet",
+      "radiation cooling and is 3 degreesC per 1000 feet",
+      "the dry lapse rate and is 3 degreesC per 1000 feet"
     ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",

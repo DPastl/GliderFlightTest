@@ -594,7 +594,7 @@
       "When flying directly into them, following the plane that created them",
       "When flying directly into them, head-on to the plane that created them.",
       "When sitting on the taxiway.",
-      "When crossing the vortices at a 90˚ angle."
+      "When crossing the vortices at a 90 degrees angle."
     ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",

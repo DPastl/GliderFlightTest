@@ -653,7 +653,7 @@
       "between sunrise and sunset.",
       "commencing one hour before sunrise and ending one hour after sunset.",
       "commencing one half hour before sunrise and ending one half hour after sunset.",
-      "when the centre of the sun's disc is not more than 12˚ below the horizon when viewed from the surface."
+      "when the centre of the sun's disc is not more than 12 degrees below the horizon when viewed from the surface."
     ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
