@@ -40,6 +40,9 @@ class DatabaseAccessor(object):
         '''
         import json
 
+        self.database_list = {}
+        self.question_list = list()
+
         self.allow_duplicates = allow_duplicates
         if database_to_use is None:
             for database_name, database_file_name in database_file_enum.iteritems():
