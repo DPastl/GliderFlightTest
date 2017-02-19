@@ -1716,18 +1716,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "A large depression is centred over the north of Scotland. What will be the wind direction over central & southern England?",
-    "answers": [
-      "From the North.",
-      "From the East.",
-      "From the South.",
-      "From the West"
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "Three conditions are necessary for a thunderstorm to develop. If deep instability is forecast with a high moisture content, what is the third condition required?",
     "answers": [
       "Light winds and little cloud shadow.",
@@ -2120,30 +2108,6 @@
       "Astro Chart."
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What name is given to an airmass that originated from Greenland?",
-    "answers": [
-      "Polar Continental.",
-      "Tropical Maritime.",
-      "Tropical Continental.",
-      "Polar Maritime."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What name is given to an airmass that originated from Africa?",
-    "answers": [
-      "Polar Continental.",
-      "Polar Maritime.",
-      "Tropical Maritime.",
-      "Tropical Continental."
-    ],
-    "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },

@@ -5,6 +5,7 @@ of the question database
 """
 
 from pylatex import Document, Section, Enumerate
+from pylatex.utils import bold
 from database_accessor import DatabaseAccessor, database_file_enum
 
 def fill_document_from_database(doc, database):
@@ -19,8 +20,12 @@ def fill_document_from_database(doc, database):
         for question in db.question_list:
             qenum.add_item(question.get_question_text().decode('utf-8'))
             with doc.create(Enumerate()) as enum:
-                for answer in question.get_list_of_answers():
-                    enum.add_item(answer.decode('utf-8'))
+                alist = question.get_list_of_answers()
+                for i in range(len(alist)):
+                    if i == (question.get_correct_answer() -1):
+                        enum.add_item(bold(alist[i].decode('utf-8')))
+                    else:
+                        enum.add_item(alist[i].decode('utf-8'))
 
 if __name__ == '__main__':
     doc = Document('database_questions')

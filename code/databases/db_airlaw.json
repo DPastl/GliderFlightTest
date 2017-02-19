@@ -444,18 +444,6 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "A flight plan must be filed for all VFR flights",
-    "answers": [
-      "along designated airways.",
-      "at night.",
-      "above 3,000 feet AGL.",
-      "to or from military aerodrome."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
     "question": "When a VFR flight plan has been filed with the appropriate ATC unit, the pilot-in-command shall report his arrival within",
     "answers": [
       "30 minutes after landing.",
@@ -528,126 +516,6 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "Special VFR may be authorized by the approprate ATC unit to an airplane with a functioning two-way radio when flight and ground visibility are not less than",
-    "answers": [
-      "5 miles.",
-      "2 miles.",
-      "1/2 miles.",
-      "1 mile."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "An aircraft flying in accordance with Special VFR would be flying within a",
-    "answers": [
-      "control zone.",
-      "aerodrome traffic zone.",
-      "terminal control area.",
-      "the speed limit area."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "The minimum content of an initial radio call-up to Winnipeg tower by the pilot of C-GULT is \"Winnipeg Tower, This is Piper Warrior\"",
-    "answers": [
-      "Golf, Uniform, Lima, tango. Over.",
-      "Lima, Tango. Requesting Landing Information. Over.",
-      "Uniform, Lima, Tango. Over.",
-      "Charlie, Golf, Uniform, Lima, tango. Over."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "In subsequent transmissions, if initiated by ATC, the following may be ommited:",
-    "answers": [
-      "the first two letters of the registration.",
-      "the first three letters of the registration.",
-      "the phonetic equivalents.",
-      "the whole registration."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "The prefix of a call to the London flight sierve station should be",
-    "answers": [
-      "London Radio, this is.",
-      "London Flight Service Station, this is.",
-      "London Advisory, this is.",
-      "London Centre, this is."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "A radio-equipped aircraft has been cleared to land at a controlled airport. The pilot should acknowledge the clearance by",
-    "answers": [
-      "clicking the microphone button.",
-      "transmitting the appropriate aircraft call sign.",
-      "replying \"Roger\".",
-      "replying \"Wilco\"."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "Pilots flying VFR in uncontrolled airpsace should monitor",
-    "answers": [
-      "121.5 MHz.",
-      "126.7 MHz.",
-      "122.2 MHz.",
-      "123.2 MHz."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "The emergency VFR frequency is",
-    "answers": [
-      "122.1 MHz.",
-      "118.3 MHz.",
-      "121.5 MHz.",
-      "5280 MHz."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "An airplane has an critical problem while flying over a remote area.  What radiotelephony call-up signal would the pilot transmit three times?",
-    "answers": [
-      "Mayday.",
-      "Pan Pan.",
-      "Urgent.",
-      "S.O.S."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "Which of the following is not a VOR frequency?",
-    "answers": [
-      "115.2 MHz.",
-      "113.4 MHz.",
-      "126.7 MHz.",
-      "117.5 MHz."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
     "question": "\"Daylight\" in Canada, at any place where the sun rises and sets daily, is defined as that period of time",
     "answers": [
       "between sunrise and sunset.",
@@ -656,90 +524,6 @@
       "when the centre of the sun's disc is not more than 12 degrees below the horizon when viewed from the surface."
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "An islated thunderstorm is in close proximity to an aerodrome.  A pilot wishing to land should",
-    "answers": [
-      "not be concerned about wind shear on final approach because the thunderstorm is off to the west and not over the approach path.",
-      "hold over a known point clear of the thunderstorm until it is well past the aerodrome.",
-      "land as quickly as possible to be on the ground before the thunderstorm reaches the aerodrome.",
-      "add one half the wind gust factor to the recommended landing speed."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "One alcoholic drink taken at 5,000  feet as compared to the same drink taken at sea level.",
-    "answers": [
-      "has a lesser effect.",
-      "has a greater effect.",
-      "has no appreciable difference in effect.",
-      "increases the chance of coriolis effect."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "Which of the following statements pertaining to the use of alcohol is true?",
-    "answers": [
-      "Relatively small amounts of alcohol significantly decrease a pilot's tolerance of hypoxia.",
-      "Small amounts of alcohol will not affect a pilot's judgement.",
-      "The effects of alcohol are constant regardless of altitude.",
-      "Coffee accelerates the body's ability to recover from the effects of alcohol."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "Select the statement that best describes the effects of fatigue.",
-    "answers": [
-      "Financial or family problems do not influence fatigue.",
-      "Fatigue slows reaction time and contributes to errors.",
-      "a fatigued person recuperates more quickly as the altitude is gained.",
-      "A fatigued person must have food immediately before and during a flight."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "After any underwater activity where compresed air is used for respiration and decompression stops are required during the ascent to the surface, it is recommended that within 24 hours following such activity a pilot should",
-    "answers": [
-      "not fly.",
-      "restrict flight to altitudes of less than 7,000 feet.",
-      "restrict rates of climb and descent to less than 300 feet per minute.",
-      "restrict flight to passenger status only."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "Many common drugs such as cold tablets, cough mixtures, antihistamines and other over the counter remedies may serisouly impair the judgement and coco-ordination needed while flying.  The safest rule is to",
-    "answers": [
-      "read the manufacturer's warning to ensure that you are aware of possible reactions to such drugs.",
-      "allow at least 8 hours between taking any medicine or drug and flying.",
-      "allow at least 48 hours after commencing medication.",
-      "restrict flight to passenger status only."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011"
-  },
-  {
-    "question": "A condition in which there is a lowering of the temperature of the body's core is called",
-    "answers": [
-      "hyperventilation.",
-      "hypoglycaemia.",
-      "coriolis effect.",
-      "hypothermia."
-    ],
-    "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "From the ground up, 2011"
   },
@@ -816,36 +600,12 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "Under what circumstances is a weak link not required in the winch / auto tow cable?",
-    "answers": [
-      "The launch is a hill top site where the conditions are likely to be rough and break the weak link on a regular basis.",
-      "The proven breaking strain of the launch cable is lower than that of the weak link strength required by the glider manufacturer.",
-      "The tow car is of low power.",
-      "The glider is a heavy two seater with a history of breaking weak links."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What are your actions if you suspect any defect or damage to a glider?",
     "answers": [
       "Report it to the duty pilot before the next flight.",
       "Report it to the duty instructor before the next flight.",
       "Note the defect or damage in the DI book before the next flight.",
       "Ground the glider until an inspector can check for defects or damage."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "When aerotowing, the tug rocks its wings laterally. What does this mean?",
-    "answers": [
-      "Release, you’re at 2000 ft.",
-      "Release immediately.",
-      "Your air brakes are open.",
-      "The tug can’t release."
     ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
@@ -872,18 +632,6 @@
       "The aircraft which has the other on its right shall give way."
     ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Who has command of a tug / glider combination?",
-    "answers": [
-      "The tug pilot.",
-      "The glider pilot.",
-      "Neither, as there must be a captain of each aircraft.",
-      "The most senior of the two pilots."
-    ],
-    "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -972,18 +720,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "Which of the following is not recommended for flight?",
-    "answers": [
-      "Rain on the wings when the air temperature is close to freezing.",
-      "Frost on the wings.",
-      "Snow on the wings.",
-      "All of the above."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Restricted area. What does this mean with regards to a glider in flight?",
     "answers": [
       "There is little relevance as the restrictions can not be complied with by a glider.",
@@ -996,18 +732,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "When landing close behind other aircraft, and in particular power aircraft, what should be your actions?",
-    "answers": [
-      "Over fly them and land long.",
-      "Land clear to their left.",
-      "You can land on either side.",
-      "Land clear to their right."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "Whilst approaching an airfield you notice a red flare fired from the control tower. What should your actions be?",
     "answers": [
       "Keep a good look out as there must be another aircraft near by.",
@@ -1016,30 +740,6 @@
       "Continue with the circuit and watch for further instructions."
     ],
     "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What are the signal requirements from a glider pilot who is unable to release from the aerotow?",
-    "answers": [
-      "Fly out to the left and rock his wings.",
-      "Fly out to the right and rock his wings.",
-      "Try to break the rope.",
-      "Call on the radio and inform the tug pilot of the problem."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What is the tug pilot signalling when you see the rudder waggling whilst on tow?",
-    "answers": [
-      "Check your air brakes are not open or drag chute deployed and close or jettison as necessary.",
-      "You are to release immediately.",
-      "Wait until the tug tows you overhead the airfield and releases his end of the rope.",
-      "Expect the tug to slow down and continue at a slower speed."
-    ],
-    "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1116,30 +816,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "You are joining below a glider in a thermal. What are your actions?",
-    "answers": [
-      "Leave the thermal and find another.",
-      "Turn either direction as long as there is sufficient separation.",
-      "Turn in the same direction.",
-      "Remain at a safe distance below the other glider."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Whilst planning a cross country flight you notice by reference to Notams that a purple airway has been established along your intended route during the period 1300 to 1500 Hrs. What should your actions be?",
-    "answers": [
-      "Continue as planned as it only applies to powered aircraft.",
-      "Change your route to remain clear of the airway during the notified period.",
-      "Continue as planned and cross the airway in VMC conditions at right angles.",
-      "Cross the airway as low as possible to avoid conflict with the royal aircraft."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "An area on a 1:500,000 scale ICAO chart is annotated as being a Danger area. What does this mean with regards to a glider in flight?",
     "answers": [
       "Flight within the published dimensions is restricted to periods where no dangerous activities are taking place.",
@@ -1164,7 +840,7 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "All BGA gliders must carry their approved identification markings. What are the requirements?",
+    "question": "All Canadian gliders must carry their approved identification markings. What are the requirements?",
     "answers": [
       "Displayed on the under side of the starboard wing.",
       "Displayed on the fin and rudder and on the under side of the port wing.",
@@ -1173,7 +849,7 @@
     ],
     "correctAnswerIndex": 2,
     "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser, modified to match Canadian Law"
   },
   {
     "question": "What is the minimum equipment required in a glider used for aerobatic flying?",
@@ -1671,5 +1347,89 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "Civil Aviation Sample Examination, Fourth Edition November 2008, question 18"
+  },
+  {
+    "question": "Having consumed a small amount of alcohol, how long should you wait before flying?",
+    "answers": [
+      "4 Hrs.",
+      "6 Hrs.",
+      "8 Hrs.",
+      "10 Hrs."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is correct when 2 aircraft are on a converging course?",
+    "answers": [
+      "The aircraft which has the other on its right has the right of way.",
+      "The aircraft at the lower altitude has the right of way.",
+      "The aircraft which has the other on its right shall give way.",
+      "The slower aircraft must give way."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The maximum height a pilot may operate an aircraft for extended periods without oxygen is",
+    "answers": [
+      "10,000 feet.",
+      "9,000 feet.",
+      "13,000 feet.",
+      "11,500 feet."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 310"
+  },
+  {
+    "question": "A pilot may operate an aircraft without oxygen",
+    "answers": [
+      "at any altitude provided they are althletically fit.",
+      "at no more than 12,000 feet.",
+      "between 10,000 feet and 13,000 feet for no more than 1 hour",
+      "between 10,000 feet and 13,000 feet for no more than 30 minutes."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 310"
+  },
+  {
+    "question": "A pilot is required to allow at least _ hours between the consumption of alcohol and piloting an airplane",
+    "answers": [
+      "6",
+      "10",
+      "8",
+      "24"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 317"
+  },
+  {
+    "question": "Pilots may continue to fly while pregnant up to",
+    "answers": [
+      "1 week before the due date.",
+      "32 weeks into the pregnancy.",
+      "never.",
+      "30 weeks into the pregnancy."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011, page 318"
+  },
+  {
+    "question": "What are the legal requirements required to fly a glider cross country?",
+    "answers": [
+      "You carry a current edition 1:250 000 scale map.",
+      "The glider has a serviceable radio.",
+      "The glider has a serviceable navigational aid.",
+      "You carry map(s) clearly marked with controlled and regulated airspace."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   }
 ]

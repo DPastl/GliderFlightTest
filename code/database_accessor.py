@@ -18,8 +18,7 @@ database_file_enum = {
     'flight_theory': 'db_flight_theory.json',
     'instruments': 'db_instruments.json',
     'flight_operations': 'db_flight_operations.json',
-    'human_factors': 'db_human_factors.json',
-    'radio': 'db_radio.json'
+    'human_factors': 'db_human_factors.json'
 }
 
 

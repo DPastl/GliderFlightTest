@@ -70,5 +70,485 @@
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "What are the requirements for a glider pilot to transmit in the aeronautical VHF band?",
+    "answers": [
+      "A radio operators licence is required if any frequencies other than BGA gliding frequencies are available on the radio.",
+      "No radio operators licence required regardless of frequency used.",
+      "No radio operators licence required regardless of frequency used, so long as the set complies with the CAA regulations.",
+      "A radio operators licence is required regardless of frequency used."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the purpose of a ‘blind transmission’?",
+    "answers": [
+      "To pass information to a station you believe can hear you although you cannot hear them.",
+      "To pass information when flying ‘blind’ in cloud.",
+      "To pass information on a frequency in the hope that the intended recipient will get the message.",
+      "To pass information when no reply is required."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is correct for a gliders initial transmission to a ground station? (Glider call sign = Alpha Charlie Zulu. Ground station = Bicester base)",
+    "answers": [
+      "Alpha Charlie Zulu to Bicester base.",
+      "Bicester base this is Alpha Charlie Zulu.",
+      "Bicester this is Charlie Zulu.",
+      "Alpha Charlie Zulu calling Bicester."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following call signs does not comply with the ICAO phonetic alphabet?",
+    "answers": [
+      "Bravo..... Delta.....Foxtrot.",
+      "Echo.....Golf.....Papa.",
+      "Oscar.....Quebec.....Sugar.",
+      "Romeo.....Tango.....Victor."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What should your actions be on hearing a distress or urgency transmission intended for a ground station?",
+    "answers": [
+      "Maintain radio silence.",
+      "Maintain radio silence, but note all the details in case you should have to relay the message.",
+      "Leave the frequency immediately.",
+      "Continue with normal transmissions."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following call signs complies with the ICAO phonetic alphabet?",
+    "answers": [
+      "Alpha.....Charlie.....Hotel.",
+      "Indigo.....Kilo.....Juliet.",
+      "Foxtrot.....Mark.....November.",
+      "Delta.....Noddy.....Uniform."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You have made contact with a ground station to pass the details of a distress message. Which of the following should you transmit?",
+    "answers": [
+      "Your call sign and nature of the emergency.",
+      "Your intentions.",
+      "Your position, heading and altitude.",
+      "All of the above."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A station you are calling complains of poor reception. What should your actions be?",
+    "answers": [
+      "Keep trying until they get your message.",
+      "Wait and try again when lower down.",
+      "Wait and try again when higher up.",
+      "Shout into the microphone."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is a true characteristic of aeronautical VHF radio?",
+    "answers": [
+      "Range to the ground station increases with aircraft height.",
+      "Volume increases with range.",
+      "Volume must be increased when transmitting over greater distances.",
+      "Multiple transmissions on the same frequency may be heard simultaneously."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "While flying you note that the previously busy gliding frequency you have been monitoring is completely silent. What should your actions be?",
+    "answers": [
+      "Enjoy the peace and quiet.",
+      "Check that your transmit button is not jammed in the transmit position.",
+      "Conclude that you are out of range of other gliders.",
+      "Presume that everyone is busy due to the deteriorating weather."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the importance of indicated airspeed (IAS) and true airspeed (TAS), when flying at altitude?",
+    "answers": [
+      "IAS is always less than TAS and the ASI under reads the true airspeed.",
+      "TAS is always less than IAS and the ASI under reads the true airspeed.",
+      "IAS is always less than TAS and the ASI over reads the true airspeed.",
+      "TAS is always less than IAS and the ASI over reads the true airspeed."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the Barometric Pressure Scale enable the pilot to achieve?",
+    "answers": [
+      "To reset the altimeter datum.",
+      "To reset the ASI datum.",
+      "To move the needles on the ASI.",
+      "To reset the electric vario."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Why is the capacity flask insulated?",
+    "answers": [
+      "To prevent temperature changes affecting the variometer readings.",
+      "To prevent temperature changes affecting the ASI readings.",
+      "To prevent temperature changes affecting the altimeter readings.",
+      "To allow for acceleration errors in the compass."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The airspeed indicator has a yellow band. What does the start of the yellow band indicate?",
+    "answers": [
+      "The maximum manoeuvring speed, above which inputs of more than ½ control deflection of any one control must not be used.",
+      "The maximum manoeuvring speed, above which inputs of more than 1/3 control deflection of any one control must not be used.",
+      "The minimum speed to use full control deflections.",
+      "The minimum approach speed in strong winds."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "From which source does the Variometer takes static pressure in order to compensate for changes in airspeed?",
+    "answers": [
+      "The Irving tube.",
+      "The Pitot head.",
+      "Static Vents.",
+      "The Brunswick tube."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "When a glider is on the ground, what is the pressure in the capacity flask equal to?",
+    "answers": [
+      "Zero.",
+      "Static pressure.",
+      "Static and dynamic pressure.",
+      "Dynamic pressure."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In the Northern Hemisphere, when will a magnetic compass change its reading without the aircraft changing its heading?",
+    "answers": [
+      "The aircraft is flying North or South and changes direction.",
+      "The aircraft is flying East or West and is yawed.",
+      "The aircraft is heading North or South and accelerates or decelerates.",
+      "The aircraft is heading East or West and accelerates or decelerates."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "In the Northern Hemisphere, if the aircraft is in a constant rate turn, when will the greatest effect on the magnetic compass be seen?",
+    "answers": [
+      "East / West headings.",
+      "North / South headings.",
+      "All headings as there is no effect.",
+      "All headings as there is a constant effect."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which method of reducing dip error in the magnetic compass is the correct one?",
+    "answers": [
+      "Increase the strength of the magnets.",
+      "Reduce the strength of the magnets.",
+      "Suspend the magnets below the needle.",
+      "Suspend the needle below the magnets."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following is correct when turning onto north in the northern hemisphere?",
+    "answers": [
+      "Roll out of the turn about 25° - 30° before the compass reads north.",
+      "Roll out of the turn about 25° - 30° after the compass reads north.",
+      "Roll out of the turn when the compass reads north.",
+      "Roll out or the turn about 45° - 50° after the compass reads north."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "If the battery source powering the turn indicator becomes discharged and the rotor speed is reduced, what will be the effect on the indicator readings?",
+    "answers": [
+      "A lower angle of bank is indicated than the aircraft is flying.",
+      "A higher rate of turn will be indicated on the instrument than is actually achieved.",
+      "A lower rate of turn will be indicated on the instrument than is actually achieved.",
+      "It is difficult for the pilot to see any effect."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the principle of the gyroscope in the turn indicator?",
+    "answers": [
+      "If a turning force is applied to the gyro, the resultant movement will be 90° from the initial force and in the direction of rotation.",
+      "If a turning force is applied to the gyro, the resultant movement will be 180° from the initial force and in the direction of rotation.",
+      "If a turning force is applied to the gyro, the resultant movement will be 90° from the initial force and in the opposite direction of rotation.",
+      "If a turning force is applied to the gyro, the resultant movement will be 180° from the initial force and in the opposite direction of rotation."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What will be the effect on an altimeter, when flying from a high pressure region to a low pressure region?",
+    "answers": [
+      "There will be no effect.",
+      "The altimeter will under read the true height, if left on the original pressure setting.",
+      "The altimeter will over read the true height, if left on the original pressure setting.",
+      "The effect cannot be determined unless the pressure setting is corrected."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Ice forms over the pitot head during a wave flight. What indications will there be that this has occurred?",
+    "answers": [
+      "The indicated airspeed will remain constant as the pressure in the pitot can no longer change.",
+      "The indicated airspeed will rapidly reduce to zero.",
+      "The indicated airspeed will remain constant but fluctuate slightly as the static vents are still unblocked.",
+      "The indicated airspeed will slowly reduce to zero."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Since pressure decreases with height, what is the effect on glider instruments above 10,000 feet?",
+    "answers": [
+      "Little or no effect on the altimeter, however, the airspeed indicator will under read the true airspeed.",
+      "Little or no effect on the altimeter, however, the airspeed indicator will over read the true airspeed.",
+      "The altimeter will grossly over read, and the airspeed indicator will under read the true airspeed.",
+      "The altimeter will grossly over read, and the airspeed indicator will over read the true airspeed."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The static source of the ASI is blocked during descent. What will the instrument read?",
+    "answers": [
+      "Over read.",
+      "Under read.",
+      "Read normally.",
+      "Fail to operate."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The ASI is colour coded on most gliders. What does the yellow arc represent?",
+    "answers": [
+      "Maximum Manoeuvring speed to VNE.",
+      "Minimum Manoeuvring speed to Stalling speed.",
+      "Stalling speed to Maximum Manoeuvring speed.",
+      "Minimum Manoeuvring speed to VNE."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The Pitot source is blocked on the Altimeter. What will the instrument read?",
+    "answers": [
+      "Over read.",
+      "Under read.",
+      "Read normally.",
+      "Fail to operate."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the variometer measure?",
+    "answers": [
+      "Rising air currents.",
+      "Rate of change of pressure.",
+      "Lift.",
+      "Height change."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What does the Barometric Pressure Scale enable the pilot to do?",
+    "answers": [
+      "To reset the altimeter datum.",
+      "To reset the ASI datum.",
+      "To move the needles on the ASI.",
+      "To reset the electric vario."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The radio phrase, OVER, means",
+    "answers": [
+      "my transmission is ended and I do not expect a reply.",
+      "I will repeat.",
+      "my transmission has ended and I expect a reply.",
+      "okay, I have received your message."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The minimum content of an initial radio call-up to Winnipeg tower by the pilot of C-GULT is \"Winnipeg Tower, This is Piper Warrior\"",
+    "answers": [
+      "Golf, Uniform, Lima, tango. Over.",
+      "Lima, Tango. Requesting Landing Information. Over.",
+      "Uniform, Lima, Tango. Over.",
+      "Charlie, Golf, Uniform, Lima, tango. Over."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In subsequent transmissions, if initiated by ATC, the following may be ommited:",
+    "answers": [
+      "the first two letters of the registration.",
+      "the first three letters of the registration.",
+      "the phonetic equivalents.",
+      "the whole registration."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A radio-equipped aircraft has been cleared to land at a controlled airport. The pilot should acknowledge the clearance by",
+    "answers": [
+      "clicking the microphone button.",
+      "transmitting the appropriate aircraft call sign.",
+      "replying \"Roger\".",
+      "replying \"Wilco\"."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Pilots flying VFR in uncontrolled airpsace should monitor",
+    "answers": [
+      "121.5 MHz.",
+      "126.7 MHz.",
+      "122.2 MHz.",
+      "123.2 MHz."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "The emergency VFR frequency is",
+    "answers": [
+      "122.1 MHz.",
+      "118.3 MHz.",
+      "121.5 MHz.",
+      "5280 MHz."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "An airplane has an critical problem while flying over a remote area.  What radiotelephony call-up signal would the pilot transmit three times?",
+    "answers": [
+      "Mayday.",
+      "Pan Pan.",
+      "Urgent.",
+      "S.O.S."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Which of the following is not a VOR frequency?",
+    "answers": [
+      "115.2 MHz.",
+      "113.4 MHz.",
+      "126.7 MHz.",
+      "117.5 MHz."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "In radio communications the signal which means that grave and imminent danger threaten and immediate assistance is required is the spoken phrase",
+    "answers": [
+      "SECURITE, SECURITE.",
+      "MAYDAY, MAYDAY, MAYDAY.",
+      "PAN PAN, PAN PAN, PAN PAN.",
+      "ALERT, ALERT."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
+  },
+  {
+    "question": "When is the magnetic compass most reliable for gliding?",
+    "answers": [
+      "On an east or west heading.",
+      "On a north or south heading.",
+      "Flying straight and level at a constant speed.",
+      "Stationary at the equator."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   }
 ]

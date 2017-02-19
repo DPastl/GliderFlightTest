@@ -1,17 +1,5 @@
 [
   {
-    "question": "In radio communications the signal which means that grave and imminent danger threaten and immediate assistance is required is the spoken phrase",
-    "answers": [
-      "SECURITE, SECURITE.",
-      "MAYDAY, MAYDAY, MAYDAY.",
-      "PAN PAN, PAN PAN, PAN PAN.",
-      "ALERT, ALERT."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-  },
-  {
     "question": "A straight line drawn between any two points on a navigation chart closely approximates a",
     "answers": [
       "great circle.",
@@ -372,18 +360,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "When is the magnetic compass most reliable for gliding?",
-    "answers": [
-      "On an east or west heading.",
-      "On a north or south heading.",
-      "Flying straight and level at a constant speed.",
-      "Stationary at the equator."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "The time is 1600 hrs UTC. You are on the second leg of a 300 kilometre triangle and the track for the leg is 275 degrees. Where should the sun be?",
     "answers": [
       "Behind.",
@@ -476,18 +452,6 @@
       "Gliders are prohibited from thermaling in this area."
     ],
     "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What are the legal requirements required to fly a glider cross country?",
-    "answers": [
-      "You carry a current edition 1:250 000 scale map.",
-      "The glider has a serviceable radio.",
-      "The glider has a serviceable navigational aid.",
-      "You carry map(s) clearly marked with controlled and regulated airspace."
-    ],
-    "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -624,7 +588,7 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "While on a task in the UK you notice the compass appears to be a bit erratic. The time is 1300 UTC and the desired track is 090 degrees. Where should the sun be?",
+    "question": "While on a task you notice the compass appears to be a bit erratic. The time is 1300 UTC and the desired track is 090 degrees. Where should the sun be?",
     "answers": [
       "Ahead.",
       "On the right.",

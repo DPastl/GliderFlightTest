@@ -336,18 +336,6 @@
     "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
   },
   {
-    "question": "While on tow a glider pilot is unable to release the tow rope. The signal to indicate this condition to the tow pilot is to",
-    "answers": [
-      "yaw the glider to the right and left in a series of skidding turns.",
-      "commence a series of 'S' turns at normal tow position.",
-      "porpoise rapidly between high and low tow positions.",
-      "fly to the left of the tug and rock the glider's wings."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "TP 877E, TC Sample Exam, 10th Edition, August 2006"
-  },
-  {
     "question": "As the angle of attack of an airfoil is increased up to the point of stall, the centre of pressure will move",
     "answers": [
       "back.",
@@ -901,18 +889,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What is the importance of indicated airspeed (IAS) and true airspeed (TAS), when flying at altitude?",
-    "answers": [
-      "IAS is always less than TAS and the ASI under reads the true airspeed.",
-      "TAS is always less than IAS and the ASI under reads the true airspeed.",
-      "IAS is always less than TAS and the ASI over reads the true airspeed.",
-      "TAS is always less than IAS and the ASI over reads the true airspeed."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "If the 1 ‘g’ stalling speed is 34 knots, what will be the stalling speed in a steep turn with the accelerometer reading 4 ‘g’?",
     "answers": [
       "34 knots.",
@@ -1081,30 +1057,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What does the Barometric Pressure Scale enable the pilot to achieve?",
-    "answers": [
-      "To reset the altimeter datum.",
-      "To reset the ASI datum.",
-      "To move the needles on the ASI.",
-      "To reset the electric vario."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Why is the capacity flask insulated?",
-    "answers": [
-      "To prevent temperature changes affecting the variometer readings.",
-      "To prevent temperature changes affecting the ASI readings.",
-      "To prevent temperature changes affecting the altimeter readings.",
-      "To allow for acceleration errors in the compass."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "In order to reduce the likelihood of wing tip stalling, a wing can be designed incorporating wash out. What does this involve?",
     "answers": [
       "The use of Frise ailerons.",
@@ -1147,18 +1099,6 @@
       "Total drag reduces towards best L/D then increases again.",
       "Total drag remains constant.",
       "Total drag reduces inversely as the square of the IAS."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "The airspeed indicator has a yellow band. What does the start of the yellow band indicate?",
-    "answers": [
-      "The maximum manoeuvring speed, above which inputs of more than ½ control deflection of any one control must not be used.",
-      "The maximum manoeuvring speed, above which inputs of more than 1/3 control deflection of any one control must not be used.",
-      "The minimum speed to use full control deflections.",
-      "The minimum approach speed in strong winds."
     ],
     "correctAnswerIndex": 1,
     "correctAnswerText": "Correct!",
@@ -1477,18 +1417,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "From which source does the Variometer takes static pressure in order to compensate for changes in airspeed?",
-    "answers": [
-      "The Irving tube.",
-      "The Pitot head.",
-      "Static Vents.",
-      "The Brunswick tube."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "What causes induced drag?",
     "answers": [
       "Wing tip vortices.",
@@ -1545,90 +1473,6 @@
       "Lift increases and drag increases."
     ],
     "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "When a glider is on the ground, what is the pressure in the capacity flask equal to?",
-    "answers": [
-      "Zero.",
-      "Static pressure.",
-      "Static and dynamic pressure.",
-      "Dynamic pressure."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "In the Northern Hemisphere, when will a magnetic compass change its reading without the aircraft changing its heading?",
-    "answers": [
-      "The aircraft is flying North or South and changes direction.",
-      "The aircraft is flying East or West and is yawed.",
-      "The aircraft is heading North or South and accelerates or decelerates.",
-      "The aircraft is heading East or West and accelerates or decelerates."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "In the Northern Hemisphere, if the aircraft is in a constant rate turn, when will the greatest effect on the magnetic compass be seen?",
-    "answers": [
-      "East / West headings.",
-      "North / South headings.",
-      "All headings as there is no effect.",
-      "All headings as there is a constant effect."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Which method of reducing dip error in the magnetic compass is the correct one?",
-    "answers": [
-      "Increase the strength of the magnets.",
-      "Reduce the strength of the magnets.",
-      "Suspend the magnets below the needle.",
-      "Suspend the needle below the magnets."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Which of the following is correct when turning onto north in the northern hemisphere?",
-    "answers": [
-      "Roll out of the turn about 25° - 30° before the compass reads north.",
-      "Roll out of the turn about 25° - 30° after the compass reads north.",
-      "Roll out of the turn when the compass reads north.",
-      "Roll out or the turn about 45° - 50° after the compass reads north."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "If the battery source powering the turn indicator becomes discharged and the rotor speed is reduced, what will be the effect on the indicator readings?",
-    "answers": [
-      "A lower angle of bank is indicated than the aircraft is flying.",
-      "A higher rate of turn will be indicated on the instrument than is actually achieved.",
-      "A lower rate of turn will be indicated on the instrument than is actually achieved.",
-      "It is difficult for the pilot to see any effect."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What is the principle of the gyroscope in the turn indicator?",
-    "answers": [
-      "If a turning force is applied to the gyro, the resultant movement will be 90° from the initial force and in the direction of rotation.",
-      "If a turning force is applied to the gyro, the resultant movement will be 180° from the initial force and in the direction of rotation.",
-      "If a turning force is applied to the gyro, the resultant movement will be 90° from the initial force and in the opposite direction of rotation.",
-      "If a turning force is applied to the gyro, the resultant movement will be 180° from the initial force and in the opposite direction of rotation."
-    ],
-    "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
@@ -1693,102 +1537,6 @@
     "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
   },
   {
-    "question": "What will be the effect on an altimeter, when flying from a high pressure region to a low pressure region?",
-    "answers": [
-      "There will be no effect.",
-      "The altimeter will under read the true height, if left on the original pressure setting.",
-      "The altimeter will over read the true height, if left on the original pressure setting.",
-      "The effect cannot be determined unless the pressure setting is corrected."
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Ice forms over the pitot head during a wave flight. What indications will there be that this has occurred?",
-    "answers": [
-      "The indicated airspeed will remain constant as the pressure in the pitot can no longer change.",
-      "The indicated airspeed will rapidly reduce to zero.",
-      "The indicated airspeed will remain constant but fluctuate slightly as the static vents are still unblocked.",
-      "The indicated airspeed will slowly reduce to zero."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "Since pressure decreases with height, what is the effect on glider instruments above 10,000 feet?",
-    "answers": [
-      "Little or no effect on the altimeter, however, the airspeed indicator will under read the true airspeed.",
-      "Little or no effect on the altimeter, however, the airspeed indicator will over read the true airspeed.",
-      "The altimeter will grossly over read, and the airspeed indicator will under read the true airspeed.",
-      "The altimeter will grossly over read, and the airspeed indicator will over read the true airspeed."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "The static source of the ASI is blocked during descent. What will the instrument read?",
-    "answers": [
-      "Over read.",
-      "Under read.",
-      "Read normally.",
-      "Fail to operate."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "The ASI is colour coded on most gliders. What does the yellow arc represent?",
-    "answers": [
-      "Maximum Manoeuvring speed to VNE.",
-      "Minimum Manoeuvring speed to Stalling speed.",
-      "Stalling speed to Maximum Manoeuvring speed.",
-      "Minimum Manoeuvring speed to VNE."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "The Pitot source is blocked on the Altimeter. What will the instrument read?",
-    "answers": [
-      "Over read.",
-      "Under read.",
-      "Read normally.",
-      "Fail to operate."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What does the variometer measure?",
-    "answers": [
-      "Rising air currents.",
-      "Rate of change of pressure.",
-      "Lift.",
-      "Height change."
-    ],
-    "correctAnswerIndex": 1,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
-    "question": "What does the Barometric Pressure Scale enable the pilot to do?",
-    "answers": [
-      "To reset the altimeter datum.",
-      "To reset the ASI datum.",
-      "To move the needles on the ASI.",
-      "To reset the electric vario."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
-  },
-  {
     "question": "If an aeroplane stalls while descending in a co-ordinated left turn, it may enter",
     "answers": [
       "an incipient right spin.",
@@ -1823,5 +1571,293 @@
     "correctAnswerIndex": 0,
     "correctAnswerText": "Correct!",
     "questionSource": "Civil Aviation Sample Examination, Fourth Edition November 2008, Question 38"
+  },
+  {
+    "question": "The main members in a wing which run the length of the wing from wing root to wingtip and carry most of the load are called",
+    "answers": [
+      "ribs.",
+      "longerons.",
+      "stringers.",
+      "spars."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The complete tail section of an airplane is called the",
+    "answers": [
+      "empennage.",
+      "stabilator.",
+      "canard.",
+      "elevators."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Spoilers are devices fitted to the wing which increase/decrease",
+    "answers": [
+      "drag/lift.",
+      "lift/drag.",
+      "weight/lift.",
+      "speed/drag."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Movement of the aircraft around the vertical or normal axis is called ________ and is controlled by movement of the _________.",
+    "answers": [
+      "roll, rudder",
+      "yaw, rudder",
+      "pitch, elevators",
+      "yaw, ailerons"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "When gliding into a fairly strong head wind, greater distance may be covered over the ground if the speed is kept _________ the best lift/drag ratio speed.",
+    "answers": [
+      "slightly slower than",
+      "much slower than",
+      "slightly faster than",
+      "at"
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In some ways a spiral dive resembles a spin. However, in a spin the airspeed is ___________ and in a spiral dive the airspeed _________.",
+    "answers": [
+      "constant and low, increases rapidly",
+      "increases rapidly, is constant and low",
+      "constant and low, remains the same",
+      "increasing, decreases"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "In straight and level flight an aircraft has a load factor of 1, or 1G. A 60 degree bank turn produces a load factor of",
+    "answers": [
+      "2.",
+      "1.5.",
+      "3.86.",
+      "1.04."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The tendency of an aircraft in flight to remain in straight, level, upright flight and return to this attitude, if displaced, without corrective action of the pilot is called",
+    "answers": [
+      "balance.",
+      "instability.",
+      "equilibrium.",
+      "stability."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The _______ is the term used to describe the complete structure of an airplane, including the fuel tanks and lines, but without engine(s) and instruments installed.",
+    "answers": [
+      "airframe",
+      "empennage",
+      "fuselage",
+      "canard"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "Some wings are constructed with no external bracing at all. These are known as _______ wings.",
+    "answers": [
+      "low wing",
+      "cantilever",
+      "monocoque",
+      "internally braced wings"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "______ should be used in order to gain the most altitude in a given amount of time.",
+    "answers": [
+      "Best angle of climb",
+      "Best rate of climb",
+      "Best climbing configuration",
+      "Best climb time"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "______ refers to the shape of the wing as seen from directly above.",
+    "answers": [
+      "Top view",
+      "Plan form",
+      "Form view",
+      "Wing view"
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The lift drag ratio is determined by",
+    "answers": [
+      "dividing the live load by the dead load.",
+      "dividing the lift coefficient by the drag coefficient.",
+      "dividing performance by endurance.",
+      "dividing the drag coefficient by the lift coefficient."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The initial tendency of an aircraft to return to its original position is known as",
+    "answers": [
+      "neutral stability.",
+      "dynamic stability.",
+      "directional stability.",
+      "static stability."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Flying Scholarship PIP"
+  },
+  {
+    "question": "The published stalling speed for a glider is 30mph, the glider will stall",
+    "answers": [
+      "only if the indicated airspeed drops to 30mph, or below.",
+      "whenever the angle of attack exceeds the stalling angle.",
+      "only if the controls are fully crossed at low speed.",
+      "only if the nose is held way above the horizon."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Flaps are high lift devices which, in effect, increase the camber of the wing. Their essential function is to",
+    "answers": [
+      "flatten the glide and increase the glide speed.",
+      "steepen the glide angle and increase the glide speed.",
+      "flatten the glide angle without increasing the glide speed.",
+      "steepen the glide angle and decrease the landing speed."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "Wich control surfaces provide lateral control?",
+    "answers": [
+      "Ailerons",
+      "Stabilator",
+      "Rudders",
+      "Elevators"
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The five distinct types of stress imposed on an aircraft are",
+    "answers": [
+      "shearing, bending, tension, torsion, and stretching.",
+      "tension, shearing, loading, compression, and torsion.",
+      "bending, tension, shearing, torsion, and compression.",
+      "compression, tension, torsion, straining, and bending."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The type of construction which consists of a series of round or oval formers or bulkheads held together by stringers is called",
+    "answers": [
+      "truss type.",
+      "composite.",
+      "stressed frame.",
+      "monocoque."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The main member of a wing is called the",
+    "answers": [
+      "leading edge.",
+      "rib.",
+      "spar.",
+      "wing root."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "If an aircraft has flaps, they will be located",
+    "answers": [
+      "between the landing gear.",
+      "on the outside edge fo the wings.",
+      "on the trailing edge of the wings closest to the fuselage.",
+      "on the trailing edge of the wings, closest to the wing tips."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The tail draggers have several big advantages over tricycle gear. One of these is",
+    "answers": [
+      "ground looping tendencies are reduced.",
+      "more clearance for the propeller.",
+      "greater controllability on the ground in cross wind conditions.",
+      "better ground visibility."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The primary function of the fuselage is to provide",
+    "answers": [
+      "a means of carrying crew, freight, or passengers.",
+      "space for fuel storage.",
+      "an attachment point for the ailerons.",
+      "lift."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
+  },
+  {
+    "question": "The primary control surfaces are",
+    "answers": [
+      "ailerons, flaps, and trim tabs.",
+      "elevators, rudder, and trim tabs.",
+      "fin, rudder, and elevator.",
+      "ailerons, rudder, and elevator."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "Sample National Exam"
   }
 ]

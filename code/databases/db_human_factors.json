@@ -48,30 +48,6 @@
     "questionSource": "From the ground up, 2011"
   },
   {
-    "question": "The maximum height a pilot may operate an aircraft for extended periods without oxygen is",
-    "answers": [
-      "10,000 feet.",
-      "9,000 feet.",
-      "13,000 feet.",
-      "11,500 feet."
-    ],
-    "correctAnswerIndex": 0,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011, page 310"
-  },
-  {
-    "question": "A pilot may operate an aircraft without oxygen",
-    "answers": [
-      "at any altitude provided they are althletically fit.",
-      "at no more than 12,000 feet.",
-      "between 10,000 feet and 13,000 feet for no more than 1 hour",
-      "between 10,000 feet and 13,000 feet for no more than 30 minutes."
-    ],
-    "correctAnswerIndex": 3,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011, page 310"
-  },
-  {
     "question": "Susceptibility to carbon monoxide poisoning",
     "answers": [
       "increases with speed.",
@@ -192,18 +168,6 @@
     "questionSource": "From the ground up, 2011, page 317"
   },
   {
-    "question": "A pilot is required to allow at least _ hours between the consumption of alcohol and piloting an airplane",
-    "answers": [
-      "6",
-      "10",
-      "8",
-      "24"
-    ],
-    "correctAnswerIndex": 2,
-    "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011, page 317"
-  },
-  {
     "question": "If a pilot has made a blood donation it is recommended that you wait at least ____ hours before flying",
     "answers": [
       "8",
@@ -216,15 +180,280 @@
     "questionSource": "From the ground up, 2011, page 317"
   },
   {
-    "question": "Pilots may continue to fly while pregnant up to",
+    "question": "At high altitude, a pilot is susceptible to hypoxia.  Hypoxia is",
     "answers": [
-      "1 week before the due date.",
-      "32 weeks into the pregnancy.",
-      "never.",
-      "30 weeks into the pregnancy."
+      "excess carbon monoxide in the haemoglobin.",
+      "imbalance of oxygen and carbon dioxide in the body system.",
+      "spatial disorientation",
+      "lack of sufficient oxygen in the body cells."
     ],
     "correctAnswerIndex": 3,
     "correctAnswerText": "Correct!",
-    "questionSource": "From the ground up, 2011, page 318"
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "To prevent hypoxia, a pilot should",
+    "answers": [
+      "use oxygen above 5,000 feet ASL during daytime.",
+      "breathe into a paper bag.",
+      "use oxygen above 5,000 feet ASL at night.",
+      "open the windows and air vents on the airplane."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Decompression sickness",
+    "answers": [
+      "is caused when nitrogen comes out of solution and forms bubbles.",
+      "is caused by breathing ozone when flying at high altitudes.",
+      "causes severe equilibrium problems.",
+      "is not aggravated bya  severe obesity problem."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "You are breathing abnormally and showing symptoms similar to hypoxia at a low altitude where hypoxia would not be a consideration. What are you likely to be suffering from?",
+    "answers": [
+      "Fatigue.",
+      "Hypoxia.",
+      "Anoxia.",
+      "Hyperventilation."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the function of the eustachian tube?",
+    "answers": [
+      "To allow the middle ear to drain freely.",
+      "To allow the middle ear to equalize with ambient pressure.",
+      "To allow the inner ear to equalize with ambient pressure.",
+      "To allow the inner ear to drain freely."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What is the approximate time required to eliminate 1 unit of alcohol from the blood?",
+    "answers": [
+      "30 minutes.",
+      "60 minutes.",
+      "90 minutes.",
+      "120 minutes."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "A tobacco smoker, compared to a non-smoker, is subjected to altitudes at which the onset of hypoxia is likely. What will probably be the experience of the smoker?",
+    "answers": [
+      "Initial symptoms will be experienced at a lower cabin altitude.",
+      "Initial symptoms will be experienced at a higher cabin altitude.",
+      "Initial symptoms will be experienced at the same cabin altitude.",
+      "Initial symptoms will be experienced at the same cabin altitude, but worse."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are suffering from a common cold. What is the most likely event whilst flying?",
+    "answers": [
+      "The reduced pressure whilst flying will ease any discomfort caused by the infection.",
+      "Changes in pressure are likely to cause discomfort.",
+      "There should be no effects whilst flying.",
+      "You may feel a little dizzy but may ignore the symptoms and continue to fly."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "You are on medication, the effects of which you are unsure. What is the correct thing to do?",
+    "answers": [
+      "Continue to fly.",
+      "Do not take the medication whilst airborne.",
+      "Wait a while after taking the medication to see if there is any reason not to fly.",
+      "Do not fly. If in doubt seek medical advice."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  }
+  ,
+  {
+    "question": "What does hyperventilation lead to?",
+    "answers": [
+      "A shortage of oxygen.",
+      "Blackouts.",
+      "Greyouts.",
+      "An excess of oxygen."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What effects will cigarette smoking have on a pilot?",
+    "answers": [
+      "It will reduce the amount of oxygen in the blood.",
+      "It will increase the amount of oxygen in the blood.",
+      "It will increase the pilots decision time.",
+      "It will increase the pilots awareness."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What name is given when the body is suffering from low temperatures?",
+    "answers": [
+      "Hypoxia.",
+      "Hypothermia.",
+      "Hypoglycaemic.",
+      "Anoxia."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the amount of oxygen that diffuses across the lung membranes when at high altitudes?",
+    "answers": [
+      "It remains the same.",
+      "It increases.",
+      "It reduces due to temperature reductions.",
+      "It reduces due to pressure reductions."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "What happens to the percentage content of oxygen in the air as altitude increases?",
+    "answers": [
+      "It decreases due to decrease in temperature.",
+      "It increases.",
+      "It remains the same.",
+      "It decreases due to decrease in pressure."
+    ],
+    "correctAnswerIndex": 2,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "The respiratory process is governed by chemical receptors in the brain which monitor the levels of oxygen and carbon dioxide. Which of the following is the most accurate statement with respect to a healthy body?",
+    "answers": [
+      "The body is more sensitive to changes in oxygen than carbon dioxide.",
+      "The body is more sensitive to changes in carbon dioxide than oxygen.",
+      "The body is more sensitive to changes in the gas registering the least amount.",
+      "The body is more sensitive to changes in the gas registering the largest amount."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Which of the following list of signs and symptoms are associated with hypoxia? 1. Personality changes. 2. Impaired judgement. 3. Muscular impairment. 4. Memory impairment. 5. Sensory loss. 6. Impairment of consciousness.",
+    "answers": [
+      "Items 1 and 2 only.",
+      "Items 1 to 3 only.",
+      "Items 1 to 4 only.",
+      "All of the above items."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "Lack of oxygen may cause a particularly dramatic effect in a pilot. What is this known as?",
+    "answers": [
+      "Anoxia.",
+      "Hypoxia.",
+      "Suffocation.",
+      "Hyperventilation."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "The British Soaring Association: Bronze Certificate Confuser"
+  },
+  {
+    "question": "One alcoholic drink taken at 5,000  feet as compared to the same drink taken at sea level.",
+    "answers": [
+      "has a lesser effect.",
+      "has a greater effect.",
+      "has no appreciable difference in effect.",
+      "increases the chance of coriolis effect."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Which of the following statements pertaining to the use of alcohol is true?",
+    "answers": [
+      "Relatively small amounts of alcohol significantly decrease a pilot's tolerance of hypoxia.",
+      "Small amounts of alcohol will not affect a pilot's judgement.",
+      "The effects of alcohol are constant regardless of altitude.",
+      "Coffee accelerates the body's ability to recover from the effects of alcohol."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Select the statement that best describes the effects of fatigue.",
+    "answers": [
+      "Financial or family problems do not influence fatigue.",
+      "Fatigue slows reaction time and contributes to errors.",
+      "a fatigued person recuperates more quickly as the altitude is gained.",
+      "A fatigued person must have food immediately before and during a flight."
+    ],
+    "correctAnswerIndex": 1,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "After any underwater activity where compresed air is used for respiration and decompression stops are required during the ascent to the surface, it is recommended that within 24 hours following such activity a pilot should",
+    "answers": [
+      "not fly.",
+      "restrict flight to altitudes of less than 7,000 feet.",
+      "restrict rates of climb and descent to less than 300 feet per minute.",
+      "restrict flight to passenger status only."
+    ],
+    "correctAnswerIndex": 0,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "Many common drugs such as cold tablets, cough mixtures, antihistamines and other over the counter remedies may serisouly impair the judgement and coco-ordination needed while flying.  The safest rule is to",
+    "answers": [
+      "read the manufacturer's warning to ensure that you are aware of possible reactions to such drugs.",
+      "allow at least 8 hours between taking any medicine or drug and flying.",
+      "allow at least 48 hours after commencing medication.",
+      "restrict flight to passenger status only."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
+  },
+  {
+    "question": "A condition in which there is a lowering of the temperature of the body's core is called",
+    "answers": [
+      "hyperventilation.",
+      "hypoglycaemia.",
+      "coriolis effect.",
+      "hypothermia."
+    ],
+    "correctAnswerIndex": 3,
+    "correctAnswerText": "Correct!",
+    "questionSource": "From the ground up, 2011"
   }
 ]
