@@ -3,7 +3,12 @@ A python exam generator to aid in studying for Canadian Glider Pilots Exams.  Tw
 command line interface or a simple python GUI.  The GUI was designed with Tkinter and requires no external packages to
 run.  Both interfaces work the same and will create the same tests.
 
+## Requirements
+
+ * Python 2.7.15+
+
 ## Usage
+
 ### Unix and Linux Systems
 The exam generator can be easily be run by simply running the main.py script:
 ```
